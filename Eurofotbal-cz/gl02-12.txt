@@ -1,0 +1,2400 @@
+2002-2003,24.07.2002,?,Sparta Praha,FK Teplice,1:0
+2002-2003,27.07.2002,?,Sigma Olomouc,Slovan Liberec,0:0
+2002-2003,28.07.2002,?,Chmel Blšany,Viktoria Žižkov,1:1
+2002-2003,28.07.2002,?,Tescoma Zlín,Baník Ostrava,1:1
+2002-2003,28.07.2002,?,1. FK Příbram,1. FC Brno,0:0
+2002-2003,28.07.2002,?,Bohemians 1905,České Budějovice,2:3
+2002-2003,29.07.2002,?,FC Hradec Králové,Slavia Praha,1:1
+2002-2003,31.07.2002,?,FK Jablonec,1. FC Slovácko,2:1
+2002-2003,03.08.2002,?,České Budějovice,Sparta Praha,1:3
+2002-2003,04.08.2002,?,FK Jablonec,1. FK Příbram,1:0
+2002-2003,04.08.2002,?,Chmel Blšany,FC Hradec Králové,1:0
+2002-2003,04.08.2002,?,1. FC Slovácko,Sigma Olomouc,1:1
+2002-2003,04.08.2002,?,1. FC Brno,Slovan Liberec,0:1
+2002-2003,04.08.2002,?,Baník Ostrava,FK Teplice,5:1
+2002-2003,04.08.2002,?,Viktoria Žižkov,Tescoma Zlín,1:0
+2002-2003,05.08.2002,?,Slavia Praha,Bohemians 1905,4:1
+2002-2003,10.08.2002,?,Slovan Liberec,1. FC Slovácko,2:0
+2002-2003,10.08.2002,?,Sparta Praha,Baník Ostrava,3:0
+2002-2003,11.08.2002,?,FC Hradec Králové,Viktoria Žižkov,2:3
+2002-2003,11.08.2002,?,Tescoma Zlín,FK Jablonec,1:1
+2002-2003,11.08.2002,?,Sigma Olomouc,Chmel Blšany,1:0
+2002-2003,11.08.2002,?,Bohemians 1905,1. FC Brno,2:3
+2002-2003,11.08.2002,?,FK Teplice,České Budějovice,2:1
+2002-2003,23.08.2002,?,Sparta Praha,1. FC Slovácko,3:0
+2002-2003,24.08.2002,?,Bohemians 1905,Slovan Liberec,0:1
+2002-2003,24.08.2002,?,FK Teplice,Slavia Praha,1:3
+2002-2003,25.08.2002,?,FK Jablonec,Viktoria Žižkov,2:1
+2002-2003,25.08.2002,?,Tescoma Zlín,FC Hradec Králové,1:1
+2002-2003,25.08.2002,?,1. FK Příbram,Chmel Blšany,1:2
+2002-2003,25.08.2002,?,Sigma Olomouc,1. FC Brno,1:2
+2002-2003,26.08.2002,?,České Budějovice,Baník Ostrava,2:1
+2002-2003,28.08.2002,?,1. FK Příbram,Slavia Praha,2:1
+2002-2003,31.08.2002,?,1. FC Brno,Sparta Praha,1:2
+2002-2003,01.09.2002,?,Viktoria Žižkov,Sigma Olomouc,2:2
+2002-2003,01.09.2002,?,Slavia Praha,Tescoma Zlín,5:1
+2002-2003,01.09.2002,?,Baník Ostrava,1. FK Příbram,1:0
+2002-2003,01.09.2002,?,1. FC Slovácko,České Budějovice,2:0
+2002-2003,01.09.2002,?,FC Hradec Králové,Bohemians 1905,1:1
+2002-2003,01.09.2002,?,Chmel Blšany,FK Jablonec,0:0
+2002-2003,02.09.2002,?,Slovan Liberec,FK Teplice,2:1
+2002-2003,14.09.2002,?,Sparta Praha,Chmel Blšany,1:1
+2002-2003,14.09.2002,?,FK Teplice,Viktoria Žižkov,2:1
+2002-2003,14.09.2002,?,České Budějovice,Slavia Praha,1:3
+2002-2003,15.09.2002,?,1. FC Slovácko,1. FC Brno,3:2
+2002-2003,15.09.2002,?,Bohemians 1905,Baník Ostrava,2:1
+2002-2003,15.09.2002,?,Sigma Olomouc,FC Hradec Králové,1:1
+2002-2003,15.09.2002,?,1. FK Příbram,Tescoma Zlín,2:1
+2002-2003,16.09.2002,?,FK Jablonec,Slovan Liberec,3:3
+2002-2003,22.09.2002,?,Viktoria Žižkov,1. FK Příbram,0:0
+2002-2003,22.09.2002,?,Baník Ostrava,1. FC Slovácko,1:0
+2002-2003,22.09.2002,?,1. FC Brno,FK Teplice,1:2
+2002-2003,22.09.2002,?,Tescoma Zlín,Sigma Olomouc,2:1
+2002-2003,22.09.2002,?,FC Hradec Králové,FK Jablonec,0:0
+2002-2003,22.09.2002,?,Chmel Blšany,Bohemians 1905,1:3
+2002-2003,23.09.2002,?,Slovan Liberec,České Budějovice,5:1
+2002-2003,23.09.2002,?,Slavia Praha,Sparta Praha,0:0
+2002-2003,28.09.2002,?,Sparta Praha,1. FK Příbram,0:0
+2002-2003,29.09.2002,?,1. FC Brno,Chmel Blšany,1:0
+2002-2003,29.09.2002,?,1. FC Slovácko,Slavia Praha,0:0
+2002-2003,29.09.2002,?,České Budějovice,Viktoria Žižkov,0:1
+2002-2003,29.09.2002,?,FK Teplice,FC Hradec Králové,2:0
+2002-2003,29.09.2002,?,Slovan Liberec,Baník Ostrava,0:2
+2002-2003,29.09.2002,?,Bohemians 1905,Tescoma Zlín,1:1
+2002-2003,30.09.2002,?,Sigma Olomouc,FK Jablonec,3:0
+2002-2003,06.10.2002,?,Baník Ostrava,1. FC Brno,2:1
+2002-2003,06.10.2002,?,1. FK Příbram,Sigma Olomouc,1:0
+2002-2003,06.10.2002,?,Tescoma Zlín,FK Teplice,1:0
+2002-2003,06.10.2002,?,Chmel Blšany,České Budějovice,2:0
+2002-2003,06.10.2002,?,FK Jablonec,Bohemians 1905,3:1
+2002-2003,07.10.2002,?,FC Hradec Králové,Sparta Praha,0:2
+2002-2003,07.10.2002,?,Slavia Praha,Slovan Liberec,1:0
+2002-2003,07.10.2002,?,Viktoria Žižkov,1. FC Slovácko,2:0
+2002-2003,19.10.2002,?,Sparta Praha,Viktoria Žižkov,2:0
+2002-2003,20.10.2002,?,1. FC Brno,FC Hradec Králové,0:0
+2002-2003,20.10.2002,?,1. FC Slovácko,Tescoma Zlín,3:1
+2002-2003,20.10.2002,?,České Budějovice,FK Jablonec,4:1
+2002-2003,20.10.2002,?,FK Teplice,1. FK Příbram,2:0
+2002-2003,20.10.2002,?,Slovan Liberec,Chmel Blšany,3:1
+2002-2003,20.10.2002,?,Bohemians 1905,Sigma Olomouc,0:0
+2002-2003,21.10.2002,?,Baník Ostrava,Slavia Praha,1:1
+2002-2003,26.10.2002,?,FK Jablonec,Sparta Praha,0:2
+2002-2003,26.10.2002,?,Viktoria Žižkov,Slovan Liberec,4:0
+2002-2003,27.10.2002,?,Slavia Praha,1. FC Brno,2:0
+2002-2003,27.10.2002,?,Sigma Olomouc,FK Teplice,0:1
+2002-2003,27.10.2002,?,Tescoma Zlín,České Budějovice,1:2
+2002-2003,27.10.2002,?,FC Hradec Králové,1. FC Slovácko,1:1
+2002-2003,27.10.2002,?,Chmel Blšany,Baník Ostrava,1:0
+2002-2003,28.10.2002,?,1. FK Příbram,Bohemians 1905,4:1
+2002-2003,02.11.2002,?,1. FC Brno,Viktoria Žižkov,4:1
+2002-2003,03.11.2002,?,České Budějovice,Sigma Olomouc,3:1
+2002-2003,03.11.2002,?,FK Teplice,FK Jablonec,3:0
+2002-2003,03.11.2002,?,Baník Ostrava,FC Hradec Králové,4:0
+2002-2003,03.11.2002,?,1. FC Slovácko,1. FK Příbram,1:0
+2002-2003,04.11.2002,?,Sparta Praha,Bohemians 1905,3:0
+2002-2003,04.11.2002,?,Slovan Liberec,Tescoma Zlín,2:0
+2002-2003,04.11.2002,?,Slavia Praha,Chmel Blšany,2:0
+2002-2003,09.11.2002,?,Sigma Olomouc,Sparta Praha,0:2
+2002-2003,10.11.2002,?,Viktoria Žižkov,Slavia Praha,0:4
+2002-2003,10.11.2002,?,1. FK Příbram,České Budějovice,2:0
+2002-2003,10.11.2002,?,Tescoma Zlín,1. FC Brno,2:1
+2002-2003,10.11.2002,?,FC Hradec Králové,Slovan Liberec,3:2
+2002-2003,10.11.2002,?,Chmel Blšany,1. FC Slovácko,1:2
+2002-2003,11.11.2002,?,Bohemians 1905,FK Teplice,2:3
+2002-2003,16.11.2002,?,FK Teplice,Chmel Blšany,1:0
+2002-2003,17.11.2002,?,Slavia Praha,Sigma Olomouc,1:0
+2002-2003,17.11.2002,?,Sparta Praha,Tescoma Zlín,0:1
+2002-2003,17.11.2002,?,Baník Ostrava,Viktoria Žižkov,0:1
+2002-2003,17.11.2002,?,1. FC Slovácko,Bohemians 1905,3:1
+2002-2003,17.11.2002,?,České Budějovice,FC Hradec Králové,2:1
+2002-2003,17.11.2002,?,Slovan Liberec,1. FK Příbram,2:0
+2002-2003,18.11.2002,?,1. FC Brno,FK Jablonec,1:0
+2002-2003,23.11.2002,?,Slovan Liberec,Sparta Praha,1:2
+2002-2003,24.11.2002,?,Viktoria Žižkov,Bohemians 1905,3:2
+2002-2003,24.11.2002,?,1. FC Brno,České Budějovice,0:0
+2002-2003,24.11.2002,?,FC Hradec Králové,1. FK Příbram,2:2
+2002-2003,24.11.2002,?,Baník Ostrava,Sigma Olomouc,2:1
+2002-2003,24.11.2002,?,1. FC Slovácko,FK Teplice,1:1
+2002-2003,24.11.2002,?,Chmel Blšany,Tescoma Zlín,2:1
+2002-2003,25.11.2002,?,Slavia Praha,FK Jablonec,1:1
+2002-2003,28.11.2002,?,FK Jablonec,Baník Ostrava,2:2
+2002-2003,15.02.2003,?,FK Teplice,Sparta Praha,1:0
+2002-2003,16.02.2003,?,1. FC Slovácko,FK Jablonec,1:0
+2002-2003,16.02.2003,?,České Budějovice,Bohemians 1905,3:3
+2002-2003,16.02.2003,?,Slovan Liberec,Sigma Olomouc,2:1
+2002-2003,16.02.2003,?,1. FC Brno,1. FK Příbram,1:1
+2002-2003,16.02.2003,?,Baník Ostrava,Tescoma Zlín,2:2
+2002-2003,16.02.2003,?,Slavia Praha,FC Hradec Králové,4:0
+2002-2003,16.02.2003,?,Viktoria Žižkov,Chmel Blšany,1:0
+2002-2003,22.02.2003,?,Slovan Liberec,1. FC Brno,1:0
+2002-2003,23.02.2003,?,1. FK Příbram,FK Jablonec,1:1
+2002-2003,23.02.2003,?,FC Hradec Králové,Chmel Blšany,1:3
+2002-2003,23.02.2003,?,FK Teplice,Baník Ostrava,0:1
+2002-2003,23.02.2003,?,Bohemians 1905,Slavia Praha,1:1
+2002-2003,23.02.2003,?,Tescoma Zlín,Viktoria Žižkov,0:2
+2002-2003,24.02.2003,?,Sparta Praha,České Budějovice,1:0
+2002-2003,01.03.2003,?,Baník Ostrava,Sparta Praha,3:2
+2002-2003,02.03.2003,?,České Budějovice,FK Teplice,0:0
+2002-2003,02.03.2003,?,1. FC Brno,Bohemians 1905,1:1
+2002-2003,02.03.2003,?,1. FC Slovácko,Slovan Liberec,3:1
+2002-2003,02.03.2003,?,Chmel Blšany,Sigma Olomouc,1:2
+2002-2003,02.03.2003,?,FK Jablonec,Tescoma Zlín,2:2
+2002-2003,02.03.2003,?,Viktoria Žižkov,FC Hradec Králové,1:1
+2002-2003,03.03.2003,?,Slavia Praha,1. FK Příbram,3:1
+2002-2003,08.03.2003,14:25,Sparta Praha,Slovan Liberec,5:0
+2002-2003,09.03.2003,14:30,Bohemians 1905,Viktoria Žižkov,3:2
+2002-2003,09.03.2003,14:30,FK Jablonec,Slavia Praha,1:1
+2002-2003,09.03.2003,14:30,České Budějovice,1. FC Brno,2:1
+2002-2003,09.03.2003,14:30,Tescoma Zlín,Chmel Blšany,1:0
+2002-2003,09.03.2003,16:30,FK Teplice,1. FC Slovácko,0:0
+2002-2003,09.03.2003,16:30,1. FK Příbram,FC Hradec Králové,5:0
+2002-2003,10.03.2003,16:40,Sigma Olomouc,Baník Ostrava,1:0
+2002-2003,15.03.2003,14:25,Slavia Praha,FK Teplice,3:1
+2002-2003,16.03.2003,10:15,Viktoria Žižkov,FK Jablonec,2:1
+2002-2003,16.03.2003,15:00,Baník Ostrava,České Budějovice,1:0
+2002-2003,16.03.2003,15:00,1. FC Slovácko,Sparta Praha,0:1
+2002-2003,16.03.2003,15:00,Chmel Blšany,1. FK Příbram,4:3
+2002-2003,16.03.2003,16:30,1. FC Brno,Sigma Olomouc,0:0
+2002-2003,16.03.2003,16:30,FC Hradec Králové,Tescoma Zlín,1:1
+2002-2003,17.03.2003,16:40,Slovan Liberec,Bohemians 1905,2:0
+2002-2003,19.03.2003,17:00,Sigma Olomouc,1. FC Slovácko,2:1
+2002-2003,22.03.2003,14:25,Tescoma Zlín,Slavia Praha,1:1
+2002-2003,23.03.2003,15:00,České Budějovice,1. FC Slovácko,2:1
+2002-2003,23.03.2003,15:00,FK Jablonec,Chmel Blšany,2:1
+2002-2003,23.03.2003,15:00,Bohemians 1905,FC Hradec Králové,3:1
+2002-2003,23.03.2003,16:30,1. FK Příbram,Baník Ostrava,2:1
+2002-2003,23.03.2003,16:30,Sigma Olomouc,Viktoria Žižkov,0:0
+2002-2003,23.03.2003,20:00,Sparta Praha,1. FC Brno,1:0
+2002-2003,24.03.2003,16:40,FK Teplice,Slovan Liberec,2:1
+2002-2003,05.04.2003,14:25,Chmel Blšany,Sparta Praha,1:2
+2002-2003,06.04.2003,14:30,FC Hradec Králové,Sigma Olomouc,2:1
+2002-2003,06.04.2003,16:30,1. FC Brno,1. FC Slovácko,4:1
+2002-2003,06.04.2003,16:30,Slavia Praha,České Budějovice,6:1
+2002-2003,06.04.2003,16:30,Slovan Liberec,FK Jablonec,2:0
+2002-2003,06.04.2003,16:30,Tescoma Zlín,1. FK Příbram,1:0
+2002-2003,06.04.2003,16:30,Baník Ostrava,Bohemians 1905,2:0
+2002-2003,07.04.2003,16:40,Viktoria Žižkov,FK Teplice,2:0
+2002-2003,12.04.2003,14:25,Sparta Praha,Slavia Praha,2:0
+2002-2003,13.04.2003,16:30,FK Teplice,1. FC Brno,1:1
+2002-2003,13.04.2003,16:30,1. FC Slovácko,Baník Ostrava,3:1
+2002-2003,13.04.2003,16:30,České Budějovice,Slovan Liberec,3:3
+2002-2003,13.04.2003,16:30,Sigma Olomouc,Tescoma Zlín,1:0
+2002-2003,13.04.2003,16:30,FK Jablonec,FC Hradec Králové,0:0
+2002-2003,13.04.2003,16:30,Bohemians 1905,Chmel Blšany,0:0
+2002-2003,14.04.2003,16:40,1. FK Příbram,Viktoria Žižkov,1:0
+2002-2003,19.04.2003,14:25,1. FK Příbram,Sparta Praha,2:2
+2002-2003,20.04.2003,10:15,Viktoria Žižkov,České Budějovice,1:0
+2002-2003,20.04.2003,16:30,Chmel Blšany,1. FC Brno,0:1
+2002-2003,20.04.2003,16:30,FC Hradec Králové,FK Teplice,0:0
+2002-2003,20.04.2003,16:30,Baník Ostrava,Slovan Liberec,0:1
+2002-2003,20.04.2003,16:30,Tescoma Zlín,Bohemians 1905,1:0
+2002-2003,20.04.2003,16:30,FK Jablonec,Sigma Olomouc,0:0
+2002-2003,21.04.2003,16:40,Slavia Praha,1. FC Slovácko,3:1
+2002-2003,26.04.2003,14:25,Slovan Liberec,Slavia Praha,0:0
+2002-2003,26.04.2003,17:00,1. FC Brno,Baník Ostrava,1:0
+2002-2003,26.04.2003,17:00,Sigma Olomouc,1. FK Příbram,0:0
+2002-2003,26.04.2003,17:00,FK Teplice,Tescoma Zlín,1:2
+2002-2003,26.04.2003,17:00,České Budějovice,Chmel Blšany,0:0
+2002-2003,26.04.2003,17:00,Bohemians 1905,FK Jablonec,1:1
+2002-2003,26.04.2003,20:00,Sparta Praha,FC Hradec Králové,2:0
+2002-2003,28.04.2003,16:40,1. FC Slovácko,Viktoria Žižkov,1:2
+2002-2003,03.05.2003,14:25,Viktoria Žižkov,Sparta Praha,2:0
+2002-2003,04.05.2003,16:30,1. FK Příbram,FK Teplice,2:1
+2002-2003,04.05.2003,16:30,FC Hradec Králové,1. FC Brno,0:1
+2002-2003,04.05.2003,16:30,Tescoma Zlín,1. FC Slovácko,3:0
+2002-2003,04.05.2003,16:30,FK Jablonec,České Budějovice,1:0
+2002-2003,04.05.2003,16:30,Chmel Blšany,Slovan Liberec,1:1
+2002-2003,04.05.2003,16:30,Sigma Olomouc,Bohemians 1905,3:1
+2002-2003,05.05.2003,16:40,Slavia Praha,Baník Ostrava,7:0
+2002-2003,10.05.2003,14:25,1. FC Brno,Slavia Praha,0:0
+2002-2003,11.05.2003,16:30,1. FC Slovácko,FC Hradec Králové,5:0
+2002-2003,11.05.2003,16:30,FK Teplice,Sigma Olomouc,3:1
+2002-2003,11.05.2003,16:30,Bohemians 1905,1. FK Příbram,0:0
+2002-2003,11.05.2003,16:30,České Budějovice,Tescoma Zlín,1:2
+2002-2003,11.05.2003,16:30,Baník Ostrava,Chmel Blšany,3:1
+2002-2003,11.05.2003,19:30,Sparta Praha,FK Jablonec,2:0
+2002-2003,12.05.2003,16:40,Slovan Liberec,Viktoria Žižkov,0:0
+2002-2003,17.05.2003,14:25,Bohemians 1905,Sparta Praha,0:3k
+2002-2003,18.05.2003,10:15,Viktoria Žižkov,1. FC Brno,1:1
+2002-2003,18.05.2003,16:30,Chmel Blšany,Slavia Praha,1:2
+2002-2003,18.05.2003,16:30,FC Hradec Králové,Baník Ostrava,1:1
+2002-2003,18.05.2003,16:30,1. FK Příbram,1. FC Slovácko,0:0
+2002-2003,18.05.2003,16:30,Sigma Olomouc,České Budějovice,4:2
+2002-2003,18.05.2003,16:30,FK Jablonec,FK Teplice,0:0
+2002-2003,19.05.2003,16:40,Tescoma Zlín,Slovan Liberec,1:1
+2002-2003,24.05.2003,14:25,Slovan Liberec,FC Hradec Králové,3:1
+2002-2003,24.05.2003,14:25,Slavia Praha,Viktoria Žižkov,3:0
+2002-2003,24.05.2003,14:25,FK Teplice,Bohemians 1905,0:1
+2002-2003,24.05.2003,14:25,Sparta Praha,Sigma Olomouc,1:1
+2002-2003,24.05.2003,14:25,České Budějovice,1. FK Příbram,1:1
+2002-2003,24.05.2003,14:25,1. FC Brno,Tescoma Zlín,5:0
+2002-2003,24.05.2003,14:25,1. FC Slovácko,Chmel Blšany,2:2
+2002-2003,24.05.2003,14:25,Baník Ostrava,FK Jablonec,2:0
+2002-2003,31.05.2003,14:25,Sigma Olomouc,Slavia Praha,0:2
+2002-2003,31.05.2003,14:25,Viktoria Žižkov,Baník Ostrava,1:1
+2002-2003,31.05.2003,14:25,FK Jablonec,1. FC Brno,4:1
+2002-2003,31.05.2003,14:25,Bohemians 1905,1. FC Slovácko,1:2
+2002-2003,31.05.2003,14:25,FC Hradec Králové,České Budějovice,2:1
+2002-2003,31.05.2003,14:25,Chmel Blšany,FK Teplice,0:1
+2002-2003,31.05.2003,14:25,Tescoma Zlín,Sparta Praha,2:1
+2002-2003,31.05.2003,14:25,1. FK Příbram,Slovan Liberec,1:1
+2003-2004,26.07.2003,14:25,FK Teplice,Sparta Praha,1:1
+2003-2004,26.07.2003,17:15,1. FK Příbram,FK Jablonec,4:1
+2003-2004,26.07.2003,17:15,Sigma Olomouc,Tescoma Zlín,2:0
+2003-2004,26.07.2003,17:15,Slavia Praha,Viktoria Žižkov,2:0
+2003-2004,28.07.2003,16:40,Baník Ostrava,České Budějovice,3:1
+2003-2004,02.08.2003,14:25,Chmel Blšany,Slavia Praha,0:2
+2003-2004,02.08.2003,17:15,1. FC Brno,1. FC Slovácko,3:1
+2003-2004,02.08.2003,17:15,FK Jablonec,Sigma Olomouc,0:2
+2003-2004,02.08.2003,17:15,Sparta Praha,SFC Opava,4:0
+2003-2004,02.08.2003,17:15,Baník Ostrava,Slovan Liberec,1:1
+2003-2004,02.08.2003,17:15,Viktoria Plzeň,Viktoria Žižkov,0:2
+2003-2004,04.08.2003,16:40,FK Teplice,1. FK Příbram,1:0
+2003-2004,04.08.2003,19:00,Tescoma Zlín,České Budějovice,2:0
+2003-2004,09.08.2003,14:25,1. FK Příbram,Sparta Praha,0:0
+2003-2004,09.08.2003,17:15,Slovan Liberec,Viktoria Plzeň,3:1
+2003-2004,09.08.2003,17:15,1. FC Slovácko,Baník Ostrava,0:2
+2003-2004,09.08.2003,17:15,SFC Opava,FK Jablonec,1:1
+2003-2004,09.08.2003,19:35,Slavia Praha,Tescoma Zlín,2:0
+2003-2004,10.08.2003,17:00,Viktoria Žižkov,Chmel Blšany,2:0
+2003-2004,10.08.2003,17:00,České Budějovice,1. FC Brno,0:2
+2003-2004,11.08.2003,16:40,Sigma Olomouc,FK Teplice,1:3
+2003-2004,12.08.2003,17:15,1. FC Slovácko,Viktoria Plzeň,2:2
+2003-2004,13.08.2003,17:15,Slovan Liberec,Chmel Blšany,1:0
+2003-2004,13.08.2003,17:15,1. FC Brno,SFC Opava,2:0
+2003-2004,16.08.2003,14:25,Viktoria Plzeň,Slavia Praha,2:1
+2003-2004,16.08.2003,17:15,FK Jablonec,1. FC Slovácko,1:0
+2003-2004,16.08.2003,17:15,Tescoma Zlín,Slovan Liberec,0:0
+2003-2004,16.08.2003,17:15,Baník Ostrava,Chmel Blšany,5:2
+2003-2004,16.08.2003,17:15,1. FK Příbram,Sigma Olomouc,1:1
+2003-2004,16.08.2003,17:15,FK Teplice,SFC Opava,2:0
+2003-2004,17.08.2003,20:00,1. FC Brno,Viktoria Žižkov,2:1
+2003-2004,18.08.2003,16:40,Sparta Praha,České Budějovice,3:0
+2003-2004,21.08.2003,19:00,Slavia Praha,FK Jablonec,0:0
+2003-2004,22.08.2003,18:00,Sigma Olomouc,Sparta Praha,1:1
+2003-2004,23.08.2003,14:25,Viktoria Žižkov,Baník Ostrava,1:2
+2003-2004,23.08.2003,17:15,SFC Opava,1. FK Příbram,3:2
+2003-2004,23.08.2003,17:15,České Budějovice,FK Teplice,1:1
+2003-2004,23.08.2003,17:15,1. FC Slovácko,Tescoma Zlín,0:0
+2003-2004,23.08.2003,17:15,Chmel Blšany,Viktoria Plzeň,1:2
+2003-2004,25.08.2003,16:40,Slovan Liberec,1. FC Brno,0:0
+2003-2004,30.08.2003,14:25,Sparta Praha,Slavia Praha,0:0
+2003-2004,30.08.2003,17:15,Sigma Olomouc,SFC Opava,3:0
+2003-2004,30.08.2003,17:15,Baník Ostrava,Viktoria Plzeň,2:0
+2003-2004,30.08.2003,17:15,1. FC Brno,Chmel Blšany,1:1
+2003-2004,30.08.2003,17:15,1. FK Příbram,České Budějovice,0:2
+2003-2004,30.08.2003,17:15,FK Teplice,1. FC Slovácko,1:1
+2003-2004,01.09.2003,16:40,FK Jablonec,Slovan Liberec,0:0
+2003-2004,01.09.2003,17:15,Tescoma Zlín,Viktoria Žižkov,3:0
+2003-2004,13.09.2003,14:25,Slovan Liberec,Sparta Praha,2:0
+2003-2004,13.09.2003,17:15,SFC Opava,Tescoma Zlín,2:0
+2003-2004,13.09.2003,17:15,České Budějovice,Sigma Olomouc,2:1
+2003-2004,13.09.2003,17:15,1. FC Slovácko,1. FK Příbram,1:0
+2003-2004,13.09.2003,17:15,Viktoria Plzeň,1. FC Brno,1:1
+2003-2004,13.09.2003,17:15,Chmel Blšany,FK Teplice,2:2
+2003-2004,14.09.2003,17:00,Viktoria Žižkov,FK Jablonec,0:0
+2003-2004,15.09.2003,16:40,Slavia Praha,Baník Ostrava,1:2
+2003-2004,20.09.2003,14:25,1. FK Příbram,Slavia Praha,1:0
+2003-2004,20.09.2003,16:30,Tescoma Zlín,Chmel Blšany,3:1
+2003-2004,20.09.2003,17:15,FK Teplice,Slovan Liberec,2:1
+2003-2004,20.09.2003,17:15,Sigma Olomouc,Viktoria Žižkov,3:0
+2003-2004,20.09.2003,17:15,SFC Opava,České Budějovice,1:0
+2003-2004,20.09.2003,17:15,FK Jablonec,Viktoria Plzeň,1:1
+2003-2004,21.09.2003,18:00,Sparta Praha,1. FC Slovácko,3:1
+2003-2004,22.09.2003,16:40,1. FC Brno,Baník Ostrava,0:0
+2003-2004,27.09.2003,14:25,Chmel Blšany,Sparta Praha,0:4
+2003-2004,27.09.2003,17:15,Baník Ostrava,Tescoma Zlín,3:0
+2003-2004,27.09.2003,17:15,Slovan Liberec,Sigma Olomouc,1:1
+2003-2004,27.09.2003,17:15,1. FC Slovácko,SFC Opava,3:1
+2003-2004,27.09.2003,17:15,České Budějovice,FK Jablonec,3:0
+2003-2004,27.09.2003,17:15,Viktoria Plzeň,1. FK Příbram,0:4
+2003-2004,28.09.2003,16:30,Viktoria Žižkov,FK Teplice,0:1
+2003-2004,29.09.2003,16:40,Slavia Praha,1. FC Brno,4:1
+2003-2004,03.10.2003,17:15,Tescoma Zlín,1. FC Brno,3:2
+2003-2004,04.10.2003,14:25,FK Teplice,Slavia Praha,0:1
+2003-2004,04.10.2003,17:15,FK Jablonec,Baník Ostrava,1:1
+2003-2004,04.10.2003,17:15,České Budějovice,1. FC Slovácko,2:2
+2003-2004,04.10.2003,17:15,SFC Opava,Viktoria Žižkov,1:1
+2003-2004,04.10.2003,17:15,Sigma Olomouc,Chmel Blšany,3:0
+2003-2004,04.10.2003,17:15,1. FK Příbram,Slovan Liberec,2:0
+2003-2004,06.10.2003,16:40,Sparta Praha,Viktoria Plzeň,3:1
+2003-2004,18.10.2003,14:25,Baník Ostrava,1. FK Příbram,3:1
+2003-2004,18.10.2003,17:15,Viktoria Plzeň,Tescoma Zlín,0:0
+2003-2004,18.10.2003,17:15,Chmel Blšany,FK Jablonec,3:1
+2003-2004,18.10.2003,17:15,Slavia Praha,SFC Opava,4:1
+2003-2004,18.10.2003,17:15,Slovan Liberec,České Budějovice,2:1
+2003-2004,18.10.2003,17:15,1. FC Slovácko,Sigma Olomouc,3:2
+2003-2004,19.10.2003,15:30,Viktoria Žižkov,Sparta Praha,0:1
+2003-2004,20.10.2003,16:40,1. FC Brno,FK Teplice,2:1
+2003-2004,25.10.2003,14:25,FK Teplice,Baník Ostrava,1:1
+2003-2004,25.10.2003,17:15,1. FK Příbram,Chmel Blšany,1:2
+2003-2004,25.10.2003,17:15,FK Jablonec,Tescoma Zlín,2:1
+2003-2004,25.10.2003,17:15,1. FC Slovácko,Slovan Liberec,2:1
+2003-2004,25.10.2003,17:15,České Budějovice,Viktoria Žižkov,2:0
+2003-2004,25.10.2003,17:15,SFC Opava,Viktoria Plzeň,2:0
+2003-2004,25.10.2003,17:15,Sigma Olomouc,Slavia Praha,2:0
+2003-2004,27.10.2003,16:40,Sparta Praha,1. FC Brno,1:0
+2003-2004,01.11.2003,14:25,Baník Ostrava,Sigma Olomouc,2:1
+2003-2004,01.11.2003,17:15,Tescoma Zlín,Sparta Praha,1:0
+2003-2004,01.11.2003,17:15,1. FC Brno,FK Jablonec,1:1
+2003-2004,01.11.2003,17:15,Viktoria Plzeň,FK Teplice,2:0
+2003-2004,01.11.2003,17:15,Chmel Blšany,České Budějovice,2:2
+2003-2004,01.11.2003,17:15,Slovan Liberec,SFC Opava,3:1
+2003-2004,02.11.2003,14:00,Viktoria Žižkov,1. FK Příbram,1:0
+2003-2004,03.11.2003,16:40,Slavia Praha,1. FC Slovácko,2:0
+2003-2004,08.11.2003,14:25,Sparta Praha,Baník Ostrava,1:1
+2003-2004,08.11.2003,17:15,1. FC Slovácko,Viktoria Žižkov,4:0
+2003-2004,08.11.2003,17:15,České Budějovice,Viktoria Plzeň,1:0
+2003-2004,08.11.2003,17:15,SFC Opava,Chmel Blšany,2:1
+2003-2004,08.11.2003,17:15,Sigma Olomouc,1. FC Brno,3:1
+2003-2004,08.11.2003,17:15,1. FK Příbram,Tescoma Zlín,2:4
+2003-2004,09.11.2003,17:15,FK Teplice,FK Jablonec,1:1
+2003-2004,10.11.2003,16:40,Slovan Liberec,Slavia Praha,0:1
+2003-2004,16.11.2003,13:30,Viktoria Žižkov,Slavia Praha,0:0
+2003-2004,16.11.2003,17:15,Viktoria Plzeň,1. FC Slovácko,0:1
+2003-2004,21.11.2003,17:15,Slavia Praha,České Budějovice,0:1
+2003-2004,22.11.2003,14:25,FK Jablonec,Sparta Praha,4:2
+2003-2004,22.11.2003,17:15,Tescoma Zlín,FK Teplice,1:0
+2003-2004,22.11.2003,17:15,Viktoria Plzeň,Sigma Olomouc,1:3
+2003-2004,22.11.2003,17:15,Chmel Blšany,1. FC Slovácko,1:3
+2003-2004,22.11.2003,17:15,1. FC Brno,1. FK Příbram,1:1
+2003-2004,23.11.2003,13:30,Viktoria Žižkov,Slovan Liberec,0:1
+2003-2004,24.11.2003,16:40,Baník Ostrava,SFC Opava,4:0
+2003-2004,29.11.2003,17:15,FK Jablonec,1. FK Příbram,0:2
+2003-2004,29.11.2003,17:15,Chmel Blšany,Slovan Liberec,0:2
+2003-2004,29.11.2003,17:15,SFC Opava,1. FC Brno,4:0
+2003-2004,29.11.2003,17:15,České Budějovice,Baník Ostrava,1:1
+2003-2004,30.11.2003,15:30,Sparta Praha,FK Teplice,3:0
+2003-2004,01.12.2003,16:40,Tescoma Zlín,Sigma Olomouc,1:0
+2003-2004,14.02.2004,14:25,Slovan Liberec,Baník Ostrava,0:2
+2003-2004,14.02.2004,17:00,SFC Opava,Sparta Praha,3:4
+2003-2004,14.02.2004,17:00,Slavia Praha,Chmel Blšany,2:0
+2003-2004,14.02.2004,17:00,1. FC Slovácko,1. FC Brno,0:0
+2003-2004,15.02.2004,10:15,Viktoria Žižkov,Viktoria Plzeň,0:0
+2003-2004,15.02.2004,17:00,České Budějovice,Tescoma Zlín,3:0
+2003-2004,15.02.2004,17:00,1. FK Příbram,FK Teplice,1:0
+2003-2004,16.02.2004,16:40,Sigma Olomouc,FK Jablonec,0:0
+2003-2004,21.02.2004,14:25,Tescoma Zlín,Slavia Praha,1:2
+2003-2004,21.02.2004,17:00,Sparta Praha,1. FK Příbram,0:0
+2003-2004,21.02.2004,17:00,FK Teplice,Sigma Olomouc,0:0
+2003-2004,22.02.2004,14:00,Chmel Blšany,Viktoria Žižkov,1:0
+2003-2004,22.02.2004,14:00,Viktoria Plzeň,Slovan Liberec,0:0
+2003-2004,22.02.2004,17:00,1. FC Brno,České Budějovice,0:1
+2003-2004,22.02.2004,17:00,FK Jablonec,SFC Opava,2:0
+2003-2004,28.02.2004,14:25,České Budějovice,Sparta Praha,2:2
+2003-2004,28.02.2004,17:00,1. FC Slovácko,FK Jablonec,1:0
+2003-2004,28.02.2004,17:00,Slavia Praha,Viktoria Plzeň,3:0
+2003-2004,29.02.2004,10:15,Viktoria Žižkov,1. FC Brno,2:0
+2003-2004,29.02.2004,14:00,Chmel Blšany,Baník Ostrava,2:1
+2003-2004,29.02.2004,17:00,Sigma Olomouc,1. FK Příbram,1:0
+2003-2004,01.03.2004,16:40,Slovan Liberec,Tescoma Zlín,3:0
+2003-2004,03.03.2004,16:00,Baník Ostrava,1. FC Slovácko,6:2
+2003-2004,06.03.2004,14:25,Sparta Praha,Sigma Olomouc,0:0
+2003-2004,06.03.2004,17:00,Tescoma Zlín,1. FC Slovácko,2:0
+2003-2004,07.03.2004,17:00,FK Jablonec,Slavia Praha,0:0
+2003-2004,07.03.2004,17:00,1. FC Brno,Slovan Liberec,2:0
+2003-2004,07.03.2004,17:00,FK Teplice,České Budějovice,2:0
+2003-2004,07.03.2004,17:00,1. FK Příbram,SFC Opava,2:2
+2003-2004,08.03.2004,16:40,Baník Ostrava,Viktoria Žižkov,0:0
+2003-2004,13.03.2004,17:00,SFC Opava,Sigma Olomouc,1:2
+2003-2004,13.03.2004,17:00,České Budějovice,1. FK Příbram,0:0
+2003-2004,13.03.2004,17:00,1. FC Slovácko,FK Teplice,2:0
+2003-2004,14.03.2004,10:15,Viktoria Žižkov,Tescoma Zlín,3:0
+2003-2004,14.03.2004,14:30,Chmel Blšany,1. FC Brno,2:1
+2003-2004,14.03.2004,14:30,Slovan Liberec,FK Jablonec,0:0
+2003-2004,14.03.2004,17:20,Slavia Praha,Sparta Praha,0:2
+2003-2004,15.03.2004,16:40,Viktoria Plzeň,Baník Ostrava,1:2
+2003-2004,20.03.2004,14:25,Baník Ostrava,Slavia Praha,0:2
+2003-2004,20.03.2004,17:00,Tescoma Zlín,SFC Opava,0:0
+2003-2004,21.03.2004,17:00,1. FC Brno,Viktoria Plzeň,4:0
+2003-2004,21.03.2004,17:00,FK Teplice,Chmel Blšany,2:2
+2003-2004,21.03.2004,17:00,FK Jablonec,Viktoria Žižkov,1:1
+2003-2004,21.03.2004,17:00,1. FK Příbram,1. FC Slovácko,1:0
+2003-2004,21.03.2004,17:00,Sigma Olomouc,České Budějovice,1:0
+2003-2004,22.03.2004,16:40,Sparta Praha,Slovan Liberec,0:0
+2003-2004,24.03.2004,17:00,SFC Opava,FK Teplice,0:0
+2003-2004,24.03.2004,17:00,Viktoria Plzeň,Chmel Blšany,2:1
+2003-2004,27.03.2004,14:25,1. FC Slovácko,Sparta Praha,2:0
+2003-2004,27.03.2004,17:00,Baník Ostrava,1. FC Brno,5:1
+2003-2004,27.03.2004,17:00,Slavia Praha,1. FK Příbram,3:0
+2003-2004,28.03.2004,10:15,Viktoria Žižkov,Sigma Olomouc,0:1
+2003-2004,28.03.2004,15:00,Chmel Blšany,Tescoma Zlín,1:0
+2003-2004,28.03.2004,17:00,České Budějovice,SFC Opava,4:1
+2003-2004,28.03.2004,17:00,Viktoria Plzeň,FK Jablonec,1:1
+2003-2004,29.03.2004,16:40,Slovan Liberec,FK Teplice,1:1
+2003-2004,03.04.2004,14:25,Tescoma Zlín,Baník Ostrava,1:1
+2003-2004,03.04.2004,17:00,SFC Opava,1. FC Slovácko,1:0
+2003-2004,04.04.2004,17:00,1. FK Příbram,Viktoria Plzeň,2:1
+2003-2004,04.04.2004,17:00,Sparta Praha,Chmel Blšany,1:0
+2003-2004,04.04.2004,17:00,FK Teplice,Viktoria Žižkov,1:1
+2003-2004,04.04.2004,17:00,Sigma Olomouc,Slovan Liberec,2:0
+2003-2004,04.04.2004,17:00,FK Jablonec,České Budějovice,3:2
+2003-2004,05.04.2004,16:40,1. FC Brno,Slavia Praha,2:2
+2003-2004,10.04.2004,14:25,Baník Ostrava,FK Jablonec,0:0
+2003-2004,10.04.2004,20:00,Slavia Praha,FK Teplice,2:2
+2003-2004,10.04.2004,20:00,1. FC Slovácko,České Budějovice,3:0
+2003-2004,11.04.2004,10:15,Viktoria Žižkov,SFC Opava,0:0
+2003-2004,11.04.2004,16:30,Chmel Blšany,Sigma Olomouc,2:2
+2003-2004,11.04.2004,17:00,1. FC Brno,Tescoma Zlín,1:2
+2003-2004,11.04.2004,17:00,Slovan Liberec,1. FK Příbram,4:1
+2003-2004,12.04.2004,16:40,Viktoria Plzeň,Sparta Praha,1:2
+2003-2004,17.04.2004,14:25,SFC Opava,Slavia Praha,0:0
+2003-2004,17.04.2004,17:00,Tescoma Zlín,Viktoria Plzeň,3:1
+2003-2004,18.04.2004,17:00,FK Teplice,1. FC Brno,2:1
+2003-2004,18.04.2004,17:00,1. FK Příbram,Baník Ostrava,0:3
+2003-2004,18.04.2004,17:00,FK Jablonec,Chmel Blšany,2:1
+2003-2004,18.04.2004,17:00,České Budějovice,Slovan Liberec,2:1
+2003-2004,18.04.2004,17:00,Sigma Olomouc,1. FC Slovácko,1:0
+2003-2004,19.04.2004,16:40,Sparta Praha,Viktoria Žižkov,3:1
+2003-2004,23.04.2004,17:00,Baník Ostrava,FK Teplice,1:0
+2003-2004,24.04.2004,14:25,Slavia Praha,Sigma Olomouc,3:1
+2003-2004,24.04.2004,20:00,Tescoma Zlín,FK Jablonec,2:0
+2003-2004,25.04.2004,10:15,Viktoria Žižkov,České Budějovice,1:0
+2003-2004,25.04.2004,17:00,1. FC Brno,Sparta Praha,0:0
+2003-2004,25.04.2004,17:00,Viktoria Plzeň,SFC Opava,0:1
+2003-2004,25.04.2004,17:00,Chmel Blšany,1. FK Příbram,1:0
+2003-2004,26.04.2004,16:40,Slovan Liberec,1. FC Slovácko,3:3
+2003-2004,01.05.2004,17:00,SFC Opava,Slovan Liberec,1:3
+2003-2004,02.05.2004,13:35,Sigma Olomouc,Baník Ostrava,0:1
+2003-2004,02.05.2004,19:30,České Budějovice,Chmel Blšany,1:1
+2003-2004,02.05.2004,19:30,FK Teplice,Viktoria Plzeň,2:1
+2003-2004,02.05.2004,19:30,1. FK Příbram,Viktoria Žižkov,1:1
+2003-2004,02.05.2004,19:30,FK Jablonec,1. FC Brno,1:0
+2003-2004,02.05.2004,19:30,Sparta Praha,Tescoma Zlín,3:1
+2003-2004,03.05.2004,16:40,1. FC Slovácko,Slavia Praha,4:2
+2003-2004,08.05.2004,14:25,Slavia Praha,Slovan Liberec,1:2
+2003-2004,08.05.2004,14:25,Baník Ostrava,Sparta Praha,1:2
+2003-2004,08.05.2004,14:25,1. FC Brno,Sigma Olomouc,1:2
+2003-2004,08.05.2004,14:25,Viktoria Žižkov,1. FC Slovácko,0:1
+2003-2004,08.05.2004,14:25,Viktoria Plzeň,České Budějovice,2:4
+2003-2004,08.05.2004,14:25,Chmel Blšany,SFC Opava,4:3
+2003-2004,08.05.2004,14:25,Tescoma Zlín,1. FK Příbram,0:2
+2003-2004,08.05.2004,14:25,FK Jablonec,FK Teplice,2:0
+2003-2004,15.05.2004,14:25,Sparta Praha,FK Jablonec,2:1
+2003-2004,15.05.2004,14:25,FK Teplice,Tescoma Zlín,3:0
+2003-2004,15.05.2004,14:25,1. FK Příbram,1. FC Brno,2:1
+2003-2004,15.05.2004,14:25,SFC Opava,Baník Ostrava,2:4
+2003-2004,15.05.2004,14:25,Sigma Olomouc,Viktoria Plzeň,1:0
+2003-2004,15.05.2004,14:25,Slovan Liberec,Viktoria Žižkov,3:0
+2003-2004,15.05.2004,14:25,České Budějovice,Slavia Praha,0:1
+2003-2004,15.05.2004,14:25,1. FC Slovácko,Chmel Blšany,1:0
+2004-2005,07.08.2004,14:25,Baník Ostrava,FK Teplice,1:2
+2004-2005,07.08.2004,17:00,Sparta Praha,1. FC Slovácko,1:1
+2004-2005,07.08.2004,20:00,1. FC Brno,1. FK Drnovice,1:0
+2004-2005,07.08.2004,20:00,Sigma Olomouc,České Budějovice,2:1
+2004-2005,07.08.2004,20:00,Tescoma Zlín,Slavia Praha,1:0
+2004-2005,08.08.2004,17:00,1. FK Příbram,SFC Opava,2:1
+2004-2005,09.08.2004,16:40,FK Mladá Boleslav,FK Jablonec,1:0
+2004-2005,14.08.2004,14:25,1. FK Drnovice,Sparta Praha,2:3
+2004-2005,14.08.2004,17:00,SFC Opava,FK Mladá Boleslav,2:1
+2004-2005,15.08.2004,17:00,Chmel Blšany,1. FC Brno,0:1
+2004-2005,15.08.2004,17:00,FK Jablonec,Baník Ostrava,1:1
+2004-2005,15.08.2004,17:00,České Budějovice,1. FK Příbram,0:0
+2004-2005,16.08.2004,16:40,Slavia Praha,Slovan Liberec,1:0
+2004-2005,16.08.2004,20:00,1. FC Slovácko,Sigma Olomouc,1:0
+2004-2005,20.08.2004,20:00,Sparta Praha,SFC Opava,5:1
+2004-2005,20.08.2004,20:00,Slovan Liberec,1. FK Příbram,2:0
+2004-2005,21.08.2004,14:25,Sigma Olomouc,Slavia Praha,2:1
+2004-2005,21.08.2004,20:00,Baník Ostrava,České Budějovice,2:0
+2004-2005,21.08.2004,20:00,Tescoma Zlín,Chmel Blšany,0:0
+2004-2005,22.08.2004,17:00,FK Jablonec,1. FK Drnovice,1:0
+2004-2005,22.08.2004,17:00,FK Mladá Boleslav,FK Teplice,0:0
+2004-2005,23.08.2004,16:40,1. FC Brno,1. FC Slovácko,1:0
+2004-2005,25.08.2004,17:00,FK Teplice,Tescoma Zlín,2:1
+2004-2005,28.08.2004,14:25,Chmel Blšany,Sparta Praha,1:3
+2004-2005,28.08.2004,20:00,1. FC Slovácko,FK Jablonec,1:0
+2004-2005,29.08.2004,17:00,České Budějovice,FK Mladá Boleslav,3:0
+2004-2005,29.08.2004,17:00,FK Teplice,1. FK Drnovice,2:1
+2004-2005,29.08.2004,17:00,SFC Opava,Baník Ostrava,1:1
+2004-2005,29.08.2004,17:00,1. FK Příbram,Tescoma Zlín,0:0
+2004-2005,30.08.2004,16:40,Slovan Liberec,Sigma Olomouc,3:0
+2004-2005,30.08.2004,20:00,Slavia Praha,1. FC Brno,3:0
+2004-2005,03.09.2004,20:00,Slovan Liberec,Chmel Blšany,3:0
+2004-2005,11.09.2004,14:25,FK Mladá Boleslav,Slavia Praha,1:1
+2004-2005,11.09.2004,17:00,Sparta Praha,České Budějovice,2:0
+2004-2005,11.09.2004,20:00,1. FC Brno,SFC Opava,2:1
+2004-2005,11.09.2004,20:00,Sigma Olomouc,1. FK Příbram,3:0
+2004-2005,11.09.2004,20:00,Baník Ostrava,Chmel Blšany,1:0
+2004-2005,12.09.2004,17:00,1. FK Drnovice,1. FC Slovácko,1:0
+2004-2005,12.09.2004,17:00,FK Jablonec,FK Teplice,1:1
+2004-2005,13.09.2004,16:40,Tescoma Zlín,Slovan Liberec,1:0
+2004-2005,18.09.2004,17:00,FK Teplice,1. FC Slovácko,1:1
+2004-2005,18.09.2004,20:00,SFC Opava,FK Jablonec,4:1
+2004-2005,18.09.2004,20:00,Slavia Praha,1. FK Drnovice,2:1
+2004-2005,18.09.2004,20:00,České Budějovice,1. FC Brno,1:1
+2004-2005,19.09.2004,14:45,Slovan Liberec,Sparta Praha,0:1
+2004-2005,19.09.2004,17:00,Chmel Blšany,FK Mladá Boleslav,2:0
+2004-2005,20.09.2004,16:40,1. FK Příbram,Baník Ostrava,1:2
+2004-2005,20.09.2004,20:00,Tescoma Zlín,Sigma Olomouc,0:2
+2004-2005,24.09.2004,19:00,Sparta Praha,1. FK Příbram,4:2
+2004-2005,25.09.2004,14:25,FK Jablonec,Slavia Praha,1:1
+2004-2005,25.09.2004,20:00,1. FC Slovácko,SFC Opava,1:0
+2004-2005,25.09.2004,20:00,Sigma Olomouc,Chmel Blšany,1:0
+2004-2005,25.09.2004,20:00,Baník Ostrava,Tescoma Zlín,3:1
+2004-2005,26.09.2004,17:00,FK Mladá Boleslav,Slovan Liberec,0:1
+2004-2005,26.09.2004,17:00,1. FK Drnovice,České Budějovice,2:0
+2004-2005,27.09.2004,16:40,1. FC Brno,FK Teplice,1:3
+2004-2005,02.10.2004,14:25,Tescoma Zlín,Sparta Praha,1:1
+2004-2005,02.10.2004,20:00,SFC Opava,FK Teplice,0:0
+2004-2005,02.10.2004,20:00,Slavia Praha,1. FC Slovácko,0:0
+2004-2005,02.10.2004,20:00,České Budějovice,FK Jablonec,0:1
+2004-2005,02.10.2004,20:00,Slovan Liberec,1. FC Brno,1:0
+2004-2005,03.10.2004,17:00,1. FK Příbram,FK Mladá Boleslav,2:1
+2004-2005,04.10.2004,16:40,Sigma Olomouc,Baník Ostrava,2:2
+2004-2005,04.10.2004,19:00,Chmel Blšany,1. FK Drnovice,1:1
+2004-2005,16.10.2004,14:25,Sparta Praha,Slavia Praha,2:0
+2004-2005,16.10.2004,20:00,1. FC Slovácko,České Budějovice,0:0
+2004-2005,16.10.2004,20:00,1. FC Brno,Tescoma Zlín,1:1
+2004-2005,17.10.2004,17:00,1. FK Drnovice,SFC Opava,1:1
+2004-2005,17.10.2004,17:00,FK Mladá Boleslav,Sigma Olomouc,1:2
+2004-2005,17.10.2004,17:00,FK Jablonec,1. FK Příbram,3:1
+2004-2005,17.10.2004,17:00,FK Teplice,Chmel Blšany,0:0
+2004-2005,18.10.2004,16:40,Baník Ostrava,Slovan Liberec,0:4
+2004-2005,23.10.2004,14:25,Baník Ostrava,Sparta Praha,0:2
+2004-2005,23.10.2004,17:00,Sigma Olomouc,1. FC Brno,2:1
+2004-2005,23.10.2004,17:00,Tescoma Zlín,FK Mladá Boleslav,2:2
+2004-2005,23.10.2004,20:00,České Budějovice,FK Teplice,0:1
+2004-2005,23.10.2004,20:00,Slavia Praha,SFC Opava,1:0
+2004-2005,24.10.2004,17:00,1. FK Příbram,1. FK Drnovice,1:2
+2004-2005,24.10.2004,17:00,Chmel Blšany,1. FC Slovácko,2:0
+2004-2005,25.10.2004,16:40,Slovan Liberec,FK Jablonec,1:1
+2004-2005,30.10.2004,14:25,Sparta Praha,Sigma Olomouc,2:0
+2004-2005,30.10.2004,17:00,1. FC Slovácko,Tescoma Zlín,3:1
+2004-2005,30.10.2004,17:00,1. FC Brno,1. FK Příbram,1:2
+2004-2005,31.10.2004,17:00,SFC Opava,České Budějovice,2:2
+2004-2005,31.10.2004,17:00,1. FK Drnovice,Slovan Liberec,1:1
+2004-2005,31.10.2004,17:00,FK Jablonec,Chmel Blšany,3:0
+2004-2005,31.10.2004,17:00,FK Mladá Boleslav,Baník Ostrava,1:1
+2004-2005,01.11.2004,16:40,FK Teplice,Slavia Praha,1:0
+2004-2005,06.11.2004,14:25,České Budějovice,Slavia Praha,1:2
+2004-2005,06.11.2004,17:00,Baník Ostrava,1. FC Brno,1:1
+2004-2005,06.11.2004,17:00,Sigma Olomouc,FK Jablonec,0:1
+2004-2005,06.11.2004,17:00,Tescoma Zlín,1. FK Drnovice,3:1
+2004-2005,06.11.2004,17:00,Slovan Liberec,1. FC Slovácko,1:1
+2004-2005,07.11.2004,17:00,1. FK Příbram,FK Teplice,0:2
+2004-2005,08.11.2004,16:40,Sparta Praha,FK Mladá Boleslav,0:1
+2004-2005,08.11.2004,19:00,Chmel Blšany,SFC Opava,1:0
+2004-2005,13.11.2004,14:25,1. FC Brno,Sparta Praha,0:1
+2004-2005,13.11.2004,17:00,Slavia Praha,1. FK Příbram,5:1
+2004-2005,13.11.2004,17:00,1. FC Slovácko,Baník Ostrava,3:1
+2004-2005,14.11.2004,17:00,FK Teplice,Sigma Olomouc,1:0
+2004-2005,14.11.2004,17:00,1. FK Drnovice,FK Mladá Boleslav,2:0
+2004-2005,14.11.2004,17:00,České Budějovice,Chmel Blšany,3:0
+2004-2005,14.11.2004,17:00,FK Jablonec,Tescoma Zlín,1:0
+2004-2005,15.11.2004,16:40,SFC Opava,Slovan Liberec,1:1
+2004-2005,20.11.2004,14:25,Chmel Blšany,Slavia Praha,0:3
+2004-2005,20.11.2004,17:00,Sparta Praha,FK Jablonec,3:1
+2004-2005,20.11.2004,17:00,Tescoma Zlín,České Budějovice,2:2
+2004-2005,20.11.2004,17:00,Sigma Olomouc,SFC Opava,0:1
+2004-2005,20.11.2004,17:00,Baník Ostrava,1. FK Drnovice,2:2
+2004-2005,21.11.2004,17:00,FK Mladá Boleslav,1. FC Brno,4:0
+2004-2005,21.11.2004,17:00,1. FK Příbram,1. FC Slovácko,0:0
+2004-2005,22.11.2004,16:40,Slovan Liberec,FK Teplice,4:0
+2004-2005,27.11.2004,14:25,FK Teplice,Sparta Praha,0:0
+2004-2005,27.11.2004,17:00,1. FC Slovácko,FK Mladá Boleslav,1:1
+2004-2005,27.11.2004,17:00,SFC Opava,Tescoma Zlín,1:2
+2004-2005,27.11.2004,17:00,České Budějovice,Slovan Liberec,1:2
+2004-2005,28.11.2004,17:00,FK Jablonec,1. FC Brno,2:0
+2004-2005,28.11.2004,17:00,1. FK Drnovice,Sigma Olomouc,0:0
+2004-2005,28.11.2004,17:00,Chmel Blšany,1. FK Příbram,3:2
+2004-2005,29.11.2004,16:40,Slavia Praha,Baník Ostrava,1:0
+2004-2005,03.12.2004,18:00,Sparta Praha,1. FK Drnovice,2:0
+2004-2005,04.12.2004,14:25,Slovan Liberec,Slavia Praha,1:1
+2004-2005,04.12.2004,17:00,Sigma Olomouc,1. FC Slovácko,1:0
+2004-2005,04.12.2004,17:00,Baník Ostrava,FK Jablonec,0:0
+2004-2005,05.12.2004,17:00,1. FK Příbram,České Budějovice,1:0
+2004-2005,05.12.2004,17:00,1. FC Brno,Chmel Blšany,1:1
+2004-2005,05.12.2004,17:00,FK Mladá Boleslav,SFC Opava,1:1
+2004-2005,06.12.2004,16:40,Tescoma Zlín,FK Teplice,2:0
+2004-2005,26.02.2005,14:25,Slavia Praha,Sigma Olomouc,3:2
+2004-2005,26.02.2005,17:00,1. FC Slovácko,1. FC Brno,1:2
+2004-2005,26.02.2005,17:00,České Budějovice,Baník Ostrava,0:1
+2004-2005,27.02.2005,17:00,FK Teplice,FK Mladá Boleslav,1:1
+2004-2005,27.02.2005,17:00,Chmel Blšany,Tescoma Zlín,2:0
+2004-2005,28.02.2005,16:40,SFC Opava,Sparta Praha,0:1
+2004-2005,05.03.2005,14:25,Sparta Praha,Chmel Blšany,4:2
+2004-2005,07.03.2005,16:40,FK Jablonec,1. FC Slovácko,1:1
+2004-2005,12.03.2005,14:25,České Budějovice,Sparta Praha,1:2
+2004-2005,12.03.2005,17:00,Slovan Liberec,Tescoma Zlín,1:1
+2004-2005,12.03.2005,17:00,1. FK Příbram,Sigma Olomouc,0:0
+2004-2005,12.03.2005,17:00,SFC Opava,1. FC Brno,2:0
+2004-2005,12.03.2005,17:00,1. FC Slovácko,1. FK Drnovice,2:1
+2004-2005,13.03.2005,17:00,FK Teplice,FK Jablonec,0:0
+2004-2005,13.03.2005,17:00,Chmel Blšany,Baník Ostrava,0:2
+2004-2005,14.03.2005,16:40,Slavia Praha,FK Mladá Boleslav,2:2
+2004-2005,15.03.2005,17:00,1. FK Příbram,Slovan Liberec,1:1
+2004-2005,19.03.2005,14:25,Sparta Praha,Slovan Liberec,2:1
+2004-2005,19.03.2005,17:00,Baník Ostrava,1. FK Příbram,2:1
+2004-2005,20.03.2005,17:00,Sigma Olomouc,Tescoma Zlín,1:0
+2004-2005,20.03.2005,17:00,FK Mladá Boleslav,Chmel Blšany,1:1
+2004-2005,20.03.2005,17:00,1. FC Brno,České Budějovice,0:0
+2004-2005,20.03.2005,17:00,FK Jablonec,SFC Opava,0:1
+2004-2005,20.03.2005,17:00,1. FK Drnovice,Slavia Praha,2:1
+2004-2005,21.03.2005,16:40,1. FC Slovácko,FK Teplice,0:0
+2004-2005,27.03.2005,17:00,1. FK Drnovice,FK Jablonec,0:1
+2004-2005,27.03.2005,17:00,Tescoma Zlín,1. FK Příbram,0:0
+2004-2005,29.03.2005,17:00,FK Mladá Boleslav,České Budějovice,1:0
+2004-2005,29.03.2005,17:00,Baník Ostrava,SFC Opava,0:0
+2004-2005,02.04.2005,14:25,1. FK Příbram,Sparta Praha,3:1
+2004-2005,02.04.2005,17:00,Chmel Blšany,Sigma Olomouc,2:2
+2004-2005,02.04.2005,17:00,SFC Opava,1. FC Slovácko,2:2
+2004-2005,02.04.2005,17:00,Slovan Liberec,FK Mladá Boleslav,1:3
+2004-2005,02.04.2005,20:00,Tescoma Zlín,Baník Ostrava,1:1
+2004-2005,02.04.2005,20:00,České Budějovice,1. FK Drnovice,2:1
+2004-2005,03.04.2005,17:00,FK Teplice,1. FC Brno,3:1
+2004-2005,04.04.2005,16:40,Slavia Praha,FK Jablonec,1:1
+2004-2005,05.04.2005,17:00,Sigma Olomouc,Slovan Liberec,2:2
+2004-2005,06.04.2005,17:00,1. FK Drnovice,FK Teplice,2:0
+2004-2005,09.04.2005,14:25,1. FC Slovácko,Slavia Praha,2:0
+2004-2005,09.04.2005,17:00,Baník Ostrava,Sigma Olomouc,4:0
+2004-2005,10.04.2005,17:00,1. FC Brno,Slovan Liberec,1:2
+2004-2005,10.04.2005,17:00,FK Mladá Boleslav,1. FK Příbram,0:0
+2004-2005,10.04.2005,17:00,FK Teplice,SFC Opava,1:0
+2004-2005,10.04.2005,17:00,1. FK Drnovice,Chmel Blšany,0:0
+2004-2005,10.04.2005,17:00,FK Jablonec,České Budějovice,1:2
+2004-2005,11.04.2005,16:40,Sparta Praha,Tescoma Zlín,2:0
+2004-2005,16.04.2005,14:25,Slavia Praha,Sparta Praha,1:1
+2004-2005,16.04.2005,17:00,SFC Opava,1. FK Drnovice,0:0
+2004-2005,16.04.2005,17:00,České Budějovice,1. FC Slovácko,0:2
+2004-2005,16.04.2005,20:00,Tescoma Zlín,1. FC Brno,3:3
+2004-2005,17.04.2005,17:00,Chmel Blšany,FK Teplice,2:2
+2004-2005,17.04.2005,17:00,Sigma Olomouc,FK Mladá Boleslav,2:0
+2004-2005,17.04.2005,17:00,1. FK Příbram,FK Jablonec,3:1
+2004-2005,18.04.2005,16:40,Slovan Liberec,Baník Ostrava,1:0
+2004-2005,23.04.2005,14:25,Sparta Praha,Baník Ostrava,2:1
+2004-2005,23.04.2005,17:00,SFC Opava,Slavia Praha,1:2
+2004-2005,23.04.2005,20:00,1. FC Slovácko,Chmel Blšany,1:0
+2004-2005,24.04.2005,17:00,1. FC Brno,Sigma Olomouc,0:1
+2004-2005,24.04.2005,17:00,FK Mladá Boleslav,Tescoma Zlín,1:1
+2004-2005,24.04.2005,17:00,1. FK Drnovice,1. FK Příbram,0:1
+2004-2005,24.04.2005,17:00,FK Teplice,České Budějovice,5:2
+2004-2005,25.04.2005,16:40,FK Jablonec,Slovan Liberec,1:2
+2004-2005,30.04.2005,14:25,Sigma Olomouc,Sparta Praha,0:2
+2004-2005,30.04.2005,17:00,České Budějovice,SFC Opava,2:0
+2004-2005,30.04.2005,17:00,Tescoma Zlín,1. FC Slovácko,1:0
+2004-2005,30.04.2005,17:00,Slovan Liberec,1. FK Drnovice,0:2
+2004-2005,01.05.2005,17:00,Baník Ostrava,FK Mladá Boleslav,2:0
+2004-2005,01.05.2005,17:00,1. FK Příbram,1. FC Brno,1:3
+2004-2005,01.05.2005,17:00,Chmel Blšany,FK Jablonec,0:0
+2004-2005,02.05.2005,16:40,Slavia Praha,FK Teplice,2:0
+2004-2005,05.05.2005,19:00,1. FC Brno,Slavia Praha,0:1
+2004-2005,07.05.2005,14:25,FK Mladá Boleslav,Sparta Praha,2:1
+2004-2005,07.05.2005,17:00,SFC Opava,Chmel Blšany,1:2
+2004-2005,07.05.2005,17:00,1. FC Slovácko,Slovan Liberec,1:1
+2004-2005,08.05.2005,17:00,FK Teplice,1. FK Příbram,1:0
+2004-2005,08.05.2005,17:00,FK Jablonec,Sigma Olomouc,0:1
+2004-2005,08.05.2005,17:00,1. FK Drnovice,Tescoma Zlín,2:0
+2004-2005,09.05.2005,16:40,1. FC Brno,Baník Ostrava,2:0
+2004-2005,09.05.2005,19:00,Slavia Praha,České Budějovice,0:2
+2004-2005,14.05.2005,14:00,Slovan Liberec,SFC Opava,3:0
+2004-2005,14.05.2005,14:25,1. FK Příbram,Slavia Praha,0:1
+2004-2005,14.05.2005,17:00,Tescoma Zlín,FK Jablonec,1:2
+2004-2005,15.05.2005,17:00,FK Mladá Boleslav,1. FK Drnovice,0:0
+2004-2005,15.05.2005,17:00,Sparta Praha,1. FC Brno,2:0
+2004-2005,15.05.2005,17:00,Chmel Blšany,České Budějovice,1:0
+2004-2005,16.05.2005,16:40,Sigma Olomouc,FK Teplice,3:3
+2004-2005,16.05.2005,19:00,Baník Ostrava,1. FC Slovácko,2:2
+2004-2005,20.05.2005,18:00,1. FK Drnovice,Baník Ostrava,1:0
+2004-2005,21.05.2005,14:25,Slavia Praha,Chmel Blšany,0:0
+2004-2005,21.05.2005,17:00,České Budějovice,Tescoma Zlín,0:0
+2004-2005,21.05.2005,17:00,FK Teplice,Slovan Liberec,0:1
+2004-2005,21.05.2005,17:00,SFC Opava,Sigma Olomouc,1:2
+2004-2005,21.05.2005,20:00,1. FC Slovácko,1. FK Příbram,1:1
+2004-2005,22.05.2005,17:00,FK Jablonec,Sparta Praha,3:0
+2004-2005,22.05.2005,17:00,1. FC Brno,FK Mladá Boleslav,2:0
+2004-2005,25.05.2005,16:40,1. FK Drnovice,1. FC Brno,1:3
+2004-2005,25.05.2005,16:40,1. FC Slovácko,Sparta Praha,2:0
+2004-2005,25.05.2005,16:40,FK Teplice,Baník Ostrava,2:0
+2004-2005,25.05.2005,16:40,SFC Opava,1. FK Příbram,0:2
+2004-2005,25.05.2005,16:40,Slavia Praha,Tescoma Zlín,1:0
+2004-2005,25.05.2005,16:40,České Budějovice,Sigma Olomouc,1:2
+2004-2005,25.05.2005,16:40,Chmel Blšany,Slovan Liberec,1:1
+2004-2005,25.05.2005,16:40,FK Jablonec,FK Mladá Boleslav,2:0
+2004-2005,28.05.2005,14:25,Sparta Praha,FK Teplice,1:2
+2004-2005,28.05.2005,14:25,1. FC Brno,FK Jablonec,1:2
+2004-2005,28.05.2005,14:25,FK Mladá Boleslav,1. FC Slovácko,0:0
+2004-2005,28.05.2005,14:25,Baník Ostrava,Slavia Praha,0:2
+2004-2005,28.05.2005,14:25,Sigma Olomouc,1. FK Drnovice,4:1
+2004-2005,28.05.2005,14:25,Tescoma Zlín,SFC Opava,3:0
+2004-2005,28.05.2005,14:25,Slovan Liberec,České Budějovice,3:2
+2004-2005,28.05.2005,14:25,1. FK Příbram,Chmel Blšany,2:1
+2005-2006,05.08.2005,18:00,Slavia Praha,Vysočina Jihlava,1:1
+2005-2006,06.08.2005,14:25,Viktoria Plzeň,Sparta Praha,1:2
+2005-2006,06.08.2005,18:00,Tescoma Zlín,Chmel Blšany,0:1
+2005-2006,07.08.2005,17:00,FK Jablonec,1. FC Slovácko,2:1
+2005-2006,07.08.2005,17:00,Baník Most,FK Teplice,2:1
+2005-2006,07.08.2005,17:00,1. FK Příbram,1. FC Brno,2:1
+2005-2006,07.08.2005,17:00,FK Mladá Boleslav,Slovan Liberec,2:4
+2005-2006,08.08.2005,16:40,Sigma Olomouc,Baník Ostrava,1:0
+2005-2006,13.08.2005,14:25,Sparta Praha,Baník Most,2:1
+2005-2006,13.08.2005,18:00,Baník Ostrava,Tescoma Zlín,4:1
+2005-2006,14.08.2005,15:00,Chmel Blšany,Viktoria Plzeň,0:3
+2005-2006,14.08.2005,17:00,FK Jablonec,Sigma Olomouc,1:2
+2005-2006,14.08.2005,17:00,Vysočina Jihlava,1. FK Příbram,2:3
+2005-2006,14.08.2005,17:00,FK Teplice,Slavia Praha,1:0
+2005-2006,15.08.2005,16:40,1. FC Brno,Slovan Liberec,0:1
+2005-2006,20.08.2005,14:25,Slovan Liberec,Sparta Praha,2:0
+2005-2006,20.08.2005,18:00,Slavia Praha,FK Jablonec,3:2
+2005-2006,21.08.2005,17:00,1. FC Brno,Vysočina Jihlava,1:2
+2005-2006,21.08.2005,17:00,FK Mladá Boleslav,Chmel Blšany,4:1
+2005-2006,21.08.2005,17:00,1. FK Příbram,FK Teplice,1:1
+2005-2006,21.08.2005,17:00,Viktoria Plzeň,Sigma Olomouc,1:0
+2005-2006,22.08.2005,16:40,Baník Most,Baník Ostrava,4:0
+2005-2006,22.08.2005,19:00,Tescoma Zlín,1. FC Slovácko,3:1
+2005-2006,27.08.2005,14:25,Sigma Olomouc,Slavia Praha,4:3
+2005-2006,27.08.2005,18:00,Baník Ostrava,FK Mladá Boleslav,1:3
+2005-2006,27.08.2005,20:00,1. FC Slovácko,Baník Most,2:1
+2005-2006,28.08.2005,15:00,Chmel Blšany,1. FK Příbram,1:0
+2005-2006,28.08.2005,17:00,Vysočina Jihlava,Slovan Liberec,0:2
+2005-2006,28.08.2005,17:00,FK Teplice,Tescoma Zlín,2:1
+2005-2006,28.08.2005,17:00,FK Jablonec,Viktoria Plzeň,3:1
+2005-2006,29.08.2005,16:40,Sparta Praha,1. FC Brno,1:1
+2005-2006,01.09.2005,17:00,1. FC Slovácko,FK Mladá Boleslav,1:1
+2005-2006,09.09.2005,18:00,1. FC Brno,Baník Ostrava,1:1
+2005-2006,10.09.2005,14:25,Viktoria Plzeň,Slavia Praha,1:1
+2005-2006,10.09.2005,18:00,Sparta Praha,Vysočina Jihlava,2:0
+2005-2006,10.09.2005,18:00,Tescoma Zlín,FK Jablonec,3:1
+2005-2006,11.09.2005,17:00,FK Mladá Boleslav,FK Teplice,0:2
+2005-2006,11.09.2005,17:00,Baník Most,Chmel Blšany,3:1
+2005-2006,11.09.2005,17:00,1. FK Příbram,Sigma Olomouc,3:0
+2005-2006,12.09.2005,16:40,Slovan Liberec,1. FC Slovácko,2:1
+2005-2006,17.09.2005,14:25,1. FC Slovácko,Sparta Praha,2:0
+2005-2006,18.09.2005,15:00,Chmel Blšany,1. FC Brno,2:2
+2005-2006,18.09.2005,17:00,FK Jablonec,1. FK Příbram,3:1
+2005-2006,18.09.2005,17:00,Sigma Olomouc,FK Mladá Boleslav,2:3
+2005-2006,18.09.2005,17:00,Slavia Praha,Tescoma Zlín,1:0
+2005-2006,18.09.2005,17:00,Vysočina Jihlava,Baník Most,1:0
+2005-2006,18.09.2005,20:00,Baník Ostrava,Slovan Liberec,1:1
+2005-2006,19.09.2005,16:40,FK Teplice,Viktoria Plzeň,2:1
+2005-2006,23.09.2005,17:30,1. FC Brno,FK Teplice,1:2
+2005-2006,24.09.2005,14:25,1. FK Příbram,Slavia Praha,2:2
+2005-2006,24.09.2005,18:00,Sparta Praha,Baník Ostrava,0:2
+2005-2006,24.09.2005,18:00,Slovan Liberec,Chmel Blšany,2:0
+2005-2006,24.09.2005,18:00,Tescoma Zlín,Viktoria Plzeň,0:0
+2005-2006,25.09.2005,16:30,Vysočina Jihlava,1. FC Slovácko,1:0
+2005-2006,25.09.2005,17:00,FK Mladá Boleslav,FK Jablonec,2:1
+2005-2006,26.09.2005,16:40,Baník Most,Sigma Olomouc,0:2
+2005-2006,01.10.2005,14:25,FK Jablonec,Slovan Liberec,1:0
+2005-2006,01.10.2005,20:00,1. FC Slovácko,1. FC Brno,1:1
+2005-2006,02.10.2005,15:00,Chmel Blšany,Vysočina Jihlava,2:2
+2005-2006,02.10.2005,17:00,Viktoria Plzeň,Baník Most,2:1
+2005-2006,02.10.2005,17:00,Sigma Olomouc,Tescoma Zlín,0:0
+2005-2006,02.10.2005,20:00,FK Teplice,Sparta Praha,2:1
+2005-2006,03.10.2005,16:40,Slavia Praha,FK Mladá Boleslav,2:1
+2005-2006,03.10.2005,19:00,Baník Ostrava,1. FK Příbram,0:1
+2005-2006,15.10.2005,14:25,Baník Most,Slavia Praha,0:3
+2005-2006,15.10.2005,18:00,Sparta Praha,Chmel Blšany,5:2
+2005-2006,15.10.2005,18:00,1. FC Slovácko,Baník Ostrava,0:0
+2005-2006,16.10.2005,15:30,Vysočina Jihlava,FK Teplice,0:4
+2005-2006,16.10.2005,17:00,1. FC Brno,FK Jablonec,1:1
+2005-2006,16.10.2005,17:00,1. FK Příbram,Tescoma Zlín,3:0
+2005-2006,16.10.2005,17:00,FK Mladá Boleslav,Viktoria Plzeň,2:2
+2005-2006,17.10.2005,16:40,Slovan Liberec,Sigma Olomouc,2:0
+2005-2006,22.10.2005,18:00,Baník Ostrava,Vysočina Jihlava,1:0
+2005-2006,22.10.2005,18:00,Tescoma Zlín,FK Mladá Boleslav,2:0
+2005-2006,23.10.2005,15:00,Viktoria Plzeň,1. FK Příbram,2:1
+2005-2006,23.10.2005,15:00,Sigma Olomouc,1. FC Brno,3:2
+2005-2006,23.10.2005,15:00,Chmel Blšany,1. FC Slovácko,1:1
+2005-2006,23.10.2005,17:25,Slavia Praha,Sparta Praha,4:1
+2005-2006,24.10.2005,16:40,FK Teplice,Slovan Liberec,0:0
+2005-2006,29.10.2005,14:25,Sparta Praha,Sigma Olomouc,1:2
+2005-2006,29.10.2005,18:00,1. FC Slovácko,FK Teplice,1:1
+2005-2006,29.10.2005,18:00,Slovan Liberec,Viktoria Plzeň,2:0
+2005-2006,30.10.2005,14:30,Vysočina Jihlava,FK Jablonec,1:1
+2005-2006,30.10.2005,17:00,Baník Most,Tescoma Zlín,0:0
+2005-2006,30.10.2005,17:00,Baník Ostrava,Chmel Blšany,0:0
+2005-2006,30.10.2005,17:00,FK Mladá Boleslav,1. FK Příbram,0:0
+2005-2006,31.10.2005,16:40,1. FC Brno,Slavia Praha,1:0
+2005-2006,05.11.2005,14:25,FK Jablonec,Sparta Praha,2:1
+2005-2006,05.11.2005,17:00,Tescoma Zlín,1. FC Brno,2:0
+2005-2006,06.11.2005,15:30,Viktoria Plzeň,Vysočina Jihlava,0:0
+2005-2006,06.11.2005,17:00,FK Teplice,Baník Ostrava,0:2
+2005-2006,06.11.2005,17:00,FK Mladá Boleslav,Baník Most,1:0
+2005-2006,06.11.2005,17:00,Sigma Olomouc,Chmel Blšany,3:2
+2005-2006,06.11.2005,17:00,Slavia Praha,1. FC Slovácko,2:0
+2005-2006,07.11.2005,16:40,1. FK Příbram,Slovan Liberec,2:2
+2005-2006,19.11.2005,14:25,Slovan Liberec,Slavia Praha,3:3
+2005-2006,19.11.2005,17:00,Baník Ostrava,FK Jablonec,2:1
+2005-2006,19.11.2005,17:00,1. FC Slovácko,Sigma Olomouc,2:2
+2005-2006,19.11.2005,17:00,Sparta Praha,FK Mladá Boleslav,4:2
+2005-2006,20.11.2005,13:30,Vysočina Jihlava,Tescoma Zlín,0:0
+2005-2006,20.11.2005,17:00,1. FC Brno,Viktoria Plzeň,3:1
+2005-2006,20.11.2005,17:00,Baník Most,1. FK Příbram,1:0
+2005-2006,21.11.2005,16:40,Chmel Blšany,FK Teplice,0:0
+2005-2006,23.11.2005,17:00,FK Jablonec,Baník Most,3:0
+2005-2006,26.11.2005,14:25,Baník Most,Slovan Liberec,1:2
+2005-2006,26.11.2005,17:00,Tescoma Zlín,Sparta Praha,3:2
+2005-2006,27.11.2005,15:00,FK Jablonec,FK Teplice,0:0
+2005-2006,27.11.2005,17:00,FK Mladá Boleslav,1. FC Brno,2:1
+2005-2006,27.11.2005,17:00,1. FK Příbram,1. FC Slovácko,1:1
+2005-2006,27.11.2005,17:00,Slavia Praha,Chmel Blšany,0:0
+2005-2006,27.11.2005,17:00,Sigma Olomouc,Vysočina Jihlava,1:2
+2005-2006,28.11.2005,16:40,Viktoria Plzeň,Baník Ostrava,0:0
+2005-2006,03.12.2005,14:25,Baník Ostrava,Slavia Praha,1:3
+2005-2006,03.12.2005,17:00,1. FC Slovácko,Viktoria Plzeň,1:0
+2005-2006,03.12.2005,17:00,Sparta Praha,1. FK Příbram,1:1
+2005-2006,03.12.2005,17:00,Slovan Liberec,Tescoma Zlín,1:0
+2005-2006,04.12.2005,15:00,Chmel Blšany,FK Jablonec,1:0
+2005-2006,04.12.2005,17:00,1. FC Brno,Baník Most,1:0
+2005-2006,05.12.2005,16:40,FK Teplice,Sigma Olomouc,1:0
+2005-2006,10.12.2005,14:25,Slavia Praha,FK Teplice,1:1
+2005-2006,10.12.2005,17:00,Slovan Liberec,1. FC Brno,0:0
+2005-2006,10.12.2005,17:00,Tescoma Zlín,Baník Ostrava,1:0
+2005-2006,11.12.2005,14:30,Viktoria Plzeň,Chmel Blšany,2:0
+2005-2006,11.12.2005,15:00,Sigma Olomouc,FK Jablonec,0:2
+2005-2006,11.12.2005,15:00,1. FK Příbram,Vysočina Jihlava,2:0
+2005-2006,11.12.2005,17:00,FK Mladá Boleslav,1. FC Slovácko,1:0
+2005-2006,12.12.2005,16:40,Baník Most,Sparta Praha,0:3
+2005-2006,18.02.2006,14:25,Sparta Praha,Slovan Liberec,1:2
+2005-2006,18.02.2006,17:00,1. FC Slovácko,Tescoma Zlín,2:0
+2005-2006,18.02.2006,17:00,Vysočina Jihlava,1. FC Brno,0:0
+2005-2006,19.02.2006,15:00,FK Jablonec,Slavia Praha,0:2
+2005-2006,20.02.2006,16:40,FK Teplice,1. FK Příbram,2:1
+2005-2006,25.02.2006,14:25,1. FC Brno,Sparta Praha,1:1
+2005-2006,25.02.2006,17:00,Slovan Liberec,Vysočina Jihlava,0:0
+2005-2006,25.02.2006,17:00,Tescoma Zlín,FK Teplice,0:0
+2005-2006,25.02.2006,17:00,Viktoria Plzeň,FK Jablonec,1:2
+2005-2006,26.02.2006,17:30,Baník Most,1. FC Slovácko,3:2
+2005-2006,26.02.2006,17:30,FK Mladá Boleslav,Baník Ostrava,2:1
+2005-2006,27.02.2006,16:40,Slavia Praha,Sigma Olomouc,2:1
+2005-2006,04.03.2006,14:25,Slavia Praha,Viktoria Plzeň,1:1
+2005-2006,04.03.2006,17:00,1. FC Slovácko,Slovan Liberec,1:2
+2005-2006,05.03.2006,15:00,Chmel Blšany,Baník Most,0:1
+2005-2006,05.03.2006,15:00,FK Jablonec,Tescoma Zlín,2:0
+2005-2006,05.03.2006,17:00,FK Teplice,FK Mladá Boleslav,1:1
+2005-2006,05.03.2006,17:00,Sigma Olomouc,1. FK Příbram,2:1
+2005-2006,11.03.2006,14:25,Slovan Liberec,Baník Ostrava,1:0
+2005-2006,12.03.2006,17:00,FK Mladá Boleslav,Sigma Olomouc,2:0
+2005-2006,12.03.2006,17:00,Viktoria Plzeň,FK Teplice,3:3
+2005-2006,12.03.2006,17:00,Baník Most,Vysočina Jihlava,2:1
+2005-2006,13.03.2006,16:40,Sparta Praha,1. FC Slovácko,1:0
+2005-2006,18.03.2006,14:25,Slavia Praha,1. FK Příbram,1:0
+2005-2006,18.03.2006,17:00,1. FC Slovácko,Vysočina Jihlava,1:0
+2005-2006,19.03.2006,15:00,FK Jablonec,FK Mladá Boleslav,1:1
+2005-2006,19.03.2006,15:00,Chmel Blšany,Slovan Liberec,0:0
+2005-2006,19.03.2006,17:00,Sigma Olomouc,Baník Most,1:1
+2005-2006,19.03.2006,17:00,FK Teplice,1. FC Brno,1:1
+2005-2006,19.03.2006,17:00,Viktoria Plzeň,Tescoma Zlín,1:1
+2005-2006,20.03.2006,16:40,Baník Ostrava,Sparta Praha,0:2
+2005-2006,22.03.2006,17:00,Chmel Blšany,FK Mladá Boleslav,1:0
+2005-2006,22.03.2006,17:00,Sigma Olomouc,Viktoria Plzeň,1:1
+2005-2006,23.03.2006,17:00,Baník Ostrava,Baník Most,0:0
+2005-2006,25.03.2006,14:25,Sparta Praha,FK Teplice,0:0
+2005-2006,25.03.2006,17:00,Slovan Liberec,FK Jablonec,2:0
+2005-2006,25.03.2006,17:00,Vysočina Jihlava,Chmel Blšany,0:0
+2005-2006,26.03.2006,17:00,1. FC Brno,1. FC Slovácko,0:0
+2005-2006,26.03.2006,17:00,Baník Most,Viktoria Plzeň,1:0
+2005-2006,27.03.2006,16:40,FK Mladá Boleslav,Slavia Praha,4:1
+2005-2006,29.03.2006,17:00,1. FK Příbram,FK Jablonec,2:2
+2005-2006,01.04.2006,14:25,Slavia Praha,Baník Most,3:0
+2005-2006,01.04.2006,18:00,Baník Ostrava,1. FC Slovácko,2:0
+2005-2006,02.04.2006,15:00,Chmel Blšany,Sparta Praha,0:0
+2005-2006,02.04.2006,17:00,Tescoma Zlín,1. FK Příbram,1:0
+2005-2006,02.04.2006,17:00,FK Jablonec,1. FC Brno,0:2
+2005-2006,02.04.2006,17:00,Viktoria Plzeň,FK Mladá Boleslav,0:1
+2005-2006,02.04.2006,17:00,FK Teplice,Vysočina Jihlava,3:1
+2005-2006,03.04.2006,16:40,Sigma Olomouc,Slovan Liberec,1:0
+2005-2006,05.04.2006,17:00,1. FK Příbram,Chmel Blšany,1:1
+2005-2006,08.04.2006,14:25,Sparta Praha,Slavia Praha,2:1
+2005-2006,08.04.2006,17:00,Vysočina Jihlava,Baník Ostrava,0:1
+2005-2006,08.04.2006,20:00,1. FC Slovácko,Chmel Blšany,2:0
+2005-2006,09.04.2006,17:00,1. FK Příbram,Viktoria Plzeň,2:0
+2005-2006,09.04.2006,17:00,1. FC Brno,Sigma Olomouc,1:1
+2005-2006,09.04.2006,17:00,Baník Most,FK Jablonec,3:0
+2005-2006,09.04.2006,17:00,FK Mladá Boleslav,Tescoma Zlín,2:0
+2005-2006,10.04.2006,16:40,Slovan Liberec,FK Teplice,1:1
+2005-2006,12.04.2006,17:00,Tescoma Zlín,Slavia Praha,2:2
+2005-2006,12.04.2006,17:00,Vysočina Jihlava,FK Mladá Boleslav,0:0
+2005-2006,15.04.2006,14:25,Sigma Olomouc,Sparta Praha,1:2
+2005-2006,15.04.2006,18:00,Tescoma Zlín,Baník Most,1:1
+2005-2006,15.04.2006,19:30,FK Teplice,1. FC Slovácko,0:0
+2005-2006,16.04.2006,15:00,Chmel Blšany,Baník Ostrava,1:1
+2005-2006,16.04.2006,17:00,1. FK Příbram,FK Mladá Boleslav,1:2
+2005-2006,16.04.2006,17:00,FK Jablonec,Vysočina Jihlava,0:0
+2005-2006,17.04.2006,16:40,Viktoria Plzeň,Slovan Liberec,1:1
+2005-2006,19.04.2006,17:00,Tescoma Zlín,Sigma Olomouc,1:0
+2005-2006,19.04.2006,17:00,Vysočina Jihlava,Sparta Praha,0:1
+2005-2006,19.04.2006,17:00,1. FK Příbram,Baník Ostrava,2:2
+2005-2006,20.04.2006,17:00,1. FC Brno,Chmel Blšany,1:0
+2005-2006,22.04.2006,14:25,1. FC Slovácko,Slavia Praha,0:0
+2005-2006,22.04.2006,18:00,Baník Ostrava,FK Teplice,0:0
+2005-2006,22.04.2006,18:00,Slovan Liberec,1. FK Příbram,1:0
+2005-2006,22.04.2006,18:00,Vysočina Jihlava,Viktoria Plzeň,2:0
+2005-2006,23.04.2006,15:00,Chmel Blšany,Sigma Olomouc,0:2
+2005-2006,23.04.2006,17:00,1. FC Brno,Tescoma Zlín,1:1
+2005-2006,23.04.2006,17:00,Baník Most,FK Mladá Boleslav,1:0
+2005-2006,24.04.2006,16:40,Sparta Praha,FK Jablonec,3:0
+2005-2006,26.04.2006,17:00,FK Teplice,Chmel Blšany,2:1
+2005-2006,26.04.2006,17:00,Tescoma Zlín,Vysočina Jihlava,1:1
+2005-2006,26.04.2006,17:00,1. FK Příbram,Baník Most,1:0
+2005-2006,26.04.2006,17:00,Viktoria Plzeň,1. FC Brno,2:1
+2005-2006,26.04.2006,17:00,Slavia Praha,Slovan Liberec,1:3
+2005-2006,26.04.2006,17:00,Sigma Olomouc,1. FC Slovácko,1:1
+2005-2006,27.04.2006,17:00,FK Jablonec,Baník Ostrava,1:2
+2005-2006,27.04.2006,17:00,FK Mladá Boleslav,Sparta Praha,2:0
+2005-2006,29.04.2006,14:25,Slovan Liberec,Baník Most,1:1
+2005-2006,29.04.2006,18:00,Vysočina Jihlava,Sigma Olomouc,3:0
+2005-2006,29.04.2006,20:00,1. FC Slovácko,1. FK Příbram,2:0
+2005-2006,30.04.2006,15:00,Chmel Blšany,Slavia Praha,1:3
+2005-2006,30.04.2006,17:00,1. FC Brno,FK Mladá Boleslav,4:2
+2005-2006,30.04.2006,17:00,FK Teplice,FK Jablonec,1:1
+2005-2006,30.04.2006,17:00,Baník Ostrava,Viktoria Plzeň,6:0
+2005-2006,01.05.2006,16:40,Sparta Praha,Tescoma Zlín,1:0
+2005-2006,03.05.2006,18:00,Baník Ostrava,1. FC Brno,1:1
+2005-2006,06.05.2006,14:25,Slavia Praha,1. FC Brno,3:1
+2005-2006,10.05.2006,17:00,Baník Most,1. FC Brno,3:3
+2005-2006,10.05.2006,17:00,FK Mladá Boleslav,Vysočina Jihlava,4:0
+2005-2006,10.05.2006,17:00,1. FK Příbram,Sparta Praha,2:2
+2005-2006,10.05.2006,17:00,Tescoma Zlín,Slovan Liberec,1:1
+2005-2006,10.05.2006,17:00,Viktoria Plzeň,1. FC Slovácko,0:2
+2005-2006,10.05.2006,17:00,FK Jablonec,Chmel Blšany,2:0
+2005-2006,10.05.2006,17:00,Sigma Olomouc,FK Teplice,0:0
+2005-2006,10.05.2006,17:00,Slavia Praha,Baník Ostrava,4:0
+2005-2006,13.05.2006,14:25,FK Teplice,Baník Most,4:3
+2005-2006,13.05.2006,14:25,Slovan Liberec,FK Mladá Boleslav,2:3
+2005-2006,13.05.2006,14:25,1. FC Brno,1. FK Příbram,1:0
+2005-2006,13.05.2006,14:25,Vysočina Jihlava,Slavia Praha,0:3
+2005-2006,13.05.2006,14:25,1. FC Slovácko,FK Jablonec,1:0
+2005-2006,13.05.2006,14:25,Baník Ostrava,Sigma Olomouc,4:1
+2005-2006,13.05.2006,14:25,Chmel Blšany,Tescoma Zlín,3:2
+2005-2006,13.05.2006,14:25,Sparta Praha,Viktoria Plzeň,1:3
+2006-2007,29.07.2006,17:00,Sparta Praha,SK Kladno,0:0
+2006-2007,29.07.2006,19:00,Tescoma Zlín,1. FC Slovácko,1:2
+2006-2007,29.07.2006,19:00,FK Mladá Boleslav,Sigma Olomouc,2:1
+2006-2007,30.07.2006,17:00,FK Jablonec,Baník Most,2:2
+2006-2007,30.07.2006,17:00,1. FK Příbram,Viktoria Plzeň,1:1
+2006-2007,30.07.2006,17:00,FK Teplice,1. FC Brno,0:0
+2006-2007,30.07.2006,20:15,České Budějovice,Slovan Liberec,0:2
+2006-2007,31.07.2006,17:15,Baník Ostrava,Slavia Praha,0:2
+2006-2007,05.08.2006,19:00,1. FC Slovácko,FK Mladá Boleslav,0:2
+2006-2007,05.08.2006,19:00,Slovan Liberec,Baník Ostrava,2:0
+2006-2007,06.08.2006,17:00,Baník Most,1. FK Příbram,1:1
+2006-2007,06.08.2006,17:00,Sigma Olomouc,České Budějovice,0:0
+2006-2007,06.08.2006,17:00,SK Kladno,FK Jablonec,0:1
+2006-2007,06.08.2006,17:00,1. FC Brno,Tescoma Zlín,1:0
+2006-2007,06.08.2006,20:15,Slavia Praha,FK Teplice,3:2
+2006-2007,07.08.2006,17:15,Viktoria Plzeň,Sparta Praha,0:1
+2006-2007,12.08.2006,19:00,Baník Ostrava,Sigma Olomouc,3:1
+2006-2007,12.08.2006,19:00,FK Jablonec,Sparta Praha,0:0
+2006-2007,12.08.2006,19:00,Tescoma Zlín,Baník Most,2:1
+2006-2007,13.08.2006,17:00,FK Mladá Boleslav,Viktoria Plzeň,0:0
+2006-2007,13.08.2006,17:00,České Budějovice,1. FC Brno,0:0
+2006-2007,13.08.2006,17:00,FK Teplice,1. FC Slovácko,3:2
+2006-2007,13.08.2006,20:15,Slavia Praha,Slovan Liberec,0:2
+2006-2007,14.08.2006,17:15,1. FK Příbram,SK Kladno,1:0
+2006-2007,18.08.2006,16:30,FK Jablonec,FK Mladá Boleslav,0:2
+2006-2007,19.08.2006,17:00,Sparta Praha,1. FK Příbram,2:1
+2006-2007,19.08.2006,19:00,Sigma Olomouc,Slovan Liberec,0:1
+2006-2007,20.08.2006,17:00,Viktoria Plzeň,FK Teplice,2:0
+2006-2007,20.08.2006,17:00,Baník Most,České Budějovice,1:2
+2006-2007,20.08.2006,17:00,SK Kladno,Tescoma Zlín,0:0
+2006-2007,20.08.2006,20:15,1. FC Brno,Slavia Praha,1:0
+2006-2007,21.08.2006,17:15,1. FC Slovácko,Baník Ostrava,1:2
+2006-2007,26.08.2006,19:00,Slovan Liberec,1. FC Brno,0:0
+2006-2007,26.08.2006,19:00,Baník Ostrava,SK Kladno,5:1
+2006-2007,27.08.2006,17:00,1. FK Příbram,FK Jablonec,0:1
+2006-2007,27.08.2006,17:00,České Budějovice,1. FC Slovácko,1:0
+2006-2007,27.08.2006,17:00,Slavia Praha,Sigma Olomouc,3:0
+2006-2007,27.08.2006,19:00,Tescoma Zlín,Viktoria Plzeň,1:2
+2006-2007,27.08.2006,20:15,FK Mladá Boleslav,Sparta Praha,3:0
+2006-2007,28.08.2006,17:15,FK Teplice,Baník Most,2:2
+2006-2007,09.09.2006,17:00,Sparta Praha,Tescoma Zlín,2:0
+2006-2007,10.09.2006,17:00,1. FK Příbram,FK Mladá Boleslav,1:2
+2006-2007,10.09.2006,17:00,Viktoria Plzeň,Sigma Olomouc,2:0
+2006-2007,10.09.2006,17:00,Baník Most,Slavia Praha,2:0
+2006-2007,10.09.2006,17:00,SK Kladno,České Budějovice,2:1
+2006-2007,10.09.2006,17:00,FK Jablonec,FK Teplice,2:1
+2006-2007,10.09.2006,20:15,1. FC Slovácko,Slovan Liberec,0:1
+2006-2007,11.09.2006,17:15,1. FC Brno,Baník Ostrava,2:1
+2006-2007,16.09.2006,19:00,Tescoma Zlín,1. FK Příbram,1:0
+2006-2007,16.09.2006,19:00,Baník Ostrava,Viktoria Plzeň,1:1
+2006-2007,17.09.2006,17:00,Sigma Olomouc,1. FC Brno,1:0
+2006-2007,17.09.2006,17:00,České Budějovice,FK Jablonec,1:0
+2006-2007,17.09.2006,17:00,Slavia Praha,1. FC Slovácko,0:0
+2006-2007,17.09.2006,20:15,Slovan Liberec,Baník Most,3:0
+2006-2007,18.09.2006,17:15,FK Teplice,Sparta Praha,1:1
+2006-2007,18.09.2006,19:30,FK Mladá Boleslav,SK Kladno,2:0
+2006-2007,23.09.2006,19:00,1. FC Slovácko,1. FC Brno,0:0
+2006-2007,24.09.2006,15:00,SK Kladno,Sigma Olomouc,3:2
+2006-2007,24.09.2006,17:00,Sparta Praha,České Budějovice,3:0
+2006-2007,24.09.2006,17:00,1. FK Příbram,FK Teplice,0:3
+2006-2007,24.09.2006,17:00,Viktoria Plzeň,Slavia Praha,0:4
+2006-2007,24.09.2006,17:00,FK Jablonec,Slovan Liberec,1:1
+2006-2007,24.09.2006,20:15,FK Mladá Boleslav,Tescoma Zlín,2:0
+2006-2007,25.09.2006,17:15,Baník Most,Baník Ostrava,2:1
+2006-2007,30.09.2006,14:00,Tescoma Zlín,FK Jablonec,0:0
+2006-2007,30.09.2006,19:00,Baník Ostrava,1. FK Příbram,1:1
+2006-2007,01.10.2006,17:00,Sigma Olomouc,1. FC Slovácko,2:1
+2006-2007,01.10.2006,17:00,České Budějovice,Viktoria Plzeň,2:1
+2006-2007,01.10.2006,17:00,1. FC Brno,Baník Most,1:1
+2006-2007,01.10.2006,20:15,FK Teplice,FK Mladá Boleslav,2:0
+2006-2007,02.10.2006,17:15,Slavia Praha,Sparta Praha,0:0
+2006-2007,02.10.2006,20:00,Slovan Liberec,SK Kladno,4:1
+2006-2007,14.10.2006,17:00,Tescoma Zlín,FK Teplice,1:4
+2006-2007,14.10.2006,17:00,Viktoria Plzeň,1. FC Brno,1:1
+2006-2007,15.10.2006,15:00,SK Kladno,Slavia Praha,0:1
+2006-2007,15.10.2006,17:00,1. FK Příbram,Slovan Liberec,1:0
+2006-2007,15.10.2006,17:00,Baník Most,1. FC Slovácko,2:0
+2006-2007,15.10.2006,17:00,FK Mladá Boleslav,České Budějovice,4:2
+2006-2007,15.10.2006,20:15,Sparta Praha,Baník Ostrava,3:0
+2006-2007,16.10.2006,17:15,FK Jablonec,Sigma Olomouc,2:0
+2006-2007,21.10.2006,14:30,Baník Ostrava,Tescoma Zlín,1:0
+2006-2007,22.10.2006,17:00,České Budějovice,1. FK Příbram,2:1
+2006-2007,22.10.2006,17:00,Sigma Olomouc,Baník Most,2:0
+2006-2007,22.10.2006,17:00,FK Teplice,SK Kladno,2:0
+2006-2007,22.10.2006,17:00,Slovan Liberec,Viktoria Plzeň,4:1
+2006-2007,22.10.2006,20:15,Slavia Praha,FK Jablonec,2:2
+2006-2007,23.10.2006,17:15,1. FC Brno,FK Mladá Boleslav,2:0
+2006-2007,23.10.2006,19:00,1. FC Slovácko,Sparta Praha,0:1
+2006-2007,28.10.2006,14:30,Sparta Praha,1. FC Brno,2:0
+2006-2007,28.10.2006,17:00,Tescoma Zlín,Slovan Liberec,0:0
+2006-2007,29.10.2006,15:00,SK Kladno,1. FC Slovácko,2:1
+2006-2007,29.10.2006,15:00,FK Jablonec,Baník Ostrava,1:1
+2006-2007,29.10.2006,17:00,1. FK Příbram,Sigma Olomouc,1:1
+2006-2007,29.10.2006,17:00,Viktoria Plzeň,Baník Most,1:1
+2006-2007,29.10.2006,20:15,FK Mladá Boleslav,Slavia Praha,1:3
+2006-2007,30.10.2006,17:15,FK Teplice,České Budějovice,1:3
+2006-2007,04.11.2006,17:00,1. FC Slovácko,Viktoria Plzeň,0:2
+2006-2007,05.11.2006,17:00,1. FC Brno,FK Jablonec,3:2
+2006-2007,05.11.2006,17:00,Baník Most,SK Kladno,1:3
+2006-2007,05.11.2006,17:00,Slavia Praha,1. FK Příbram,1:1
+2006-2007,05.11.2006,17:00,Sigma Olomouc,FK Teplice,1:1
+2006-2007,05.11.2006,17:00,České Budějovice,Tescoma Zlín,1:1
+2006-2007,05.11.2006,20:15,Baník Ostrava,FK Mladá Boleslav,2:0
+2006-2007,06.11.2006,17:15,Slovan Liberec,Sparta Praha,0:0
+2006-2007,11.11.2006,17:00,Sparta Praha,Sigma Olomouc,1:0
+2006-2007,11.11.2006,17:00,Tescoma Zlín,Slavia Praha,1:2
+2006-2007,12.11.2006,15:00,FK Jablonec,Viktoria Plzeň,2:1
+2006-2007,12.11.2006,17:00,České Budějovice,Baník Ostrava,2:2
+2006-2007,12.11.2006,17:00,SK Kladno,1. FC Brno,3:0
+2006-2007,12.11.2006,17:00,1. FK Příbram,1. FC Slovácko,1:1
+2006-2007,12.11.2006,20:15,FK Teplice,Slovan Liberec,3:0
+2006-2007,13.11.2006,17:15,FK Mladá Boleslav,Baník Most,2:1
+2006-2007,18.11.2006,17:00,Baník Ostrava,FK Teplice,1:1
+2006-2007,18.11.2006,17:00,1. FC Slovácko,FK Jablonec,1:1
+2006-2007,19.11.2006,15:00,Viktoria Plzeň,SK Kladno,1:1
+2006-2007,19.11.2006,17:00,1. FC Brno,1. FK Příbram,2:0
+2006-2007,19.11.2006,17:00,Sigma Olomouc,Tescoma Zlín,3:0
+2006-2007,19.11.2006,17:00,Baník Most,Sparta Praha,1:1
+2006-2007,19.11.2006,20:15,Slovan Liberec,FK Mladá Boleslav,1:1
+2006-2007,20.11.2006,17:15,Slavia Praha,České Budějovice,2:0
+2006-2007,25.11.2006,17:00,Tescoma Zlín,1. FC Brno,3:0
+2006-2007,26.11.2006,15:00,FK Jablonec,SK Kladno,3:0
+2006-2007,26.11.2006,17:00,1. FK Příbram,Baník Most,0:0
+2006-2007,26.11.2006,17:00,FK Mladá Boleslav,1. FC Slovácko,2:2
+2006-2007,26.11.2006,17:00,České Budějovice,Sigma Olomouc,2:0
+2006-2007,26.11.2006,17:00,Baník Ostrava,Slovan Liberec,1:1
+2006-2007,26.11.2006,20:15,Sparta Praha,Viktoria Plzeň,1:0
+2006-2007,27.11.2006,17:15,FK Teplice,Slavia Praha,2:4
+2006-2007,02.12.2006,17:00,1. FC Slovácko,Tescoma Zlín,0:0
+2006-2007,03.12.2006,15:00,Slovan Liberec,České Budějovice,2:0
+2006-2007,03.12.2006,17:00,Slavia Praha,Baník Ostrava,2:1
+2006-2007,03.12.2006,17:00,Sigma Olomouc,FK Mladá Boleslav,3:1
+2006-2007,03.12.2006,17:00,Viktoria Plzeň,1. FK Příbram,2:0
+2006-2007,03.12.2006,17:00,Baník Most,FK Jablonec,3:1
+2006-2007,03.12.2006,20:15,1. FC Brno,FK Teplice,2:2
+2006-2007,04.12.2006,17:15,SK Kladno,Sparta Praha,0:2
+2006-2007,10.03.2007,17:00,1. FC Slovácko,FK Teplice,2:2
+2006-2007,11.03.2007,15:00,Viktoria Plzeň,FK Mladá Boleslav,0:0
+2006-2007,11.03.2007,17:00,1. FC Brno,České Budějovice,5:0
+2006-2007,11.03.2007,17:00,Sigma Olomouc,Baník Ostrava,1:3
+2006-2007,11.03.2007,17:00,Baník Most,Tescoma Zlín,0:0
+2006-2007,11.03.2007,17:00,SK Kladno,1. FK Příbram,0:0
+2006-2007,11.03.2007,20:15,Sparta Praha,FK Jablonec,0:3
+2006-2007,12.03.2007,17:15,Slovan Liberec,Slavia Praha,0:1
+2006-2007,17.03.2007,17:00,Baník Ostrava,1. FC Slovácko,1:0
+2006-2007,17.03.2007,17:00,Tescoma Zlín,SK Kladno,0:0
+2006-2007,18.03.2007,17:00,České Budějovice,Baník Most,0:0
+2006-2007,18.03.2007,17:00,FK Teplice,Viktoria Plzeň,1:2
+2006-2007,18.03.2007,17:00,1. FK Příbram,Sparta Praha,0:2
+2006-2007,18.03.2007,17:00,FK Mladá Boleslav,FK Jablonec,2:0
+2006-2007,18.03.2007,20:15,Slovan Liberec,Sigma Olomouc,2:1
+2006-2007,19.03.2007,17:15,Slavia Praha,1. FC Brno,2:1
+2006-2007,31.03.2007,19:00,1. FC Slovácko,České Budějovice,0:1
+2006-2007,01.04.2007,15:00,Viktoria Plzeň,Tescoma Zlín,2:0
+2006-2007,01.04.2007,17:00,Baník Most,FK Teplice,0:0
+2006-2007,01.04.2007,17:00,SK Kladno,Baník Ostrava,1:1
+2006-2007,01.04.2007,17:00,FK Jablonec,1. FK Příbram,0:0
+2006-2007,01.04.2007,17:00,1. FC Brno,Slovan Liberec,1:2
+2006-2007,01.04.2007,20:15,Sigma Olomouc,Slavia Praha,1:2
+2006-2007,02.04.2007,17:15,Sparta Praha,FK Mladá Boleslav,4:1
+2006-2007,07.04.2007,17:00,Slovan Liberec,1. FC Slovácko,1:1
+2006-2007,07.04.2007,19:00,Tescoma Zlín,Sparta Praha,2:0
+2006-2007,08.04.2007,17:00,Sigma Olomouc,Viktoria Plzeň,1:3
+2006-2007,08.04.2007,17:00,České Budějovice,SK Kladno,0:2
+2006-2007,08.04.2007,17:00,Slavia Praha,Baník Most,3:0
+2006-2007,08.04.2007,17:00,FK Mladá Boleslav,1. FK Příbram,2:1
+2006-2007,08.04.2007,20:15,FK Teplice,FK Jablonec,1:0
+2006-2007,09.04.2007,17:15,Baník Ostrava,1. FC Brno,1:2
+2006-2007,14.04.2007,14:30,Sparta Praha,FK Teplice,2:1
+2006-2007,14.04.2007,17:00,SK Kladno,FK Mladá Boleslav,0:0
+2006-2007,15.04.2007,17:00,1. FK Příbram,Tescoma Zlín,1:1
+2006-2007,15.04.2007,17:00,Viktoria Plzeň,Baník Ostrava,0:1
+2006-2007,15.04.2007,17:00,Baník Most,Slovan Liberec,0:0
+2006-2007,15.04.2007,17:00,FK Jablonec,České Budějovice,0:0
+2006-2007,15.04.2007,20:15,1. FC Slovácko,Slavia Praha,0:0
+2006-2007,16.04.2007,17:15,1. FC Brno,Sigma Olomouc,2:1
+2006-2007,18.04.2007,18:00,FK Teplice,1. FK Příbram,1:0
+2006-2007,18.04.2007,18:00,Slavia Praha,Viktoria Plzeň,0:1
+2006-2007,18.04.2007,18:00,České Budějovice,Sparta Praha,2:0
+2006-2007,18.04.2007,18:00,Baník Ostrava,Baník Most,1:0
+2006-2007,18.04.2007,20:15,Tescoma Zlín,FK Mladá Boleslav,0:2
+2006-2007,19.04.2007,17:15,Slovan Liberec,FK Jablonec,3:1
+2006-2007,19.04.2007,19:30,1. FC Brno,1. FC Slovácko,1:0
+2006-2007,19.04.2007,19:30,Sigma Olomouc,SK Kladno,2:0
+2006-2007,22.04.2007,17:00,1. FC Slovácko,Sigma Olomouc,1:0
+2006-2007,22.04.2007,17:00,1. FK Příbram,Baník Ostrava,0:0
+2006-2007,22.04.2007,17:00,Viktoria Plzeň,České Budějovice,2:2
+2006-2007,22.04.2007,17:00,Baník Most,1. FC Brno,4:2
+2006-2007,22.04.2007,17:00,SK Kladno,Slovan Liberec,0:1
+2006-2007,22.04.2007,17:00,FK Jablonec,Tescoma Zlín,1:1
+2006-2007,22.04.2007,20:15,FK Mladá Boleslav,FK Teplice,2:0
+2006-2007,23.04.2007,17:15,Sparta Praha,Slavia Praha,1:0
+2006-2007,28.04.2007,19:00,1. FC Slovácko,Baník Most,1:1
+2006-2007,29.04.2007,17:00,FK Teplice,Tescoma Zlín,1:0
+2006-2007,29.04.2007,17:00,Slavia Praha,SK Kladno,0:0
+2006-2007,29.04.2007,17:00,Sigma Olomouc,FK Jablonec,1:1
+2006-2007,29.04.2007,17:00,České Budějovice,FK Mladá Boleslav,0:3
+2006-2007,29.04.2007,17:00,1. FC Brno,Viktoria Plzeň,1:2
+2006-2007,29.04.2007,20:15,Slovan Liberec,1. FK Příbram,5:1
+2006-2007,30.04.2007,17:15,Baník Ostrava,Sparta Praha,2:2
+2006-2007,05.05.2007,16:00,Tescoma Zlín,Baník Ostrava,0:0
+2006-2007,05.05.2007,17:00,Sparta Praha,1. FC Slovácko,3:1
+2006-2007,06.05.2007,16:00,SK Kladno,FK Teplice,0:2
+2006-2007,06.05.2007,16:00,Baník Most,Sigma Olomouc,1:1
+2006-2007,06.05.2007,16:00,1. FK Příbram,České Budějovice,1:0
+2006-2007,06.05.2007,17:00,Viktoria Plzeň,Slovan Liberec,0:1
+2006-2007,06.05.2007,20:15,FK Mladá Boleslav,1. FC Brno,2:0
+2006-2007,07.05.2007,16:00,FK Jablonec,Slavia Praha,1:0
+2006-2007,09.05.2007,18:00,1. FC Slovácko,SK Kladno,0:1
+2006-2007,09.05.2007,18:00,Sigma Olomouc,1. FK Příbram,0:0
+2006-2007,09.05.2007,18:00,Baník Most,Viktoria Plzeň,1:1
+2006-2007,09.05.2007,18:00,Slovan Liberec,Tescoma Zlín,2:2
+2006-2007,09.05.2007,18:00,České Budějovice,FK Teplice,1:2
+2006-2007,09.05.2007,20:15,1. FC Brno,Sparta Praha,1:2
+2006-2007,10.05.2007,17:15,Slavia Praha,FK Mladá Boleslav,1:1
+2006-2007,10.05.2007,18:00,Baník Ostrava,FK Jablonec,3:0
+2006-2007,12.05.2007,19:00,Tescoma Zlín,České Budějovice,2:1
+2006-2007,13.05.2007,16:00,FK Mladá Boleslav,Baník Ostrava,2:0
+2006-2007,13.05.2007,16:00,FK Teplice,Sigma Olomouc,2:2
+2006-2007,13.05.2007,16:00,FK Jablonec,1. FC Brno,0:1
+2006-2007,13.05.2007,16:00,SK Kladno,Baník Most,2:2
+2006-2007,13.05.2007,16:00,Viktoria Plzeň,1. FC Slovácko,2:0
+2006-2007,13.05.2007,20:15,1. FK Příbram,Slavia Praha,0:2
+2006-2007,14.05.2007,17:15,Sparta Praha,Slovan Liberec,1:1
+2006-2007,21.05.2007,17:15,Viktoria Plzeň,FK Jablonec,1:0
+2006-2007,21.05.2007,17:15,Baník Most,FK Mladá Boleslav,1:1
+2006-2007,21.05.2007,17:15,Slovan Liberec,FK Teplice,2:0
+2006-2007,21.05.2007,17:15,1. FC Brno,SK Kladno,1:0
+2006-2007,21.05.2007,17:15,Baník Ostrava,České Budějovice,5:1
+2006-2007,21.05.2007,17:15,1. FC Slovácko,1. FK Příbram,2:0
+2006-2007,21.05.2007,17:15,Slavia Praha,Tescoma Zlín,2:1
+2006-2007,21.05.2007,17:15,Sigma Olomouc,Sparta Praha,0:2
+2006-2007,28.05.2007,17:15,1. FK Příbram,1. FC Brno,0:1
+2006-2007,28.05.2007,17:15,FK Mladá Boleslav,Slovan Liberec,4:0
+2006-2007,28.05.2007,17:15,SK Kladno,Viktoria Plzeň,1:1
+2006-2007,28.05.2007,17:15,FK Jablonec,1. FC Slovácko,3:1
+2006-2007,28.05.2007,17:15,České Budějovice,Slavia Praha,1:2
+2006-2007,28.05.2007,17:15,Tescoma Zlín,Sigma Olomouc,1:1
+2006-2007,28.05.2007,17:15,FK Teplice,Baník Ostrava,1:2
+2006-2007,28.05.2007,17:15,Sparta Praha,Baník Most,5:0
+2007-2008,05.08.2007,17:00,Bohemians 1905,Baník Ostrava,0:2
+2007-2008,05.08.2007,17:00,1. FC Brno,Tescoma Zlín,0:0
+2007-2008,05.08.2007,17:00,Baník Most,Viktoria Plzeň,1:1
+2007-2008,05.08.2007,17:00,České Budějovice,Sigma Olomouc,2:0
+2007-2008,05.08.2007,17:00,SK Kladno,FK Teplice,0:2
+2007-2008,05.08.2007,17:00,FK Jablonec,Slavia Praha,0:1
+2007-2008,05.08.2007,20:15,FK Mladá Boleslav,Viktoria Žižkov,0:1
+2007-2008,06.08.2007,17:15,Sparta Praha,Slovan Liberec,1:0
+2007-2008,11.08.2007,17:00,Viktoria Plzeň,Sparta Praha,0:0
+2007-2008,11.08.2007,19:00,Sigma Olomouc,FK Mladá Boleslav,1:0
+2007-2008,11.08.2007,19:00,Tescoma Zlín,České Budějovice,1:0
+2007-2008,11.08.2007,19:00,Baník Ostrava,Baník Most,5:2
+2007-2008,12.08.2007,10:15,Viktoria Žižkov,1. FC Brno,3:4
+2007-2008,12.08.2007,17:00,Slavia Praha,SK Kladno,2:0
+2007-2008,12.08.2007,20:15,FK Teplice,FK Jablonec,1:0
+2007-2008,13.08.2007,17:15,Slovan Liberec,Bohemians 1905,0:0
+2007-2008,18.08.2007,17:00,Sparta Praha,Tescoma Zlín,2:1
+2007-2008,18.08.2007,19:00,Baník Ostrava,Slovan Liberec,3:1
+2007-2008,19.08.2007,17:00,Baník Most,FK Teplice,2:3
+2007-2008,19.08.2007,17:00,SK Kladno,Viktoria Žižkov,3:2
+2007-2008,19.08.2007,20:00,1. FC Brno,Viktoria Plzeň,0:1
+2007-2008,19.08.2007,20:15,České Budějovice,Slavia Praha,1:2
+2007-2008,20.08.2007,17:15,Bohemians 1905,Sigma Olomouc,0:0
+2007-2008,20.08.2007,19:30,FK Jablonec,FK Mladá Boleslav,1:1
+2007-2008,25.08.2007,18:15,Viktoria Žižkov,Sparta Praha,1:4
+2007-2008,25.08.2007,19:00,Sigma Olomouc,Baník Most,2:2
+2007-2008,25.08.2007,20:30,Slavia Praha,1. FC Brno,1:0
+2007-2008,26.08.2007,17:00,FK Jablonec,České Budějovice,1:0
+2007-2008,26.08.2007,17:00,Viktoria Plzeň,Bohemians 1905,2:0
+2007-2008,26.08.2007,20:15,FK Mladá Boleslav,SK Kladno,2:1
+2007-2008,27.08.2007,17:15,FK Teplice,Slovan Liberec,2:0
+2007-2008,27.08.2007,19:00,Tescoma Zlín,Baník Ostrava,2:2
+2007-2008,01.09.2007,19:00,Baník Ostrava,Viktoria Plzeň,2:0
+2007-2008,01.09.2007,19:00,Slovan Liberec,Tescoma Zlín,0:1
+2007-2008,02.09.2007,17:00,Baník Most,Slavia Praha,2:3
+2007-2008,02.09.2007,17:00,České Budějovice,FK Mladá Boleslav,2:2
+2007-2008,02.09.2007,17:00,SK Kladno,FK Jablonec,1:1
+2007-2008,02.09.2007,20:15,Sparta Praha,Sigma Olomouc,1:0
+2007-2008,03.09.2007,17:15,Bohemians 1905,Viktoria Žižkov,2:2
+2007-2008,15.09.2007,18:15,Slavia Praha,Baník Ostrava,0:0
+2007-2008,15.09.2007,19:00,Sigma Olomouc,1. FC Brno,1:1
+2007-2008,16.09.2007,10:15,Viktoria Žižkov,Slovan Liberec,1:1
+2007-2008,16.09.2007,15:00,SK Kladno,České Budějovice,5:1
+2007-2008,16.09.2007,17:00,FK Mladá Boleslav,Baník Most,1:1
+2007-2008,16.09.2007,17:00,FK Jablonec,Bohemians 1905,0:0
+2007-2008,16.09.2007,19:15,FK Teplice,Sparta Praha,2:1
+2007-2008,17.09.2007,17:15,Viktoria Plzeň,Tescoma Zlín,1:1
+2007-2008,19.09.2007,18:00,1. FC Brno,FK Teplice,2:2
+2007-2008,22.09.2007,19:00,Tescoma Zlín,FK Teplice,1:0
+2007-2008,22.09.2007,19:00,Slovan Liberec,Viktoria Plzeň,2:0
+2007-2008,23.09.2007,15:00,České Budějovice,Viktoria Žižkov,1:1
+2007-2008,23.09.2007,16:30,Bohemians 1905,Slavia Praha,2:0
+2007-2008,23.09.2007,17:00,1. FC Brno,FK Jablonec,2:1
+2007-2008,23.09.2007,17:00,Baník Most,SK Kladno,2:2
+2007-2008,23.09.2007,20:15,Baník Ostrava,Sigma Olomouc,0:1
+2007-2008,24.09.2007,17:15,Sparta Praha,FK Mladá Boleslav,0:1
+2007-2008,28.09.2007,18:00,Slavia Praha,Tescoma Zlín,7:1
+2007-2008,29.09.2007,19:00,Sigma Olomouc,Slovan Liberec,1:0
+2007-2008,30.09.2007,17:00,SK Kladno,1. FC Brno,1:2
+2007-2008,30.09.2007,17:00,České Budějovice,Baník Most,1:0
+2007-2008,30.09.2007,17:00,FK Teplice,Viktoria Plzeň,1:0
+2007-2008,30.09.2007,17:00,FK Mladá Boleslav,Bohemians 1905,2:0
+2007-2008,30.09.2007,20:15,FK Jablonec,Sparta Praha,0:2
+2007-2008,01.10.2007,17:15,Viktoria Žižkov,Baník Ostrava,0:2
+2007-2008,06.10.2007,19:00,Tescoma Zlín,Sigma Olomouc,0:0
+2007-2008,06.10.2007,19:00,Slovan Liberec,SK Kladno,1:1
+2007-2008,07.10.2007,16:00,Bohemians 1905,České Budějovice,0:2
+2007-2008,07.10.2007,17:00,Baník Most,FK Jablonec,2:1
+2007-2008,07.10.2007,20:15,Baník Ostrava,FK Teplice,0:0
+2007-2008,08.10.2007,17:15,Sparta Praha,Slavia Praha,0:2
+2007-2008,08.10.2007,19:30,1. FC Brno,FK Mladá Boleslav,0:3
+2007-2008,08.10.2007,19:30,Viktoria Plzeň,Viktoria Žižkov,3:1
+2007-2008,19.10.2007,18:00,Slavia Praha,Viktoria Plzeň,3:0
+2007-2008,20.10.2007,17:00,Sigma Olomouc,FK Teplice,1:0
+2007-2008,21.10.2007,10:15,Viktoria Žižkov,Tescoma Zlín,2:0
+2007-2008,21.10.2007,15:00,FK Jablonec,Baník Ostrava,1:1
+2007-2008,21.10.2007,15:00,SK Kladno,Bohemians 1905,2:1
+2007-2008,21.10.2007,17:00,Baník Most,1. FC Brno,2:2
+2007-2008,21.10.2007,20:15,České Budějovice,Sparta Praha,1:1
+2007-2008,22.10.2007,17:15,FK Mladá Boleslav,Slovan Liberec,0:2
+2007-2008,27.10.2007,17:00,Tescoma Zlín,FK Jablonec,0:1
+2007-2008,28.10.2007,14:30,Bohemians 1905,Baník Most,1:0
+2007-2008,28.10.2007,15:00,Viktoria Plzeň,Sigma Olomouc,2:0
+2007-2008,28.10.2007,17:00,Sparta Praha,SK Kladno,4:1
+2007-2008,28.10.2007,17:00,1. FC Brno,České Budějovice,2:1
+2007-2008,28.10.2007,17:00,FK Teplice,Viktoria Žižkov,4:1
+2007-2008,28.10.2007,20:15,Baník Ostrava,FK Mladá Boleslav,3:3
+2007-2008,29.10.2007,17:15,Slovan Liberec,Slavia Praha,1:1
+2007-2008,03.11.2007,15:45,Slavia Praha,FK Teplice,1:0
+2007-2008,04.11.2007,10:15,Viktoria Žižkov,Sigma Olomouc,2:0
+2007-2008,04.11.2007,17:00,FK Mladá Boleslav,Tescoma Zlín,0:1
+2007-2008,04.11.2007,17:00,Baník Most,Sparta Praha,0:5
+2007-2008,04.11.2007,17:00,SK Kladno,Viktoria Plzeň,1:2
+2007-2008,04.11.2007,17:00,České Budějovice,Baník Ostrava,3:0
+2007-2008,04.11.2007,20:15,1. FC Brno,Bohemians 1905,2:0
+2007-2008,05.11.2007,17:15,FK Jablonec,Slovan Liberec,1:2
+2007-2008,10.11.2007,15:00,Sigma Olomouc,FK Jablonec,1:1
+2007-2008,10.11.2007,15:00,Slovan Liberec,Baník Most,2:1
+2007-2008,10.11.2007,17:00,Tescoma Zlín,SK Kladno,4:0
+2007-2008,10.11.2007,17:00,Baník Ostrava,1. FC Brno,2:1
+2007-2008,11.11.2007,17:00,Viktoria Plzeň,FK Mladá Boleslav,2:0
+2007-2008,11.11.2007,17:00,FK Teplice,České Budějovice,4:2
+2007-2008,11.11.2007,20:15,Viktoria Žižkov,Slavia Praha,1:1
+2007-2008,12.11.2007,17:15,Sparta Praha,Bohemians 1905,3:1
+2007-2008,23.11.2007,17:00,Slavia Praha,Sigma Olomouc,0:0
+2007-2008,24.11.2007,18:45,FK Mladá Boleslav,FK Teplice,1:1
+2007-2008,25.11.2007,13:30,Bohemians 1905,Tescoma Zlín,1:2
+2007-2008,25.11.2007,15:00,FK Jablonec,Viktoria Plzeň,0:1
+2007-2008,25.11.2007,15:00,České Budějovice,Slovan Liberec,2:0
+2007-2008,25.11.2007,17:00,Baník Most,Viktoria Žižkov,1:0
+2007-2008,25.11.2007,20:15,1. FC Brno,Sparta Praha,4:2
+2007-2008,26.11.2007,17:15,SK Kladno,Baník Ostrava,3:0
+2007-2008,01.12.2007,15:00,Sigma Olomouc,SK Kladno,1:1
+2007-2008,01.12.2007,17:00,Tescoma Zlín,Baník Most,1:1
+2007-2008,02.12.2007,10:15,Viktoria Žižkov,FK Jablonec,2:0
+2007-2008,02.12.2007,14:30,Baník Ostrava,Sparta Praha,0:0
+2007-2008,02.12.2007,15:00,Viktoria Plzeň,České Budějovice,1:1
+2007-2008,02.12.2007,17:00,FK Teplice,Bohemians 1905,2:0
+2007-2008,02.12.2007,20:15,Slavia Praha,FK Mladá Boleslav,1:1
+2007-2008,03.12.2007,17:15,Slovan Liberec,1. FC Brno,1:1
+2007-2008,08.12.2007,17:00,SK Kladno,Slavia Praha,0:1
+2007-2008,09.12.2007,13:30,1. FC Brno,Viktoria Žižkov,3:1
+2007-2008,09.12.2007,13:30,Bohemians 1905,Slovan Liberec,1:0
+2007-2008,09.12.2007,15:00,České Budějovice,Tescoma Zlín,1:0
+2007-2008,09.12.2007,17:00,Baník Most,Baník Ostrava,0:2
+2007-2008,09.12.2007,17:00,FK Mladá Boleslav,Sigma Olomouc,1:1
+2007-2008,09.12.2007,20:15,FK Jablonec,FK Teplice,1:0
+2007-2008,10.12.2007,17:15,Sparta Praha,Viktoria Plzeň,3:1
+2007-2008,16.02.2008,17:00,Tescoma Zlín,Sparta Praha,0:2
+2007-2008,16.02.2008,17:00,Sigma Olomouc,Bohemians 1905,1:1
+2007-2008,17.02.2008,10:15,Viktoria Žižkov,SK Kladno,1:0
+2007-2008,17.02.2008,15:00,Viktoria Plzeň,1. FC Brno,2:0
+2007-2008,17.02.2008,17:00,FK Teplice,Baník Most,1:0
+2007-2008,17.02.2008,17:00,FK Mladá Boleslav,FK Jablonec,1:1
+2007-2008,17.02.2008,20:15,Slavia Praha,České Budějovice,1:0
+2007-2008,18.02.2008,17:15,Slovan Liberec,Baník Ostrava,1:1
+2007-2008,23.02.2008,15:00,Slovan Liberec,FK Teplice,4:0
+2007-2008,23.02.2008,17:00,Baník Ostrava,Tescoma Zlín,2:1
+2007-2008,24.02.2008,15:00,SK Kladno,FK Mladá Boleslav,0:1
+2007-2008,24.02.2008,17:00,Baník Most,Sigma Olomouc,1:1
+2007-2008,24.02.2008,17:00,České Budějovice,FK Jablonec,0:0
+2007-2008,24.02.2008,17:00,Bohemians 1905,Viktoria Plzeň,2:2
+2007-2008,24.02.2008,20:15,Sparta Praha,Viktoria Žižkov,6:1
+2007-2008,25.02.2008,17:15,1. FC Brno,Slavia Praha,2:1
+2007-2008,01.03.2008,17:00,Tescoma Zlín,Slovan Liberec,0:1
+2007-2008,02.03.2008,15:00,Viktoria Plzeň,Baník Ostrava,0:4
+2007-2008,02.03.2008,15:00,FK Jablonec,SK Kladno,1:0
+2007-2008,02.03.2008,17:00,FK Mladá Boleslav,České Budějovice,2:1
+2007-2008,02.03.2008,17:00,Slavia Praha,Baník Most,2:0
+2007-2008,02.03.2008,17:00,FK Teplice,1. FC Brno,0:1
+2007-2008,02.03.2008,20:15,Viktoria Žižkov,Bohemians 1905,2:1
+2007-2008,03.03.2008,17:15,Sigma Olomouc,Sparta Praha,0:0
+2007-2008,08.03.2008,15:00,Slovan Liberec,Viktoria Žižkov,2:2
+2007-2008,08.03.2008,17:00,Tescoma Zlín,Viktoria Plzeň,3:1
+2007-2008,09.03.2008,15:00,1. FC Brno,Sigma Olomouc,1:0
+2007-2008,09.03.2008,17:00,České Budějovice,SK Kladno,0:0
+2007-2008,09.03.2008,17:00,Bohemians 1905,FK Jablonec,1:1
+2007-2008,09.03.2008,17:00,Baník Most,FK Mladá Boleslav,2:1
+2007-2008,09.03.2008,20:15,Baník Ostrava,Slavia Praha,2:2
+2007-2008,10.03.2008,17:15,Sparta Praha,FK Teplice,1:0
+2007-2008,15.03.2008,17:00,Sigma Olomouc,Baník Ostrava,1:0
+2007-2008,16.03.2008,10:15,Viktoria Žižkov,České Budějovice,2:0
+2007-2008,16.03.2008,15:00,Viktoria Plzeň,Slovan Liberec,0:1
+2007-2008,16.03.2008,15:00,FK Jablonec,1. FC Brno,2:0
+2007-2008,16.03.2008,17:00,FK Teplice,Tescoma Zlín,2:1
+2007-2008,16.03.2008,17:00,SK Kladno,Baník Most,1:1
+2007-2008,16.03.2008,20:15,Slavia Praha,Bohemians 1905,2:1
+2007-2008,17.03.2008,17:15,FK Mladá Boleslav,Sparta Praha,1:4
+2007-2008,22.03.2008,15:00,Slovan Liberec,Sigma Olomouc,2:1
+2007-2008,22.03.2008,17:00,Baník Ostrava,Viktoria Žižkov,3:0
+2007-2008,22.03.2008,17:00,Sparta Praha,FK Jablonec,1:0
+2007-2008,23.03.2008,17:00,Baník Most,České Budějovice,3:1
+2007-2008,23.03.2008,17:00,Bohemians 1905,FK Mladá Boleslav,1:1
+2007-2008,23.03.2008,17:00,1. FC Brno,SK Kladno,0:0
+2007-2008,23.03.2008,20:15,Viktoria Plzeň,FK Teplice,0:2
+2007-2008,24.03.2008,17:15,Tescoma Zlín,Slavia Praha,0:1
+2007-2008,29.03.2008,17:00,Sigma Olomouc,Tescoma Zlín,0:1
+2007-2008,30.03.2008,10:15,Viktoria Žižkov,Viktoria Plzeň,0:0
+2007-2008,30.03.2008,15:00,České Budějovice,Bohemians 1905,2:0
+2007-2008,30.03.2008,15:00,FK Jablonec,Baník Most,1:0
+2007-2008,30.03.2008,17:00,FK Mladá Boleslav,1. FC Brno,1:3
+2007-2008,30.03.2008,17:00,SK Kladno,Slovan Liberec,1:3
+2007-2008,30.03.2008,20:15,FK Teplice,Baník Ostrava,1:1
+2007-2008,31.03.2008,17:15,Slavia Praha,Sparta Praha,1:1
+2007-2008,05.04.2008,15:00,Slovan Liberec,FK Mladá Boleslav,1:2
+2007-2008,05.04.2008,17:00,Sparta Praha,České Budějovice,1:0
+2007-2008,05.04.2008,19:00,Baník Ostrava,FK Jablonec,3:0
+2007-2008,05.04.2008,19:00,Tescoma Zlín,Viktoria Žižkov,0:0
+2007-2008,06.04.2008,17:00,FK Teplice,Sigma Olomouc,1:1
+2007-2008,06.04.2008,17:00,1. FC Brno,Baník Most,2:1
+2007-2008,06.04.2008,20:15,Bohemians 1905,SK Kladno,1:1
+2007-2008,07.04.2008,17:15,Viktoria Plzeň,Slavia Praha,0:0
+2007-2008,12.04.2008,17:00,Sigma Olomouc,Viktoria Plzeň,1:0
+2007-2008,13.04.2008,10:15,Viktoria Žižkov,FK Teplice,1:2
+2007-2008,13.04.2008,17:00,FK Jablonec,Tescoma Zlín,0:3
+2007-2008,13.04.2008,17:00,Slavia Praha,Slovan Liberec,1:0
+2007-2008,13.04.2008,17:00,SK Kladno,Sparta Praha,0:1
+2007-2008,13.04.2008,17:00,České Budějovice,1. FC Brno,0:2
+2007-2008,13.04.2008,20:15,FK Mladá Boleslav,Baník Ostrava,3:1
+2007-2008,14.04.2008,17:15,Baník Most,Bohemians 1905,2:4
+2007-2008,19.04.2008,17:00,Sigma Olomouc,Viktoria Žižkov,2:0
+2007-2008,19.04.2008,19:00,Baník Ostrava,České Budějovice,2:0
+2007-2008,19.04.2008,19:00,Tescoma Zlín,FK Mladá Boleslav,0:1
+2007-2008,20.04.2008,17:00,Viktoria Plzeň,SK Kladno,1:2
+2007-2008,20.04.2008,17:00,Sparta Praha,Baník Most,3:0
+2007-2008,20.04.2008,17:00,Bohemians 1905,1. FC Brno,3:1
+2007-2008,20.04.2008,20:15,Slovan Liberec,FK Jablonec,2:1
+2007-2008,21.04.2008,17:15,FK Teplice,Slavia Praha,3:1
+2007-2008,26.04.2008,17:00,Slavia Praha,Viktoria Žižkov,0:3
+2007-2008,27.04.2008,15:00,Bohemians 1905,Sparta Praha,0:0
+2007-2008,27.04.2008,17:00,FK Jablonec,Sigma Olomouc,2:0
+2007-2008,27.04.2008,17:00,České Budějovice,FK Teplice,1:0
+2007-2008,27.04.2008,17:00,FK Mladá Boleslav,Viktoria Plzeň,3:0
+2007-2008,27.04.2008,17:00,SK Kladno,Tescoma Zlín,2:2
+2007-2008,27.04.2008,20:15,Baník Most,Slovan Liberec,0:1
+2007-2008,28.04.2008,17:15,1. FC Brno,Baník Ostrava,0:0
+2007-2008,03.05.2008,19:00,Baník Ostrava,SK Kladno,4:1
+2007-2008,03.05.2008,19:00,Tescoma Zlín,Bohemians 1905,0:0
+2007-2008,04.05.2008,10:15,Viktoria Žižkov,Baník Most,1:0
+2007-2008,04.05.2008,17:00,Viktoria Plzeň,FK Jablonec,2:0
+2007-2008,04.05.2008,17:00,FK Teplice,FK Mladá Boleslav,1:2
+2007-2008,04.05.2008,17:00,Slovan Liberec,České Budějovice,0:0
+2007-2008,04.05.2008,20:15,Sparta Praha,1. FC Brno,0:2
+2007-2008,05.05.2008,17:15,Sigma Olomouc,Slavia Praha,1:3
+2007-2008,10.05.2008,15:00,České Budějovice,Viktoria Plzeň,1:1
+2007-2008,10.05.2008,15:00,Baník Most,Tescoma Zlín,0:1
+2007-2008,10.05.2008,15:00,1. FC Brno,Slovan Liberec,2:0
+2007-2008,10.05.2008,15:00,Sparta Praha,Baník Ostrava,1:2
+2007-2008,10.05.2008,15:00,FK Mladá Boleslav,Slavia Praha,0:2
+2007-2008,10.05.2008,15:00,FK Jablonec,Viktoria Žižkov,3:0
+2007-2008,10.05.2008,15:00,SK Kladno,Sigma Olomouc,1:0
+2007-2008,10.05.2008,15:00,Bohemians 1905,FK Teplice,0:2
+2007-2008,17.05.2008,15:00,Slavia Praha,FK Jablonec,2:2
+2007-2008,17.05.2008,15:00,Viktoria Žižkov,FK Mladá Boleslav,1:0
+2007-2008,17.05.2008,15:00,Slovan Liberec,Sparta Praha,4:3
+2007-2008,17.05.2008,15:00,Baník Ostrava,Bohemians 1905,2:0
+2007-2008,17.05.2008,15:00,Tescoma Zlín,1. FC Brno,0:1
+2007-2008,17.05.2008,15:00,Viktoria Plzeň,Baník Most,6:2
+2007-2008,17.05.2008,15:00,Sigma Olomouc,České Budějovice,1:0
+2007-2008,17.05.2008,15:00,FK Teplice,SK Kladno,1:0
+2008-2009,02.08.2008,17:00,Viktoria Plzeň,Viktoria Žižkov,3:2
+2008-2009,02.08.2008,19:00,Sparta Praha,FK Mladá Boleslav,1:0
+2008-2009,02.08.2008,19:00,Baník Ostrava,SK Kladno,1:0
+2008-2009,02.08.2008,19:00,Tescoma Zlín,Baumit Jablonec,0:1
+2008-2009,03.08.2008,17:00,1. FK Příbram,1. FC Brno,0:1
+2008-2009,03.08.2008,17:00,FK Teplice,České Budějovice,4:0
+2008-2009,03.08.2008,20:15,Slovan Liberec,Slavia Praha,2:1
+2008-2009,04.08.2008,17:15,Bohemians Praha,Sigma Olomouc,1:2
+2008-2009,06.08.2008,18:00,Slavia Praha,1. FK Příbram,1:0
+2008-2009,10.08.2008,10:15,Viktoria Žižkov,FK Teplice,3:0
+2008-2009,10.08.2008,17:00,České Budějovice,Bohemians Praha,0:0
+2008-2009,10.08.2008,17:00,SK Kladno,Sparta Praha,0:2
+2008-2009,10.08.2008,17:00,FK Mladá Boleslav,Tescoma Zlín,1:0
+2008-2009,10.08.2008,17:00,Sigma Olomouc,Viktoria Plzeň,2:1
+2008-2009,10.08.2008,20:15,1. FC Brno,Slovan Liberec,4:1
+2008-2009,11.08.2008,20:00,Baumit Jablonec,Baník Ostrava,2:1
+2008-2009,16.08.2008,17:00,Viktoria Plzeň,Slavia Praha,1:1
+2008-2009,16.08.2008,19:00,Tescoma Zlín,Viktoria Žižkov,1:0
+2008-2009,16.08.2008,19:00,Baník Ostrava,1. FC Brno,0:0
+2008-2009,17.08.2008,14:30,Bohemians Praha,SK Kladno,3:1
+2008-2009,17.08.2008,17:00,1. FK Příbram,České Budějovice,3:0
+2008-2009,17.08.2008,17:00,Sparta Praha,Sigma Olomouc,1:1
+2008-2009,17.08.2008,20:15,Baumit Jablonec,FK Mladá Boleslav,1:1
+2008-2009,18.08.2008,20:00,Slovan Liberec,FK Teplice,1:0
+2008-2009,22.08.2008,18:30,Slavia Praha,Bohemians Praha,5:0
+2008-2009,22.08.2008,19:00,České Budějovice,Sparta Praha,1:4
+2008-2009,23.08.2008,17:00,Slovan Liberec,Viktoria Plzeň,1:1
+2008-2009,24.08.2008,17:00,FK Teplice,1. FK Příbram,0:0
+2008-2009,24.08.2008,17:00,Sigma Olomouc,Baumit Jablonec,1:1
+2008-2009,24.08.2008,17:00,SK Kladno,Tescoma Zlín,1:1
+2008-2009,24.08.2008,20:15,Viktoria Žižkov,Baník Ostrava,0:3
+2008-2009,25.08.2008,17:15,1. FC Brno,FK Mladá Boleslav,0:2
+2008-2009,30.08.2008,17:00,Viktoria Plzeň,FK Teplice,1:1
+2008-2009,30.08.2008,19:00,Tescoma Zlín,České Budějovice,0:0
+2008-2009,31.08.2008,17:00,Bohemians Praha,1. FC Brno,1:2
+2008-2009,31.08.2008,17:00,FK Mladá Boleslav,Sigma Olomouc,2:1
+2008-2009,31.08.2008,17:00,1. FK Příbram,Slovan Liberec,1:2
+2008-2009,31.08.2008,17:00,Baumit Jablonec,SK Kladno,1:1
+2008-2009,31.08.2008,20:00,Sparta Praha,Viktoria Žižkov,2:0
+2008-2009,01.09.2008,17:15,Baník Ostrava,Slavia Praha,2:3
+2008-2009,13.09.2008,17:00,Slovan Liberec,Tescoma Zlín,2:1
+2008-2009,14.09.2008,10:15,Viktoria Žižkov,Bohemians Praha,4:2
+2008-2009,14.09.2008,14:30,SK Kladno,Sigma Olomouc,2:0
+2008-2009,14.09.2008,17:00,FK Teplice,Baník Ostrava,1:0
+2008-2009,14.09.2008,17:00,1. FK Příbram,Viktoria Plzeň,2:2
+2008-2009,14.09.2008,17:00,České Budějovice,FK Mladá Boleslav,1:1
+2008-2009,14.09.2008,20:00,1. FC Brno,Sparta Praha,0:2
+2008-2009,15.09.2008,17:15,Slavia Praha,Baumit Jablonec,2:0
+2008-2009,20.09.2008,17:00,Viktoria Plzeň,České Budějovice,1:1
+2008-2009,21.09.2008,14:30,Baník Ostrava,1. FK Příbram,2:0
+2008-2009,21.09.2008,16:30,FK Mladá Boleslav,SK Kladno,2:1
+2008-2009,21.09.2008,17:00,Bohemians Praha,Slovan Liberec,2:0
+2008-2009,21.09.2008,17:00,Baumit Jablonec,Viktoria Žižkov,2:0
+2008-2009,21.09.2008,20:00,Sigma Olomouc,1. FC Brno,1:1
+2008-2009,22.09.2008,17:15,Sparta Praha,FK Teplice,0:0
+2008-2009,22.09.2008,19:30,Tescoma Zlín,Slavia Praha,0:3
+2008-2009,27.09.2008,17:00,Viktoria Plzeň,Baník Ostrava,1:3
+2008-2009,28.09.2008,10:15,Viktoria Žižkov,FK Mladá Boleslav,1:2
+2008-2009,28.09.2008,15:00,České Budějovice,Baumit Jablonec,2:1
+2008-2009,28.09.2008,17:00,FK Teplice,Tescoma Zlín,2:0
+2008-2009,28.09.2008,17:00,1. FC Brno,SK Kladno,2:0
+2008-2009,28.09.2008,17:00,1. FK Příbram,Bohemians Praha,2:1
+2008-2009,28.09.2008,20:00,Slavia Praha,Sigma Olomouc,3:0
+2008-2009,29.09.2008,17:15,Slovan Liberec,Sparta Praha,3:0
+2008-2009,04.10.2008,19:00,Tescoma Zlín,Viktoria Plzeň,2:0
+2008-2009,05.10.2008,17:00,FK Mladá Boleslav,1. FK Příbram,3:1
+2008-2009,05.10.2008,17:00,SK Kladno,České Budějovice,0:0
+2008-2009,05.10.2008,17:00,Bohemians Praha,FK Teplice,1:0
+2008-2009,05.10.2008,17:00,Sigma Olomouc,Viktoria Žižkov,2:0
+2008-2009,05.10.2008,20:00,Baumit Jablonec,1. FC Brno,2:0
+2008-2009,06.10.2008,17:15,Sparta Praha,Slavia Praha,1:4
+2008-2009,06.10.2008,20:00,Baník Ostrava,Slovan Liberec,0:0
+2008-2009,18.10.2008,17:00,Baník Ostrava,Bohemians Praha,5:4
+2008-2009,19.10.2008,10:15,Viktoria Žižkov,1. FC Brno,1:1
+2008-2009,19.10.2008,15:00,FK Teplice,FK Mladá Boleslav,2:3
+2008-2009,19.10.2008,17:00,České Budějovice,Sigma Olomouc,1:1
+2008-2009,19.10.2008,17:00,Slavia Praha,SK Kladno,5:0
+2008-2009,19.10.2008,17:00,1. FK Příbram,Tescoma Zlín,3:0
+2008-2009,19.10.2008,20:00,Viktoria Plzeň,Sparta Praha,1:1
+2008-2009,20.10.2008,17:15,Slovan Liberec,Baumit Jablonec,3:0
+2008-2009,24.10.2008,17:00,Sigma Olomouc,Slovan Liberec,2:1
+2008-2009,25.10.2008,17:00,Sparta Praha,1. FK Příbram,3:0
+2008-2009,26.10.2008,14:30,SK Kladno,Viktoria Žižkov,1:0
+2008-2009,26.10.2008,15:00,Baumit Jablonec,FK Teplice,0:2
+2008-2009,26.10.2008,15:00,1. FC Brno,České Budějovice,1:1
+2008-2009,26.10.2008,17:00,Bohemians Praha,Viktoria Plzeň,0:2
+2008-2009,26.10.2008,20:00,Tescoma Zlín,Baník Ostrava,2:5
+2008-2009,27.10.2008,17:15,FK Mladá Boleslav,Slavia Praha,0:0
+2008-2009,01.11.2008,17:00,Viktoria Plzeň,Baumit Jablonec,1:1
+2008-2009,02.11.2008,15:00,Slavia Praha,1. FC Brno,2:1
+2008-2009,02.11.2008,15:00,FK Teplice,Sigma Olomouc,0:1
+2008-2009,02.11.2008,17:00,1. FK Příbram,SK Kladno,2:0
+2008-2009,02.11.2008,17:00,České Budějovice,Viktoria Žižkov,3:2
+2008-2009,02.11.2008,17:00,Bohemians Praha,Tescoma Zlín,1:0
+2008-2009,02.11.2008,20:00,Slovan Liberec,FK Mladá Boleslav,3:3
+2008-2009,03.11.2008,17:15,Baník Ostrava,Sparta Praha,2:0
+2008-2009,08.11.2008,17:00,Sparta Praha,Tescoma Zlín,2:0
+2008-2009,09.11.2008,10:15,Viktoria Žižkov,Slovan Liberec,0:0
+2008-2009,09.11.2008,15:00,1. FC Brno,Viktoria Plzeň,1:2
+2008-2009,09.11.2008,15:00,SK Kladno,FK Teplice,1:1
+2008-2009,09.11.2008,15:00,Baumit Jablonec,Bohemians Praha,2:1
+2008-2009,09.11.2008,17:00,Sigma Olomouc,1. FK Příbram,4:1
+2008-2009,09.11.2008,20:00,České Budějovice,Slavia Praha,2:2
+2008-2009,10.11.2008,17:15,FK Mladá Boleslav,Baník Ostrava,0:2
+2008-2009,15.11.2008,14:30,Baník Ostrava,České Budějovice,0:0
+2008-2009,15.11.2008,15:00,Slovan Liberec,SK Kladno,2:0
+2008-2009,15.11.2008,17:00,Tescoma Zlín,Sigma Olomouc,1:1
+2008-2009,15.11.2008,17:00,Viktoria Plzeň,FK Mladá Boleslav,2:0
+2008-2009,16.11.2008,17:00,Bohemians Praha,Sparta Praha,4:3
+2008-2009,16.11.2008,17:00,1. FK Příbram,Baumit Jablonec,2:0
+2008-2009,16.11.2008,20:00,Slavia Praha,Viktoria Žižkov,2:1
+2008-2009,17.11.2008,17:15,FK Teplice,1. FC Brno,1:0
+2008-2009,23.11.2008,10:15,Viktoria Žižkov,1. FK Příbram,2:0
+2008-2009,23.11.2008,14:30,České Budějovice,Slovan Liberec,2:0
+2008-2009,23.11.2008,14:30,SK Kladno,Viktoria Plzeň,1:0
+2008-2009,23.11.2008,15:00,1. FC Brno,Tescoma Zlín,3:0
+2008-2009,23.11.2008,16:00,FK Mladá Boleslav,Bohemians Praha,1:0
+2008-2009,23.11.2008,17:00,Sigma Olomouc,Baník Ostrava,2:1
+2008-2009,23.11.2008,20:00,Slavia Praha,FK Teplice,3:1
+2008-2009,24.11.2008,17:15,Baumit Jablonec,Sparta Praha,1:0
+2008-2009,29.11.2008,15:00,Slovan Liberec,1. FC Brno,0:0
+2008-2009,29.11.2008,17:00,Viktoria Plzeň,Sigma Olomouc,4:0
+2008-2009,29.11.2008,17:00,Tescoma Zlín,FK Mladá Boleslav,0:2
+2008-2009,29.11.2008,17:00,Sparta Praha,SK Kladno,5:0
+2008-2009,30.11.2008,15:00,FK Teplice,Viktoria Žižkov,2:0
+2008-2009,30.11.2008,17:00,Bohemians Praha,České Budějovice,2:0
+2008-2009,30.11.2008,20:00,1. FK Příbram,Slavia Praha,0:0
+2008-2009,01.12.2008,17:15,Baník Ostrava,Baumit Jablonec,3:1
+2008-2009,22.02.2009,10:15,Viktoria Žižkov,Tescoma Zlín,1:1
+2008-2009,22.02.2009,15:00,České Budějovice,1. FK Příbram,2:2
+2008-2009,22.02.2009,15:00,SK Kladno,Bohemians Praha,1:0
+2008-2009,22.02.2009,15:00,FK Teplice,Slovan Liberec,1:0
+2008-2009,22.02.2009,15:00,1. FC Brno,Baník Ostrava,2:0
+2008-2009,22.02.2009,17:00,Sigma Olomouc,Sparta Praha,0:1
+2008-2009,22.02.2009,20:00,FK Mladá Boleslav,Baumit Jablonec,1:2
+2008-2009,23.02.2009,17:15,Slavia Praha,Viktoria Plzeň,3:2
+2008-2009,28.02.2009,14:30,Viktoria Plzeň,Slovan Liberec,0:2
+2008-2009,28.02.2009,17:00,Tescoma Zlín,SK Kladno,0:0
+2008-2009,28.02.2009,17:00,Sparta Praha,České Budějovice,0:0
+2008-2009,28.02.2009,17:00,Baník Ostrava,Viktoria Žižkov,0:0
+2008-2009,01.03.2009,15:00,Baumit Jablonec,Sigma Olomouc,1:0
+2008-2009,01.03.2009,20:00,Bohemians Praha,Slavia Praha,0:0
+2008-2009,02.03.2009,17:15,FK Mladá Boleslav,1. FC Brno,2:4
+2008-2009,07.03.2009,15:00,Slovan Liberec,1. FK Příbram,1:0
+2008-2009,08.03.2009,15:00,SK Kladno,Baumit Jablonec,1:2
+2008-2009,08.03.2009,15:00,1. FC Brno,Bohemians Praha,0:0
+2008-2009,08.03.2009,15:00,České Budějovice,Tescoma Zlín,1:0
+2008-2009,08.03.2009,15:00,FK Teplice,Viktoria Plzeň,3:0
+2008-2009,08.03.2009,17:00,Sigma Olomouc,FK Mladá Boleslav,2:2
+2008-2009,08.03.2009,20:00,Viktoria Žižkov,Sparta Praha,1:2
+2008-2009,09.03.2009,17:15,Slavia Praha,Baník Ostrava,1:0
+2008-2009,14.03.2009,17:00,Tescoma Zlín,Slovan Liberec,3:3
+2008-2009,14.03.2009,17:00,Baník Ostrava,FK Teplice,1:0
+2008-2009,14.03.2009,17:00,Viktoria Plzeň,1. FK Příbram,0:0
+2008-2009,15.03.2009,17:00,Sigma Olomouc,SK Kladno,1:3
+2008-2009,15.03.2009,17:00,Bohemians Praha,Viktoria Žižkov,0:0
+2008-2009,15.03.2009,17:00,FK Mladá Boleslav,České Budějovice,0:0
+2008-2009,15.03.2009,20:00,Baumit Jablonec,Slavia Praha,1:2
+2008-2009,16.03.2009,17:15,Sparta Praha,1. FC Brno,4:0
+2008-2009,21.03.2009,15:00,Slovan Liberec,Bohemians Praha,2:1
+2008-2009,21.03.2009,17:00,1. FK Příbram,Baník Ostrava,2:1
+2008-2009,22.03.2009,10:15,Viktoria Žižkov,Baumit Jablonec,0:1
+2008-2009,22.03.2009,15:00,SK Kladno,FK Mladá Boleslav,0:1
+2008-2009,22.03.2009,15:00,České Budějovice,Viktoria Plzeň,1:1
+2008-2009,22.03.2009,16:00,Slavia Praha,Tescoma Zlín,1:0
+2008-2009,22.03.2009,20:00,1. FC Brno,Sigma Olomouc,1:2
+2008-2009,23.03.2009,17:15,FK Teplice,Sparta Praha,0:0
+2008-2009,29.03.2009,17:00,1. FK Příbram,FK Teplice,0:3
+2008-2009,04.04.2009,17:00,Tescoma Zlín,FK Teplice,1:1
+2008-2009,04.04.2009,17:00,Baník Ostrava,Viktoria Plzeň,1:4
+2008-2009,05.04.2009,15:00,Baumit Jablonec,České Budějovice,2:0
+2008-2009,05.04.2009,17:00,Bohemians Praha,1. FK Příbram,1:0
+2008-2009,05.04.2009,17:00,FK Mladá Boleslav,Viktoria Žižkov,0:0
+2008-2009,05.04.2009,17:00,SK Kladno,1. FC Brno,1:0
+2008-2009,05.04.2009,20:00,Sigma Olomouc,Slavia Praha,1:0
+2008-2009,06.04.2009,17:15,Sparta Praha,Slovan Liberec,1:1
+2008-2009,11.04.2009,17:00,1. FK Příbram,FK Mladá Boleslav,1:1
+2008-2009,12.04.2009,10:15,Viktoria Žižkov,Sigma Olomouc,1:2
+2008-2009,12.04.2009,15:00,Viktoria Plzeň,Tescoma Zlín,5:0
+2008-2009,12.04.2009,17:00,České Budějovice,SK Kladno,3:0
+2008-2009,12.04.2009,17:00,FK Teplice,Bohemians Praha,1:0
+2008-2009,12.04.2009,17:00,1. FC Brno,Baumit Jablonec,1:0
+2008-2009,12.04.2009,20:00,Slovan Liberec,Baník Ostrava,0:0
+2008-2009,13.04.2009,17:15,Slavia Praha,Sparta Praha,1:1
+2008-2009,18.04.2009,15:45,Baumit Jablonec,Slovan Liberec,0:1
+2008-2009,18.04.2009,17:00,Sparta Praha,Viktoria Plzeň,2:0
+2008-2009,18.04.2009,19:00,Tescoma Zlín,1. FK Příbram,2:0
+2008-2009,19.04.2009,17:00,1. FC Brno,Viktoria Žižkov,0:2
+2008-2009,19.04.2009,17:00,Bohemians Praha,Baník Ostrava,1:0
+2008-2009,19.04.2009,17:00,Sigma Olomouc,České Budějovice,1:1
+2008-2009,19.04.2009,20:00,FK Mladá Boleslav,FK Teplice,1:0
+2008-2009,20.04.2009,17:15,SK Kladno,Slavia Praha,2:1
+2008-2009,25.04.2009,17:00,Viktoria Plzeň,Bohemians Praha,3:1
+2008-2009,25.04.2009,17:00,1. FK Příbram,Sparta Praha,1:1
+2008-2009,26.04.2009,10:15,Viktoria Žižkov,SK Kladno,2:2
+2008-2009,26.04.2009,17:00,Baník Ostrava,Tescoma Zlín,1:3
+2008-2009,26.04.2009,17:00,České Budějovice,1. FC Brno,1:1
+2008-2009,26.04.2009,17:00,FK Teplice,Baumit Jablonec,3:0
+2008-2009,26.04.2009,20:00,Slovan Liberec,Sigma Olomouc,0:1
+2008-2009,27.04.2009,19:00,Slavia Praha,FK Mladá Boleslav,3:3
+2008-2009,02.05.2009,19:00,Tescoma Zlín,Bohemians Praha,2:0
+2008-2009,03.05.2009,10:15,Viktoria Žižkov,České Budějovice,2:1
+2008-2009,03.05.2009,17:00,Baumit Jablonec,Viktoria Plzeň,3:0
+2008-2009,03.05.2009,17:00,SK Kladno,1. FK Příbram,1:0
+2008-2009,03.05.2009,17:00,1. FC Brno,Slavia Praha,1:0
+2008-2009,03.05.2009,17:00,Sigma Olomouc,FK Teplice,2:1
+2008-2009,03.05.2009,20:00,FK Mladá Boleslav,Slovan Liberec,1:4
+2008-2009,04.05.2009,17:15,Sparta Praha,Baník Ostrava,1:0
+2008-2009,09.05.2009,15:45,1. FK Příbram,Sigma Olomouc,2:1
+2008-2009,09.05.2009,17:00,Slovan Liberec,Viktoria Žižkov,2:1
+2008-2009,09.05.2009,17:00,Viktoria Plzeň,1. FC Brno,3:2
+2008-2009,10.05.2009,17:00,Slavia Praha,České Budějovice,2:0
+2008-2009,10.05.2009,17:00,Bohemians Praha,Baumit Jablonec,4:3
+2008-2009,10.05.2009,17:00,FK Teplice,SK Kladno,2:1
+2008-2009,10.05.2009,20:00,Tescoma Zlín,Sparta Praha,2:1
+2008-2009,11.05.2009,17:15,Baník Ostrava,FK Mladá Boleslav,0:2
+2008-2009,17.05.2009,17:00,SK Kladno,Slovan Liberec,0:0
+2008-2009,17.05.2009,17:00,1. FC Brno,FK Teplice,1:1
+2008-2009,17.05.2009,17:00,FK Mladá Boleslav,Viktoria Plzeň,1:1
+2008-2009,17.05.2009,17:00,Baumit Jablonec,1. FK Příbram,4:0
+2008-2009,17.05.2009,17:00,České Budějovice,Baník Ostrava,3:2
+2008-2009,17.05.2009,17:00,Sigma Olomouc,Tescoma Zlín,1:1
+2008-2009,17.05.2009,20:00,Sparta Praha,Bohemians Praha,1:0
+2008-2009,18.05.2009,17:15,Viktoria Žižkov,Slavia Praha,1:3
+2008-2009,23.05.2009,15:00,Bohemians Praha,FK Mladá Boleslav,2:1
+2008-2009,23.05.2009,15:00,Sparta Praha,Baumit Jablonec,3:2
+2008-2009,23.05.2009,15:00,Viktoria Plzeň,SK Kladno,1:0
+2008-2009,23.05.2009,15:00,Baník Ostrava,Sigma Olomouc,1:1
+2008-2009,23.05.2009,15:00,1. FK Příbram,Viktoria Žižkov,3:0
+2008-2009,23.05.2009,15:00,Tescoma Zlín,1. FC Brno,2:1
+2008-2009,23.05.2009,15:00,FK Teplice,Slavia Praha,0:1
+2008-2009,23.05.2009,15:00,Slovan Liberec,České Budějovice,2:0
+2008-2009,30.05.2009,15:00,1. FC Brno,1. FK Příbram,1:2
+2008-2009,30.05.2009,15:00,Sigma Olomouc,Bohemians Praha,3:0
+2008-2009,30.05.2009,15:00,SK Kladno,Baník Ostrava,0:1
+2008-2009,30.05.2009,15:00,FK Mladá Boleslav,Sparta Praha,0:3
+2008-2009,30.05.2009,15:00,Baumit Jablonec,Tescoma Zlín,6:1
+2008-2009,30.05.2009,15:00,Slavia Praha,Slovan Liberec,2:2
+2008-2009,30.05.2009,15:00,České Budějovice,FK Teplice,3:0
+2008-2009,30.05.2009,15:00,Viktoria Žižkov,Viktoria Plzeň,0:2
+2009-2010,24.07.2009,19:00,FK Teplice,Sparta Praha,0:0
+2009-2010,25.07.2009,16:00,Baník Ostrava,1. FK Příbram,2:1
+2009-2010,25.07.2009,18:15,Slavia Praha,FK Mladá Boleslav,1:1
+2009-2010,25.07.2009,20:00,1. FC Slovácko,Viktoria Plzeň,2:3
+2009-2010,25.07.2009,20:00,Slovan Liberec,SK Kladno,1:1
+2009-2010,26.07.2009,17:00,České Budějovice,Baumit Jablonec,1:1
+2009-2010,26.07.2009,17:00,Bohemians Praha,Sigma Olomouc,0:2
+2009-2010,27.07.2009,17:30,Bohemians 1905,1. FC Brno,0:0
+2009-2010,31.07.2009,19:00,Sparta Praha,Bohemians 1905,0:0
+2009-2010,01.08.2009,18:15,Viktoria Plzeň,FK Teplice,2:2
+2009-2010,02.08.2009,17:00,SK Kladno,1. FK Příbram,0:2
+2009-2010,02.08.2009,17:00,Bohemians Praha,České Budějovice,0:2
+2009-2010,02.08.2009,17:00,FK Mladá Boleslav,Slovan Liberec,4:1
+2009-2010,02.08.2009,17:00,Sigma Olomouc,Baník Ostrava,0:0
+2009-2010,02.08.2009,17:00,1. FC Brno,Slavia Praha,2:0
+2009-2010,03.08.2009,17:30,Baumit Jablonec,1. FC Slovácko,3:2
+2009-2010,08.08.2009,16:00,1. FK Příbram,Sparta Praha,1:1
+2009-2010,08.08.2009,18:15,Baník Ostrava,Viktoria Plzeň,1:0
+2009-2010,09.08.2009,16:00,Bohemians 1905,Baumit Jablonec,0:1
+2009-2010,09.08.2009,17:00,FK Teplice,České Budějovice,3:0
+2009-2010,09.08.2009,17:00,Slovan Liberec,1. FC Brno,0:1
+2009-2010,09.08.2009,19:00,1. FC Slovácko,Sigma Olomouc,2:0
+2009-2010,09.08.2009,19:00,Slavia Praha,Bohemians Praha,3:1
+2009-2010,10.08.2009,17:30,SK Kladno,FK Mladá Boleslav,1:3
+2009-2010,14.08.2009,19:00,1. FC Brno,1. FC Slovácko,1:0
+2009-2010,15.08.2009,18:00,Sparta Praha,SK Kladno,2:0
+2009-2010,15.08.2009,18:15,České Budějovice,Slavia Praha,0:1
+2009-2010,16.08.2009,17:00,Bohemians Praha,FK Teplice,1:3
+2009-2010,16.08.2009,17:00,FK Mladá Boleslav,1. FK Příbram,2:0
+2009-2010,16.08.2009,17:00,Sigma Olomouc,Bohemians 1905,1:1
+2009-2010,16.08.2009,17:00,Viktoria Plzeň,Slovan Liberec,2:3
+2009-2010,17.08.2009,17:30,Baumit Jablonec,Baník Ostrava,2:1
+2009-2010,22.08.2009,18:15,1. FC Slovácko,Bohemians Praha,2:0
+2009-2010,23.08.2009,17:00,FK Teplice,Slavia Praha,1:1
+2009-2010,23.08.2009,17:00,Slovan Liberec,České Budějovice,3:0
+2009-2010,23.08.2009,17:00,1. FK Příbram,Sigma Olomouc,2:1
+2009-2010,23.08.2009,17:00,Bohemians 1905,Viktoria Plzeň,0:1
+2009-2010,23.08.2009,17:00,SK Kladno,Baumit Jablonec,1:2
+2009-2010,23.08.2009,19:00,Sparta Praha,FK Mladá Boleslav,1:0
+2009-2010,24.08.2009,17:30,Baník Ostrava,1. FC Brno,1:1
+2009-2010,29.08.2009,18:15,FK Mladá Boleslav,Bohemians 1905,0:1
+2009-2010,29.08.2009,20:00,Viktoria Plzeň,SK Kladno,1:0
+2009-2010,30.08.2009,17:00,České Budějovice,Baník Ostrava,1:2
+2009-2010,30.08.2009,17:00,Baumit Jablonec,1. FK Příbram,0:0
+2009-2010,30.08.2009,17:00,Bohemians Praha,Slovan Liberec,2:1
+2009-2010,31.08.2009,17:30,Sigma Olomouc,Sparta Praha,1:1
+2009-2010,31.08.2009,19:30,1. FC Brno,FK Teplice,2:3
+2009-2010,31.08.2009,19:30,Slavia Praha,1. FC Slovácko,3:0
+2009-2010,12.09.2009,16:00,1. FK Příbram,Viktoria Plzeň,1:0
+2009-2010,12.09.2009,16:00,Baník Ostrava,Bohemians Praha,1:0
+2009-2010,12.09.2009,18:15,Sparta Praha,Baumit Jablonec,2:0
+2009-2010,12.09.2009,20:00,Slovan Liberec,Slavia Praha,1:1
+2009-2010,13.09.2009,17:00,Bohemians 1905,České Budějovice,2:0
+2009-2010,13.09.2009,17:00,SK Kladno,1. FC Brno,1:0
+2009-2010,13.09.2009,19:00,1. FC Slovácko,FK Teplice,0:2
+2009-2010,14.09.2009,17:30,FK Mladá Boleslav,Sigma Olomouc,2:2
+2009-2010,19.09.2009,16:00,Viktoria Plzeň,FK Mladá Boleslav,2:1
+2009-2010,19.09.2009,18:15,Baumit Jablonec,Slovan Liberec,2:1
+2009-2010,20.09.2009,17:00,České Budějovice,1. FC Slovácko,0:0
+2009-2010,20.09.2009,17:00,Bohemians Praha,1. FK Příbram,1:0
+2009-2010,20.09.2009,17:00,FK Teplice,Bohemians 1905,1:0
+2009-2010,20.09.2009,17:00,Sigma Olomouc,SK Kladno,1:2
+2009-2010,21.09.2009,17:30,Slavia Praha,Baník Ostrava,3:1
+2009-2010,21.09.2009,19:30,1. FC Brno,Sparta Praha,1:1
+2009-2010,26.09.2009,17:00,Baník Ostrava,FK Teplice,2:2
+2009-2010,26.09.2009,17:00,Slovan Liberec,1. FC Slovácko,2:0
+2009-2010,26.09.2009,17:00,Sparta Praha,Viktoria Plzeň,0:0
+2009-2010,26.09.2009,19:45,Bohemians 1905,Slavia Praha,1:1
+2009-2010,27.09.2009,17:00,1. FK Příbram,České Budějovice,3:1
+2009-2010,27.09.2009,17:00,SK Kladno,Bohemians Praha,3:2
+2009-2010,27.09.2009,17:00,Sigma Olomouc,Baumit Jablonec,0:1
+2009-2010,28.09.2009,17:30,FK Mladá Boleslav,1. FC Brno,0:0
+2009-2010,02.10.2009,17:30,1. FC Brno,1. FK Příbram,2:1
+2009-2010,03.10.2009,16:00,Viktoria Plzeň,Sigma Olomouc,1:0
+2009-2010,03.10.2009,16:00,1. FC Slovácko,Baník Ostrava,0:2
+2009-2010,03.10.2009,18:15,FK Teplice,Slovan Liberec,2:0
+2009-2010,04.10.2009,15:00,České Budějovice,SK Kladno,0:0
+2009-2010,04.10.2009,17:00,Bohemians Praha,Bohemians 1905,0:0
+2009-2010,04.10.2009,17:00,Baumit Jablonec,FK Mladá Boleslav,1:0
+2009-2010,05.10.2009,17:30,Slavia Praha,Sparta Praha,0:1
+2009-2010,17.10.2009,16:00,1. FK Příbram,FK Teplice,0:3
+2009-2010,17.10.2009,18:00,Sparta Praha,České Budějovice,1:1
+2009-2010,17.10.2009,18:15,Baník Ostrava,Slovan Liberec,1:0
+2009-2010,18.10.2009,16:00,FK Mladá Boleslav,Bohemians Praha,4:2
+2009-2010,18.10.2009,17:00,SK Kladno,Slavia Praha,0:2
+2009-2010,18.10.2009,17:00,Sigma Olomouc,1. FC Brno,5:0
+2009-2010,18.10.2009,17:00,Bohemians 1905,1. FC Slovácko,0:1
+2009-2010,19.10.2009,17:30,Baumit Jablonec,Viktoria Plzeň,0:1
+2009-2010,24.10.2009,16:00,Slovan Liberec,1. FK Příbram,1:0
+2009-2010,24.10.2009,16:00,1. FC Slovácko,SK Kladno,2:0
+2009-2010,24.10.2009,16:00,1. FC Brno,Baumit Jablonec,0:1
+2009-2010,24.10.2009,16:00,Baník Ostrava,Bohemians 1905,3:1
+2009-2010,24.10.2009,18:15,FK Teplice,FK Mladá Boleslav,2:2
+2009-2010,25.10.2009,15:00,České Budějovice,Viktoria Plzeň,0:0
+2009-2010,25.10.2009,17:00,Bohemians Praha,Sparta Praha,2:3
+2009-2010,26.10.2009,17:30,Slavia Praha,Sigma Olomouc,1:2
+2009-2010,31.10.2009,16:00,1. FK Příbram,Slavia Praha,1:0
+2009-2010,31.10.2009,18:15,Sparta Praha,Baník Ostrava,1:1
+2009-2010,01.11.2009,15:00,Baumit Jablonec,Bohemians Praha,1:0
+2009-2010,01.11.2009,15:00,SK Kladno,FK Teplice,0:2
+2009-2010,01.11.2009,17:00,Bohemians 1905,Slovan Liberec,0:1
+2009-2010,01.11.2009,17:00,FK Mladá Boleslav,1. FC Slovácko,3:2
+2009-2010,01.11.2009,17:00,Sigma Olomouc,České Budějovice,2:0
+2009-2010,02.11.2009,17:30,Viktoria Plzeň,1. FC Brno,1:1
+2009-2010,07.11.2009,16:00,Baník Ostrava,SK Kladno,2:0
+2009-2010,07.11.2009,16:00,Slovan Liberec,Sigma Olomouc,0:4
+2009-2010,07.11.2009,18:15,FK Teplice,Baumit Jablonec,1:0
+2009-2010,08.11.2009,15:00,České Budějovice,FK Mladá Boleslav,1:3
+2009-2010,08.11.2009,17:00,Bohemians 1905,1. FK Příbram,1:0
+2009-2010,08.11.2009,17:00,Bohemians Praha,1. FC Brno,2:1
+2009-2010,09.11.2009,17:30,1. FC Slovácko,Sparta Praha,0:1
+2009-2010,09.11.2009,17:30,Slavia Praha,Viktoria Plzeň,0:0
+2009-2010,21.11.2009,13:30,SK Kladno,Bohemians 1905,1:2
+2009-2010,21.11.2009,16:00,1. FK Příbram,1. FC Slovácko,2:0
+2009-2010,21.11.2009,16:00,1. FC Brno,České Budějovice,0:3
+2009-2010,21.11.2009,16:00,Viktoria Plzeň,Bohemians Praha,3:2
+2009-2010,21.11.2009,18:00,Sparta Praha,Slovan Liberec,2:0
+2009-2010,21.11.2009,19:15,Baumit Jablonec,Slavia Praha,1:1
+2009-2010,22.11.2009,17:00,FK Mladá Boleslav,Baník Ostrava,3:1
+2009-2010,23.11.2009,17:30,Sigma Olomouc,FK Teplice,6:2
+2009-2010,28.11.2009,16:00,1. FC Slovácko,Baumit Jablonec,1:1
+2009-2010,28.11.2009,16:00,1. FK Příbram,SK Kladno,3:2
+2009-2010,28.11.2009,16:00,Slovan Liberec,FK Mladá Boleslav,3:0
+2009-2010,28.11.2009,18:15,Bohemians 1905,Sparta Praha,0:2
+2009-2010,29.11.2009,15:00,České Budějovice,Bohemians Praha,3:0
+2009-2010,29.11.2009,17:00,Slavia Praha,1. FC Brno,3:1
+2009-2010,30.11.2009,17:30,Baník Ostrava,Sigma Olomouc,2:0
+2009-2010,27.02.2010,16:00,1. FC Brno,Slovan Liberec,1:0
+2009-2010,27.02.2010,16:00,Sparta Praha,1. FK Příbram,1:1
+2009-2010,27.02.2010,18:20,Bohemians Praha,Slavia Praha,0:1
+2009-2010,28.02.2010,15:00,České Budějovice,FK Teplice,0:0
+2009-2010,28.02.2010,15:00,Baumit Jablonec,Bohemians 1905,3:0
+2009-2010,28.02.2010,17:00,Sigma Olomouc,1. FC Slovácko,1:0
+2009-2010,28.02.2010,17:00,FK Mladá Boleslav,SK Kladno,0:1
+2009-2010,01.03.2010,17:30,Viktoria Plzeň,Baník Ostrava,0:0
+2009-2010,06.03.2010,16:00,FK Teplice,Bohemians Praha,2:1
+2009-2010,06.03.2010,16:00,Slovan Liberec,Viktoria Plzeň,0:2
+2009-2010,06.03.2010,16:00,1. FC Slovácko,1. FC Brno,0:2
+2009-2010,06.03.2010,16:00,Bohemians 1905,Sigma Olomouc,2:0
+2009-2010,07.03.2010,15:00,SK Kladno,Sparta Praha,0:1
+2009-2010,07.03.2010,17:00,Baník Ostrava,Baumit Jablonec,4:1
+2009-2010,08.03.2010,17:30,Slavia Praha,České Budějovice,3:2
+2009-2010,10.03.2010,18:00,FK Teplice,Viktoria Plzeň,2:1
+2009-2010,13.03.2010,18:20,Slavia Praha,FK Teplice,0:0
+2009-2010,14.03.2010,15:00,Baumit Jablonec,SK Kladno,1:0
+2009-2010,14.03.2010,15:00,České Budějovice,Slovan Liberec,1:1
+2009-2010,14.03.2010,15:00,Viktoria Plzeň,Bohemians 1905,3:0
+2009-2010,14.03.2010,17:00,Sigma Olomouc,1. FK Příbram,3:1
+2009-2010,14.03.2010,17:00,FK Mladá Boleslav,Sparta Praha,1:2
+2009-2010,14.03.2010,17:00,Bohemians Praha,1. FC Slovácko,1:1
+2009-2010,15.03.2010,17:30,1. FC Brno,Baník Ostrava,1:1
+2009-2010,20.03.2010,13:30,1. FK Příbram,Baumit Jablonec,1:2
+2009-2010,20.03.2010,13:30,SK Kladno,Viktoria Plzeň,1:3
+2009-2010,20.03.2010,15:45,Sparta Praha,Sigma Olomouc,4:0
+2009-2010,20.03.2010,18:00,Slovan Liberec,Bohemians Praha,2:3
+2009-2010,20.03.2010,18:00,Baník Ostrava,České Budějovice,0:1
+2009-2010,20.03.2010,18:00,FK Teplice,1. FC Brno,0:1
+2009-2010,21.03.2010,17:00,Bohemians 1905,FK Mladá Boleslav,2:0
+2009-2010,22.03.2010,17:30,1. FC Slovácko,Slavia Praha,3:1
+2009-2010,24.03.2010,17:30,České Budějovice,Bohemians 1905,0:0
+2009-2010,24.03.2010,17:30,Bohemians Praha,Baník Ostrava,0:3
+2009-2010,24.03.2010,17:30,Sigma Olomouc,FK Mladá Boleslav,1:2
+2009-2010,24.03.2010,17:30,1. FC Brno,SK Kladno,3:0
+2009-2010,24.03.2010,17:30,Viktoria Plzeň,1. FK Příbram,3:1
+2009-2010,24.03.2010,20:00,Baumit Jablonec,Sparta Praha,0:0
+2009-2010,25.03.2010,18:00,FK Teplice,1. FC Slovácko,2:1
+2009-2010,25.03.2010,19:00,Slavia Praha,Slovan Liberec,0:2
+2009-2010,27.03.2010,15:45,FK Mladá Boleslav,Viktoria Plzeň,4:0
+2009-2010,28.03.2010,15:00,Slovan Liberec,Baumit Jablonec,4:2
+2009-2010,28.03.2010,17:00,1. FC Slovácko,České Budějovice,1:0
+2009-2010,28.03.2010,17:00,Bohemians 1905,FK Teplice,1:1
+2009-2010,28.03.2010,17:00,SK Kladno,Sigma Olomouc,2:3
+2009-2010,28.03.2010,17:00,1. FK Příbram,Bohemians Praha,3:2
+2009-2010,28.03.2010,17:00,Sparta Praha,1. FC Brno,3:0
+2009-2010,29.03.2010,17:30,Baník Ostrava,Slavia Praha,3:1
+2009-2010,03.04.2010,15:45,Baumit Jablonec,Sigma Olomouc,3:1
+2009-2010,03.04.2010,18:00,1. FC Brno,FK Mladá Boleslav,2:3
+2009-2010,03.04.2010,18:00,1. FC Slovácko,Slovan Liberec,0:0
+2009-2010,04.04.2010,17:00,České Budějovice,1. FK Příbram,2:1
+2009-2010,04.04.2010,17:00,Bohemians Praha,SK Kladno,1:4
+2009-2010,05.04.2010,15:30,FK Teplice,Baník Ostrava,0:1
+2009-2010,05.04.2010,15:30,Slavia Praha,Bohemians 1905,3:0
+2009-2010,05.04.2010,17:30,Viktoria Plzeň,Sparta Praha,2:2
+2009-2010,10.04.2010,15:45,Bohemians 1905,Bohemians Praha,3:0k
+2009-2010,10.04.2010,18:00,Baník Ostrava,1. FC Slovácko,3:2
+2009-2010,11.04.2010,16:00,FK Mladá Boleslav,Baumit Jablonec,1:2
+2009-2010,11.04.2010,17:00,Slovan Liberec,FK Teplice,1:0
+2009-2010,11.04.2010,17:00,1. FK Příbram,1. FC Brno,3:1
+2009-2010,11.04.2010,17:00,SK Kladno,České Budějovice,2:1
+2009-2010,11.04.2010,17:00,Sigma Olomouc,Viktoria Plzeň,1:0
+2009-2010,12.04.2010,17:30,Sparta Praha,Slavia Praha,1:0
+2009-2010,14.04.2010,17:30,1. FK Příbram,FK Mladá Boleslav,2:2
+2009-2010,17.04.2010,15:45,Viktoria Plzeň,Baumit Jablonec,1:1
+2009-2010,17.04.2010,18:00,1. FC Slovácko,Bohemians 1905,1:1
+2009-2010,17.04.2010,18:00,1. FC Brno,Sigma Olomouc,1:2
+2009-2010,18.04.2010,17:00,České Budějovice,Sparta Praha,0:0
+2009-2010,18.04.2010,17:00,Slavia Praha,SK Kladno,0:0
+2009-2010,18.04.2010,17:00,Bohemians Praha,FK Mladá Boleslav,2:4
+2009-2010,18.04.2010,19:30,FK Teplice,1. FK Příbram,1:0
+2009-2010,19.04.2010,17:30,Slovan Liberec,Baník Ostrava,0:1
+2009-2010,24.04.2010,16:00,Viktoria Plzeň,České Budějovice,0:0
+2009-2010,24.04.2010,16:00,1. FK Příbram,Slovan Liberec,1:1
+2009-2010,24.04.2010,16:00,Sparta Praha,Bohemians Praha,1:0
+2009-2010,24.04.2010,20:00,Baumit Jablonec,1. FC Brno,1:0
+2009-2010,25.04.2010,17:00,SK Kladno,1. FC Slovácko,1:0
+2009-2010,25.04.2010,17:00,Sigma Olomouc,Slavia Praha,3:1
+2009-2010,25.04.2010,17:00,FK Mladá Boleslav,FK Teplice,0:1
+2009-2010,26.04.2010,17:30,Bohemians 1905,Baník Ostrava,0:1
+2009-2010,30.04.2010,18:20,1. FC Slovácko,FK Mladá Boleslav,1:0
+2009-2010,01.05.2010,16:00,Slovan Liberec,Bohemians 1905,1:1
+2009-2010,01.05.2010,18:20,1. FC Brno,Viktoria Plzeň,2:2
+2009-2010,01.05.2010,20:00,FK Teplice,SK Kladno,5:0
+2009-2010,02.05.2010,16:00,České Budějovice,Sigma Olomouc,2:1
+2009-2010,02.05.2010,16:00,Bohemians Praha,Baumit Jablonec,0:4
+2009-2010,02.05.2010,16:00,Slavia Praha,1. FK Příbram,3:0
+2009-2010,02.05.2010,18:25,Baník Ostrava,Sparta Praha,1:1
+2009-2010,05.05.2010,17:30,SK Kladno,Baník Ostrava,0:3
+2009-2010,05.05.2010,17:30,1. FK Příbram,Bohemians 1905,2:0
+2009-2010,05.05.2010,17:30,FK Mladá Boleslav,České Budějovice,0:1
+2009-2010,05.05.2010,17:30,Sparta Praha,1. FC Slovácko,4:0
+2009-2010,05.05.2010,17:30,Sigma Olomouc,Slovan Liberec,2:0
+2009-2010,05.05.2010,17:30,1. FC Brno,Bohemians Praha,0:0
+2009-2010,05.05.2010,17:30,Viktoria Plzeň,Slavia Praha,4:2
+2009-2010,05.05.2010,20:00,Baumit Jablonec,FK Teplice,0:0
+2009-2010,08.05.2010,17:30,České Budějovice,1. FC Brno,1:3
+2009-2010,08.05.2010,17:30,Bohemians Praha,Viktoria Plzeň,2:2
+2009-2010,08.05.2010,17:30,FK Teplice,Sigma Olomouc,1:1
+2009-2010,08.05.2010,17:30,Slavia Praha,Baumit Jablonec,0:3
+2009-2010,08.05.2010,17:30,Slovan Liberec,Sparta Praha,2:2
+2009-2010,08.05.2010,17:30,1. FC Slovácko,1. FK Příbram,2:1
+2009-2010,08.05.2010,17:30,Bohemians 1905,SK Kladno,0:0
+2009-2010,08.05.2010,17:30,Baník Ostrava,FK Mladá Boleslav,2:2
+2009-2010,15.05.2010,17:30,1. FK Příbram,Baník Ostrava,1:1
+2009-2010,15.05.2010,17:30,FK Mladá Boleslav,Slavia Praha,0:1
+2009-2010,15.05.2010,17:30,Sparta Praha,FK Teplice,1:0
+2009-2010,15.05.2010,17:30,Baumit Jablonec,České Budějovice,2:0
+2009-2010,15.05.2010,17:30,Sigma Olomouc,Bohemians Praha,3:0
+2009-2010,15.05.2010,17:30,1. FC Brno,Bohemians 1905,1:2
+2009-2010,15.05.2010,17:30,Viktoria Plzeň,1. FC Slovácko,2:2
+2009-2010,15.05.2010,17:30,SK Kladno,Slovan Liberec,1:2
+2010-2011,16.07.2010,17:30,Bohemians 1905,Slavia Praha,1:1
+2010-2011,17.07.2010,18:00,1. FC Slovácko,FK Teplice,3:0
+2010-2011,17.07.2010,18:15,FC Hradec Králové,Sparta Praha,2:1
+2010-2011,18.07.2010,15:00,1. FK Příbram,Baník Ostrava,0:0
+2010-2011,18.07.2010,15:00,FK Ústí nad Labem,FK Mladá Boleslav,0:2
+2010-2011,18.07.2010,17:00,České Budějovice,Slovan Liberec,0:0
+2010-2011,18.07.2010,17:00,Viktoria Plzeň,Sigma Olomouc,2:2
+2010-2011,19.07.2010,18:00,Baumit Jablonec,Zbrojovka Brno,1:0
+2010-2011,23.07.2010,17:30,FK Mladá Boleslav,České Budějovice,1:1
+2010-2011,24.07.2010,18:00,Sparta Praha,1. FC Slovácko,2:1
+2010-2011,24.07.2010,18:15,Slovan Liberec,Viktoria Plzeň,2:3
+2010-2011,25.07.2010,17:00,FK Teplice,1. FK Příbram,1:2
+2010-2011,25.07.2010,17:00,Sigma Olomouc,Baumit Jablonec,4:1
+2010-2011,25.07.2010,17:00,Zbrojovka Brno,FK Ústí nad Labem,1:3
+2010-2011,25.07.2010,19:00,Baník Ostrava,Slavia Praha,1:1
+2010-2011,26.07.2010,18:00,FC Hradec Králové,Bohemians 1905,1:1
+2010-2011,30.07.2010,17:30,FK Ústí nad Labem,Slovan Liberec,0:0
+2010-2011,31.07.2010,16:00,Slavia Praha,FK Mladá Boleslav,1:0
+2010-2011,31.07.2010,18:00,1. FC Slovácko,FC Hradec Králové,2:1
+2010-2011,01.08.2010,17:00,České Budějovice,Sparta Praha,1:0
+2010-2011,01.08.2010,17:00,Viktoria Plzeň,Bohemians 1905,2:1
+2010-2011,01.08.2010,17:00,Baník Ostrava,Zbrojovka Brno,3:0
+2010-2011,01.08.2010,18:00,Baumit Jablonec,FK Teplice,1:1
+2010-2011,02.08.2010,18:00,1. FK Příbram,Sigma Olomouc,0:0
+2010-2011,06.08.2010,17:30,Zbrojovka Brno,Slavia Praha,2:3
+2010-2011,07.08.2010,18:00,Bohemians 1905,1. FC Slovácko,1:0
+2010-2011,08.08.2010,17:00,FK Mladá Boleslav,1. FK Příbram,3:0
+2010-2011,08.08.2010,17:00,Sigma Olomouc,FK Ústí nad Labem,3:0
+2010-2011,08.08.2010,17:00,Slovan Liberec,Baumit Jablonec,1:1
+2010-2011,08.08.2010,19:00,Sparta Praha,Baník Ostrava,4:0
+2010-2011,09.08.2010,18:00,FK Teplice,České Budějovice,1:1
+2010-2011,09.08.2010,18:00,FC Hradec Králové,Viktoria Plzeň,0:3
+2010-2011,13.08.2010,17:30,1. FK Příbram,Sparta Praha,0:1
+2010-2011,14.08.2010,18:15,Baník Ostrava,Sigma Olomouc,1:2
+2010-2011,15.08.2010,15:00,Baumit Jablonec,Bohemians 1905,3:1
+2010-2011,15.08.2010,17:00,Viktoria Plzeň,1. FC Slovácko,3:0
+2010-2011,15.08.2010,17:00,České Budějovice,FC Hradec Králové,0:0
+2010-2011,15.08.2010,17:00,Slavia Praha,Slovan Liberec,1:3
+2010-2011,16.08.2010,18:00,Zbrojovka Brno,FK Mladá Boleslav,3:1
+2010-2011,16.08.2010,18:00,FK Ústí nad Labem,FK Teplice,0:2
+2010-2011,20.08.2010,17:30,FC Hradec Králové,Baumit Jablonec,1:0
+2010-2011,21.08.2010,16:00,Slovan Liberec,1. FK Příbram,0:0
+2010-2011,21.08.2010,18:00,1. FC Slovácko,FK Ústí nad Labem,1:1
+2010-2011,21.08.2010,18:15,Sparta Praha,Viktoria Plzeň,0:1
+2010-2011,22.08.2010,17:00,Bohemians 1905,České Budějovice,2:2
+2010-2011,22.08.2010,17:00,FK Mladá Boleslav,Baník Ostrava,1:0
+2010-2011,22.08.2010,17:00,Sigma Olomouc,Zbrojovka Brno,3:0
+2010-2011,23.08.2010,18:00,FK Teplice,Slavia Praha,2:1
+2010-2011,27.08.2010,17:30,Slavia Praha,Sigma Olomouc,1:1
+2010-2011,28.08.2010,16:00,1. FK Příbram,FC Hradec Králové,1:0
+2010-2011,28.08.2010,17:45,Baník Ostrava,FK Teplice,0:1
+2010-2011,29.08.2010,15:00,FK Ústí nad Labem,Bohemians 1905,1:0
+2010-2011,29.08.2010,15:00,Baumit Jablonec,1. FC Slovácko,3:0
+2010-2011,29.08.2010,17:00,FK Mladá Boleslav,Slovan Liberec,3:1
+2010-2011,29.08.2010,17:00,České Budějovice,Viktoria Plzeň,0:3
+2010-2011,30.08.2010,18:00,Zbrojovka Brno,Sparta Praha,0:5
+2010-2011,10.09.2010,18:15,Slovan Liberec,Baník Ostrava,4:1
+2010-2011,11.09.2010,15:30,Sparta Praha,Baumit Jablonec,1:0
+2010-2011,11.09.2010,18:00,1. FC Slovácko,České Budějovice,2:0
+2010-2011,12.09.2010,17:00,FC Hradec Králové,Slavia Praha,0:0
+2010-2011,12.09.2010,17:00,Bohemians 1905,1. FK Příbram,1:0
+2010-2011,12.09.2010,17:00,Viktoria Plzeň,FK Ústí nad Labem,7:0
+2010-2011,12.09.2010,17:00,FK Teplice,Zbrojovka Brno,1:2
+2010-2011,13.09.2010,18:00,Sigma Olomouc,FK Mladá Boleslav,0:0
+2010-2011,17.09.2010,18:15,Baumit Jablonec,Viktoria Plzeň,1:2
+2010-2011,18.09.2010,16:00,1. FK Příbram,1. FC Slovácko,0:1
+2010-2011,18.09.2010,18:00,Baník Ostrava,FC Hradec Králové,1:0
+2010-2011,18.09.2010,18:20,Sigma Olomouc,Slovan Liberec,4:0
+2010-2011,19.09.2010,15:00,FK Ústí nad Labem,České Budějovice,1:1
+2010-2011,19.09.2010,17:00,FK Mladá Boleslav,FK Teplice,3:3
+2010-2011,19.09.2010,17:00,Zbrojovka Brno,Bohemians 1905,1:0
+2010-2011,20.09.2010,18:00,Slavia Praha,Sparta Praha,1:2
+2010-2011,24.09.2010,18:15,1. FC Slovácko,Slavia Praha,3:0
+2010-2011,25.09.2010,16:00,Slovan Liberec,Zbrojovka Brno,3:1
+2010-2011,25.09.2010,17:50,Sparta Praha,FK Mladá Boleslav,1:1
+2010-2011,26.09.2010,17:00,České Budějovice,Baumit Jablonec,2:1
+2010-2011,26.09.2010,17:00,Viktoria Plzeň,1. FK Příbram,2:1
+2010-2011,26.09.2010,17:00,Bohemians 1905,Baník Ostrava,1:1
+2010-2011,26.09.2010,17:00,FC Hradec Králové,FK Ústí nad Labem,3:3
+2010-2011,27.09.2010,18:00,FK Teplice,Sigma Olomouc,1:0
+2010-2011,01.10.2010,19:30,Slavia Praha,Viktoria Plzeň,0:1
+2010-2011,02.10.2010,16:00,1. FK Příbram,České Budějovice,2:0
+2010-2011,02.10.2010,16:15,FK Teplice,Slovan Liberec,1:0
+2010-2011,02.10.2010,18:00,Baník Ostrava,1. FC Slovácko,2:1
+2010-2011,03.10.2010,14:30,Zbrojovka Brno,FC Hradec Králové,1:2
+2010-2011,03.10.2010,17:00,FK Mladá Boleslav,Bohemians 1905,3:2
+2010-2011,03.10.2010,17:00,Baumit Jablonec,FK Ústí nad Labem,2:0
+2010-2011,04.10.2010,18:00,Sigma Olomouc,Sparta Praha,0:1
+2010-2011,15.10.2010,18:15,Bohemians 1905,Slovan Liberec,3:1
+2010-2011,16.10.2010,18:20,Sparta Praha,FK Teplice,0:2
+2010-2011,17.10.2010,15:00,Viktoria Plzeň,Zbrojovka Brno,4:1
+2010-2011,17.10.2010,15:00,Baumit Jablonec,1. FK Příbram,5:1
+2010-2011,17.10.2010,15:00,FC Hradec Králové,FK Mladá Boleslav,0:0
+2010-2011,17.10.2010,17:00,FK Ústí nad Labem,Slavia Praha,1:1
+2010-2011,17.10.2010,17:00,České Budějovice,Baník Ostrava,2:1
+2010-2011,18.10.2010,18:00,1. FC Slovácko,Sigma Olomouc,0:2
+2010-2011,22.10.2010,18:15,FK Teplice,FC Hradec Králové,2:1
+2010-2011,23.10.2010,16:00,1. FK Příbram,FK Ústí nad Labem,0:0
+2010-2011,23.10.2010,18:20,FK Mladá Boleslav,Viktoria Plzeň,4:3
+2010-2011,24.10.2010,14:30,Zbrojovka Brno,1. FC Slovácko,7:0
+2010-2011,24.10.2010,17:00,Baník Ostrava,Baumit Jablonec,1:3
+2010-2011,24.10.2010,17:00,Sigma Olomouc,Bohemians 1905,3:1
+2010-2011,24.10.2010,18:00,Slavia Praha,České Budějovice,4:0
+2010-2011,25.10.2010,18:00,Slovan Liberec,Sparta Praha,1:2
+2010-2011,29.10.2010,18:15,Viktoria Plzeň,FK Teplice,4:2
+2010-2011,30.10.2010,16:00,1. FK Příbram,Slavia Praha,1:1
+2010-2011,30.10.2010,18:20,Bohemians 1905,Sparta Praha,0:1
+2010-2011,31.10.2010,15:00,FK Ústí nad Labem,Baník Ostrava,0:4
+2010-2011,31.10.2010,15:00,České Budějovice,Zbrojovka Brno,1:0
+2010-2011,31.10.2010,15:00,FC Hradec Králové,Sigma Olomouc,1:0
+2010-2011,31.10.2010,17:00,1. FC Slovácko,Slovan Liberec,0:1
+2010-2011,01.11.2010,18:00,Baumit Jablonec,FK Mladá Boleslav,1:1
+2010-2011,05.11.2010,20:15,Slavia Praha,Baumit Jablonec,0:3
+2010-2011,06.11.2010,16:00,Slovan Liberec,FC Hradec Králové,3:0
+2010-2011,06.11.2010,18:20,Baník Ostrava,Viktoria Plzeň,0:2
+2010-2011,07.11.2010,17:00,FK Teplice,Bohemians 1905,0:2
+2010-2011,07.11.2010,17:00,Sigma Olomouc,České Budějovice,5:1
+2010-2011,07.11.2010,17:00,FK Mladá Boleslav,1. FC Slovácko,2:3
+2010-2011,07.11.2010,17:00,Zbrojovka Brno,1. FK Příbram,0:1
+2010-2011,08.11.2010,18:00,Sparta Praha,FK Ústí nad Labem,4:1
+2010-2011,12.11.2010,18:15,Slavia Praha,Baník Ostrava,1:1
+2010-2011,13.11.2010,18:00,1. FC Slovácko,Sparta Praha,0:2
+2010-2011,13.11.2010,18:20,Viktoria Plzeň,Slovan Liberec,1:1
+2010-2011,14.11.2010,15:00,Baumit Jablonec,Sigma Olomouc,3:2
+2010-2011,14.11.2010,15:00,FK Ústí nad Labem,Zbrojovka Brno,2:3
+2010-2011,14.11.2010,15:00,1. FK Příbram,FK Teplice,1:1
+2010-2011,14.11.2010,17:00,Bohemians 1905,FC Hradec Králové,1:0
+2010-2011,15.11.2010,18:00,České Budějovice,FK Mladá Boleslav,1:3
+2010-2011,19.11.2010,18:15,Bohemians 1905,Viktoria Plzeň,1:0
+2010-2011,20.11.2010,16:00,Slovan Liberec,FK Ústí nad Labem,3:0
+2010-2011,20.11.2010,18:20,FK Mladá Boleslav,Slavia Praha,3:1
+2010-2011,21.11.2010,15:00,Sigma Olomouc,1. FK Příbram,3:1
+2010-2011,21.11.2010,15:00,FC Hradec Králové,1. FC Slovácko,0:0
+2010-2011,21.11.2010,16:00,Sparta Praha,České Budějovice,2:0
+2010-2011,22.11.2010,17:00,Zbrojovka Brno,Baník Ostrava,0:2
+2010-2011,22.11.2010,18:00,FK Teplice,Baumit Jablonec,1:2
+2010-2011,25.02.2011,20:15,Slavia Praha,Zbrojovka Brno,1:1
+2010-2011,26.02.2011,16:00,1. FC Slovácko,Bohemians 1905,1:3
+2010-2011,26.02.2011,16:00,1. FK Příbram,FK Mladá Boleslav,0:0
+2010-2011,26.02.2011,17:20,Viktoria Plzeň,FC Hradec Králové,2:1
+2010-2011,27.02.2011,15:00,FK Ústí nad Labem,Sigma Olomouc,0:3
+2010-2011,27.02.2011,15:00,České Budějovice,FK Teplice,2:2
+2010-2011,27.02.2011,17:00,Baumit Jablonec,Slovan Liberec,3:0
+2010-2011,28.02.2011,17:30,Baník Ostrava,Sparta Praha,0:2
+2010-2011,04.03.2011,20:15,Bohemians 1905,Baumit Jablonec,0:1
+2010-2011,05.03.2011,15:00,Slovan Liberec,Slavia Praha,0:2
+2010-2011,05.03.2011,17:20,1. FC Slovácko,Viktoria Plzeň,2:2
+2010-2011,06.03.2011,15:00,FC Hradec Králové,České Budějovice,2:0
+2010-2011,06.03.2011,16:30,FK Mladá Boleslav,Zbrojovka Brno,5:0
+2010-2011,06.03.2011,17:00,FK Teplice,FK Ústí nad Labem,2:1
+2010-2011,06.03.2011,17:00,Sparta Praha,1. FK Příbram,1:0
+2010-2011,07.03.2011,17:30,Sigma Olomouc,Baník Ostrava,2:0
+2010-2011,11.03.2011,20:15,Zbrojovka Brno,Sigma Olomouc,2:0
+2010-2011,12.03.2011,16:00,1. FK Příbram,Slovan Liberec,1:0
+2010-2011,12.03.2011,17:20,Viktoria Plzeň,Sparta Praha,1:0
+2010-2011,13.03.2011,15:00,Baumit Jablonec,FC Hradec Králové,7:0
+2010-2011,13.03.2011,15:00,České Budějovice,Bohemians 1905,1:1
+2010-2011,13.03.2011,15:00,FK Ústí nad Labem,1. FC Slovácko,2:0
+2010-2011,13.03.2011,17:00,Slavia Praha,FK Teplice,4:1
+2010-2011,14.03.2011,17:30,Baník Ostrava,FK Mladá Boleslav,1:0
+2010-2011,18.03.2011,20:15,Viktoria Plzeň,České Budějovice,2:1
+2010-2011,19.03.2011,16:00,Slovan Liberec,FK Mladá Boleslav,4:0
+2010-2011,19.03.2011,16:00,1. FC Slovácko,Baumit Jablonec,1:1
+2010-2011,19.03.2011,17:20,Sparta Praha,Zbrojovka Brno,2:0
+2010-2011,20.03.2011,17:00,FK Teplice,Baník Ostrava,4:0
+2010-2011,20.03.2011,17:00,Sigma Olomouc,Slavia Praha,0:0
+2010-2011,20.03.2011,17:00,Bohemians 1905,FK Ústí nad Labem,1:0
+2010-2011,21.03.2011,17:30,FC Hradec Králové,1. FK Příbram,2:1
+2010-2011,01.04.2011,20:15,FK Mladá Boleslav,Sigma Olomouc,2:0
+2010-2011,02.04.2011,16:00,1. FK Příbram,Bohemians 1905,0:1
+2010-2011,02.04.2011,18:00,Baník Ostrava,Slovan Liberec,0:0
+2010-2011,02.04.2011,18:20,Baumit Jablonec,Sparta Praha,2:1
+2010-2011,03.04.2011,17:00,Zbrojovka Brno,FK Teplice,0:1
+2010-2011,03.04.2011,17:00,České Budějovice,1. FC Slovácko,0:0
+2010-2011,03.04.2011,17:00,FK Ústí nad Labem,Viktoria Plzeň,0:5
+2010-2011,03.04.2011,19:30,Slavia Praha,FC Hradec Králové,0:0
+2010-2011,08.04.2011,20:15,Viktoria Plzeň,Baumit Jablonec,1:1
+2010-2011,09.04.2011,16:00,Slovan Liberec,Sigma Olomouc,3:0
+2010-2011,09.04.2011,18:00,1. FC Slovácko,1. FK Příbram,2:0
+2010-2011,09.04.2011,19:00,FK Teplice,FK Mladá Boleslav,1:2
+2010-2011,10.04.2011,17:00,Bohemians 1905,Zbrojovka Brno,2:1
+2010-2011,10.04.2011,17:00,FC Hradec Králové,Baník Ostrava,2:1
+2010-2011,10.04.2011,17:00,České Budějovice,FK Ústí nad Labem,2:0
+2010-2011,11.04.2011,20:00,Sparta Praha,Slavia Praha,2:0
+2010-2011,15.04.2011,20:15,1. FK Příbram,Viktoria Plzeň,0:3
+2010-2011,16.04.2011,18:20,Baník Ostrava,Bohemians 1905,0:0
+2010-2011,17.04.2011,15:00,FK Ústí nad Labem,FC Hradec Králové,0:2
+2010-2011,17.04.2011,15:00,Baumit Jablonec,České Budějovice,5:0
+2010-2011,17.04.2011,17:00,FK Mladá Boleslav,Sparta Praha,1:2
+2010-2011,17.04.2011,17:00,Zbrojovka Brno,Slovan Liberec,0:1
+2010-2011,17.04.2011,17:00,Sigma Olomouc,FK Teplice,3:0
+2010-2011,18.04.2011,18:30,Slavia Praha,1. FC Slovácko,2:0
+2010-2011,22.04.2011,20:15,Sparta Praha,Sigma Olomouc,2:0
+2010-2011,23.04.2011,16:50,1. FC Slovácko,Baník Ostrava,0:0
+2010-2011,24.04.2011,15:00,FK Ústí nad Labem,Baumit Jablonec,2:1
+2010-2011,24.04.2011,17:00,Bohemians 1905,FK Mladá Boleslav,3:1
+2010-2011,24.04.2011,17:00,FC Hradec Králové,Zbrojovka Brno,1:0
+2010-2011,24.04.2011,17:00,České Budějovice,1. FK Příbram,3:0
+2010-2011,24.04.2011,17:00,Slovan Liberec,FK Teplice,6:2
+2010-2011,25.04.2011,18:30,Viktoria Plzeň,Slavia Praha,2:2
+2010-2011,29.04.2011,20:15,Slovan Liberec,Bohemians 1905,1:0
+2010-2011,30.04.2011,16:00,1. FK Příbram,Baumit Jablonec,1:2
+2010-2011,30.04.2011,17:00,FK Mladá Boleslav,FC Hradec Králové,1:2
+2010-2011,30.04.2011,17:20,Zbrojovka Brno,Viktoria Plzeň,1:1
+2010-2011,30.04.2011,18:00,Baník Ostrava,České Budějovice,3:2
+2010-2011,01.05.2011,17:00,Slavia Praha,FK Ústí nad Labem,3:0
+2010-2011,01.05.2011,17:00,Sigma Olomouc,1. FC Slovácko,0:2
+2010-2011,02.05.2011,19:00,FK Teplice,Sparta Praha,2:2
+2010-2011,06.05.2011,20:15,Sparta Praha,Slovan Liberec,3:2
+2010-2011,07.05.2011,17:20,Viktoria Plzeň,FK Mladá Boleslav,3:1
+2010-2011,07.05.2011,18:00,1. FC Slovácko,Zbrojovka Brno,0:2
+2010-2011,08.05.2011,14:00,FK Ústí nad Labem,1. FK Příbram,0:3
+2010-2011,08.05.2011,14:00,FC Hradec Králové,FK Teplice,0:0
+2010-2011,08.05.2011,14:00,České Budějovice,Slavia Praha,1:1
+2010-2011,08.05.2011,14:00,Bohemians 1905,Sigma Olomouc,2:1
+2010-2011,08.05.2011,20:00,Baumit Jablonec,Baník Ostrava,3:3
+2010-2011,13.05.2011,20:15,Sparta Praha,Bohemians 1905,2:0
+2010-2011,14.05.2011,18:00,Slovan Liberec,1. FC Slovácko,1:0
+2010-2011,14.05.2011,18:00,Baník Ostrava,FK Ústí nad Labem,3:3
+2010-2011,14.05.2011,18:20,FK Teplice,Viktoria Plzeň,0:1
+2010-2011,15.05.2011,17:00,Sigma Olomouc,FC Hradec Králové,2:0
+2010-2011,15.05.2011,17:00,FK Mladá Boleslav,Baumit Jablonec,1:2
+2010-2011,16.05.2011,18:30,Slavia Praha,1. FK Příbram,3:2
+2010-2011,16.05.2011,18:30,Zbrojovka Brno,České Budějovice,1:1
+2010-2011,21.05.2011,17:30,FC Hradec Králové,Slovan Liberec,1:0
+2010-2011,21.05.2011,17:30,Bohemians 1905,FK Teplice,1:1
+2010-2011,21.05.2011,17:30,České Budějovice,Sigma Olomouc,1:0
+2010-2011,21.05.2011,17:30,Viktoria Plzeň,Baník Ostrava,3:1
+2010-2011,21.05.2011,17:30,FK Ústí nad Labem,Sparta Praha,1:3
+2010-2011,21.05.2011,17:30,Baumit Jablonec,Slavia Praha,2:2
+2010-2011,21.05.2011,17:30,1. FC Slovácko,FK Mladá Boleslav,1:2
+2010-2011,21.05.2011,17:30,1. FK Příbram,Zbrojovka Brno,1:0
+2010-2011,28.05.2011,17:30,FK Mladá Boleslav,FK Ústí nad Labem,2:0
+2010-2011,28.05.2011,17:30,Sigma Olomouc,Viktoria Plzeň,2:1
+2010-2011,28.05.2011,17:30,FK Teplice,1. FC Slovácko,1:1
+2010-2011,28.05.2011,17:30,Slavia Praha,Bohemians 1905,3:0
+2010-2011,28.05.2011,17:30,Baník Ostrava,1. FK Příbram,0:2
+2010-2011,28.05.2011,17:30,Sparta Praha,FC Hradec Králové,3:1
+2010-2011,28.05.2011,17:30,Slovan Liberec,České Budějovice,3:3
+2010-2011,28.05.2011,17:30,Zbrojovka Brno,Baumit Jablonec,3:4
+2011-2012,29.07.2011,18:00,Dukla Praha,Sigma Olomouc,0:0
+2011-2012,29.07.2011,20:15,Bohemians 1905,Slavia Praha,2:0
+2011-2012,30.07.2011,17:00,Baník Ostrava,FK Teplice,3:4
+2011-2012,30.07.2011,17:30,Viktoria Plzeň,Slovan Liberec,2:2
+2011-2012,30.07.2011,19:00,1. FC Slovácko,1. FK Příbram,2:3
+2011-2012,31.07.2011,17:00,České Budějovice,Sparta Praha,2:4
+2011-2012,31.07.2011,17:00,FC Hradec Králové,Viktoria Žižkov,1:0
+2011-2012,01.08.2011,16:45,Baumit Jablonec,FK Mladá Boleslav,0:0
+2011-2012,05.08.2011,18:00,Dukla Praha,České Budějovice,4:2
+2011-2012,05.08.2011,20:15,FK Teplice,FC Hradec Králové,0:3
+2011-2012,06.08.2011,16:00,1. FK Příbram,Viktoria Žižkov,2:1
+2011-2012,06.08.2011,18:00,Sigma Olomouc,Baník Ostrava,3:0
+2011-2012,06.08.2011,18:00,Slovan Liberec,Slavia Praha,2:1
+2011-2012,07.08.2011,17:00,FK Mladá Boleslav,1. FC Slovácko,1:0
+2011-2012,07.08.2011,17:00,Bohemians 1905,Viktoria Plzeň,2:1
+2011-2012,07.08.2011,19:30,Sparta Praha,Baumit Jablonec,2:1
+2011-2012,12.08.2011,18:00,Viktoria Plzeň,FK Teplice,2:0
+2011-2012,12.08.2011,20:15,Viktoria Žižkov,Dukla Praha,1:0
+2011-2012,13.08.2011,18:20,Baník Ostrava,FK Mladá Boleslav,1:4
+2011-2012,14.08.2011,17:00,České Budějovice,Sigma Olomouc,1:2
+2011-2012,14.08.2011,17:00,Slavia Praha,1. FK Příbram,3:1
+2011-2012,14.08.2011,17:00,FC Hradec Králové,Slovan Liberec,0:3
+2011-2012,14.08.2011,17:00,1. FC Slovácko,Sparta Praha,0:2
+2011-2012,15.08.2011,18:30,Baumit Jablonec,Bohemians 1905,5:0
+2011-2012,19.08.2011,20:15,Baumit Jablonec,Baník Ostrava,4:0
+2011-2012,20.08.2011,16:00,1. FK Příbram,Slovan Liberec,2:3
+2011-2012,20.08.2011,18:20,Dukla Praha,Viktoria Plzeň,2:4
+2011-2012,21.08.2011,17:00,Sparta Praha,FC Hradec Králové,1:0
+2011-2012,21.08.2011,17:00,Sigma Olomouc,1. FC Slovácko,1:1
+2011-2012,21.08.2011,17:00,FK Mladá Boleslav,Viktoria Žižkov,2:0
+2011-2012,21.08.2011,17:00,Bohemians 1905,České Budějovice,2:1
+2011-2012,22.08.2011,18:30,FK Teplice,Slavia Praha,0:0
+2011-2012,26.08.2011,20:15,Slavia Praha,FK Mladá Boleslav,1:1
+2011-2012,27.08.2011,17:00,Baník Ostrava,Bohemians 1905,0:1
+2011-2012,27.08.2011,19:00,1. FC Slovácko,Dukla Praha,1:0
+2011-2012,27.08.2011,19:20,Slovan Liberec,FK Teplice,0:2
+2011-2012,28.08.2011,17:00,Viktoria Žižkov,Sigma Olomouc,2:2
+2011-2012,28.08.2011,17:00,České Budějovice,Baumit Jablonec,1:5
+2011-2012,28.08.2011,17:00,FC Hradec Králové,1. FK Příbram,0:1
+2011-2012,29.08.2011,18:30,Viktoria Plzeň,Sparta Praha,0:2
+2011-2012,09.09.2011,18:00,Dukla Praha,FC Hradec Králové,4:0
+2011-2012,09.09.2011,20:15,Sigma Olomouc,Viktoria Plzeň,2:3
+2011-2012,10.09.2011,17:00,Bohemians 1905,1. FC Slovácko,1:1
+2011-2012,10.09.2011,20:15,FK Mladá Boleslav,Slovan Liberec,1:4
+2011-2012,11.09.2011,17:00,FK Teplice,1. FK Příbram,2:1
+2011-2012,11.09.2011,17:00,České Budějovice,Baník Ostrava,0:0
+2011-2012,11.09.2011,17:00,Baumit Jablonec,Slavia Praha,4:0
+2011-2012,12.09.2011,20:15,Sparta Praha,Viktoria Žižkov,4:1
+2011-2012,16.09.2011,20:15,Slavia Praha,Dukla Praha,0:0
+2011-2012,17.09.2011,18:00,Slovan Liberec,Sigma Olomouc,1:1
+2011-2012,17.09.2011,19:00,1. FC Slovácko,České Budějovice,2:0
+2011-2012,17.09.2011,20:15,Viktoria Plzeň,Baumit Jablonec,4:2
+2011-2012,18.09.2011,10:15,Viktoria Žižkov,FK Teplice,0:1
+2011-2012,18.09.2011,17:00,1. FK Příbram,FK Mladá Boleslav,2:0
+2011-2012,18.09.2011,17:00,FC Hradec Králové,Bohemians 1905,2:0
+2011-2012,19.09.2011,18:30,Baník Ostrava,Sparta Praha,0:2
+2011-2012,23.09.2011,18:00,Dukla Praha,1. FK Příbram,2:1
+2011-2012,23.09.2011,20:15,České Budějovice,Viktoria Plzeň,0:0
+2011-2012,24.09.2011,16:35,Sigma Olomouc,FK Teplice,1:0
+2011-2012,24.09.2011,17:00,Baník Ostrava,1. FC Slovácko,0:1
+2011-2012,25.09.2011,15:00,Baumit Jablonec,Viktoria Žižkov,3:1
+2011-2012,25.09.2011,16:00,FK Mladá Boleslav,FC Hradec Králové,1:1
+2011-2012,25.09.2011,17:00,Bohemians 1905,Slovan Liberec,1:1
+2011-2012,26.09.2011,19:30,Sparta Praha,Slavia Praha,3:0
+2011-2012,01.10.2011,17:20,1. FK Příbram,Sparta Praha,0:3
+2011-2012,01.10.2011,18:00,Slovan Liberec,Dukla Praha,1:2
+2011-2012,01.10.2011,19:30,Viktoria Žižkov,Bohemians 1905,0:1
+2011-2012,02.10.2011,15:00,Slavia Praha,Sigma Olomouc,1:0
+2011-2012,02.10.2011,17:00,Viktoria Plzeň,Baník Ostrava,1:1
+2011-2012,02.10.2011,17:00,FK Teplice,FK Mladá Boleslav,1:3
+2011-2012,02.10.2011,17:00,FC Hradec Králové,České Budějovice,0:0
+2011-2012,03.10.2011,18:30,1. FC Slovácko,Baumit Jablonec,1:0
+2011-2012,14.10.2011,20:15,1. FC Slovácko,Viktoria Plzeň,1:3
+2011-2012,15.10.2011,16:00,Baník Ostrava,FC Hradec Králové,1:0
+2011-2012,15.10.2011,18:20,Sparta Praha,Slovan Liberec,0:3
+2011-2012,16.10.2011,15:00,Baumit Jablonec,1. FK Příbram,5:1
+2011-2012,16.10.2011,15:00,České Budějovice,FK Teplice,1:1
+2011-2012,16.10.2011,17:00,Sigma Olomouc,FK Mladá Boleslav,1:1
+2011-2012,16.10.2011,17:00,Bohemians 1905,Dukla Praha,0:0
+2011-2012,17.10.2011,18:30,Viktoria Žižkov,Slavia Praha,1:0
+2011-2012,21.10.2011,20:15,Slovan Liberec,Baník Ostrava,3:2
+2011-2012,22.10.2011,16:00,1. FK Příbram,Sigma Olomouc,4:1
+2011-2012,22.10.2011,18:20,Dukla Praha,Baumit Jablonec,1:3
+2011-2012,23.10.2011,15:00,FC Hradec Králové,1. FC Slovácko,0:1
+2011-2012,23.10.2011,15:00,Slavia Praha,České Budějovice,2:0
+2011-2012,23.10.2011,17:00,FK Mladá Boleslav,Bohemians 1905,2:0
+2011-2012,23.10.2011,17:00,Viktoria Plzeň,Viktoria Žižkov,4:1
+2011-2012,24.10.2011,18:30,FK Teplice,Sparta Praha,0:1
+2011-2012,28.10.2011,18:00,Bohemians 1905,Sigma Olomouc,1:1
+2011-2012,28.10.2011,20:15,Viktoria Plzeň,FC Hradec Králové,5:0
+2011-2012,29.10.2011,16:00,Baník Ostrava,Dukla Praha,1:2
+2011-2012,29.10.2011,18:20,Sparta Praha,FK Mladá Boleslav,0:3
+2011-2012,30.10.2011,10:15,Viktoria Žižkov,Slovan Liberec,1:4
+2011-2012,30.10.2011,15:00,České Budějovice,1. FK Příbram,4:1
+2011-2012,30.10.2011,17:00,1. FC Slovácko,Slavia Praha,1:3
+2011-2012,31.10.2011,18:30,Baumit Jablonec,FK Teplice,0:1
+2011-2012,04.11.2011,20:15,FC Hradec Králové,Baumit Jablonec,0:0
+2011-2012,05.11.2011,16:00,Slovan Liberec,České Budějovice,4:0
+2011-2012,05.11.2011,16:00,1. FK Příbram,Bohemians 1905,3:0
+2011-2012,05.11.2011,18:40,Sigma Olomouc,Sparta Praha,0:1
+2011-2012,06.11.2011,17:00,FK Mladá Boleslav,Dukla Praha,3:1
+2011-2012,06.11.2011,17:00,FK Teplice,1. FC Slovácko,2:1
+2011-2012,06.11.2011,17:00,Slavia Praha,Viktoria Plzeň,2:1
+2011-2012,07.11.2011,18:30,Viktoria Žižkov,Baník Ostrava,0:3
+2011-2012,18.11.2011,20:15,Baumit Jablonec,Sigma Olomouc,2:0
+2011-2012,19.11.2011,14:00,Dukla Praha,FK Teplice,0:0
+2011-2012,19.11.2011,17:00,1. FC Slovácko,Slovan Liberec,1:2
+2011-2012,19.11.2011,18:20,Viktoria Plzeň,FK Mladá Boleslav,3:2
+2011-2012,20.11.2011,15:00,FC Hradec Králové,Slavia Praha,1:1
+2011-2012,20.11.2011,15:00,České Budějovice,Viktoria Žižkov,1:0
+2011-2012,20.11.2011,17:00,Baník Ostrava,1. FK Příbram,0:2
+2011-2012,21.11.2011,18:30,Bohemians 1905,Sparta Praha,0:4
+2011-2012,25.11.2011,20:15,Sparta Praha,Dukla Praha,0:0
+2011-2012,26.11.2011,17:45,Slovan Liberec,Baumit Jablonec,2:2
+2011-2012,27.11.2011,10:15,Viktoria Žižkov,1. FC Slovácko,0:1
+2011-2012,27.11.2011,14:30,FK Teplice,Bohemians 1905,2:0
+2011-2012,27.11.2011,16:00,FK Mladá Boleslav,České Budějovice,3:1
+2011-2012,27.11.2011,17:00,1. FK Příbram,Viktoria Plzeň,2:1
+2011-2012,27.11.2011,17:00,Sigma Olomouc,FC Hradec Králové,0:2
+2011-2012,28.11.2011,18:30,Slavia Praha,Baník Ostrava,0:0
+2011-2012,02.12.2011,20:15,Viktoria Plzeň,Bohemians 1905,4:1
+2011-2012,03.12.2011,16:00,Slavia Praha,Slovan Liberec,1:3
+2011-2012,03.12.2011,16:00,Baník Ostrava,Sigma Olomouc,0:0
+2011-2012,03.12.2011,19:20,Baumit Jablonec,Sparta Praha,2:4
+2011-2012,04.12.2011,10:15,Viktoria Žižkov,1. FK Příbram,1:2
+2011-2012,04.12.2011,15:00,České Budějovice,Dukla Praha,3:2
+2011-2012,04.12.2011,17:00,FC Hradec Králové,FK Teplice,3:2
+2011-2012,05.12.2011,18:30,1. FC Slovácko,FK Mladá Boleslav,1:0
+2011-2012,17.02.2012,20:15,Dukla Praha,Viktoria Žižkov,3:0
+2011-2012,18.02.2012,14:00,1. FK Příbram,Slavia Praha,0:0
+2011-2012,18.02.2012,16:00,Slovan Liberec,FC Hradec Králové,3:1
+2011-2012,18.02.2012,18:20,Sparta Praha,1. FC Slovácko,1:0
+2011-2012,19.02.2012,15:00,FK Mladá Boleslav,Baník Ostrava,2:1
+2011-2012,19.02.2012,17:00,Bohemians 1905,Baumit Jablonec,1:2
+2011-2012,19.02.2012,17:00,FK Teplice,Viktoria Plzeň,3:4
+2011-2012,20.02.2012,18:00,Sigma Olomouc,České Budějovice,0:0
+2011-2012,24.02.2012,20:15,FC Hradec Králové,Sparta Praha,1:0
+2011-2012,25.02.2012,16:00,Baník Ostrava,Baumit Jablonec,2:2
+2011-2012,25.02.2012,17:00,1. FC Slovácko,Sigma Olomouc,0:1
+2011-2012,25.02.2012,18:50,Slovan Liberec,1. FK Příbram,2:0
+2011-2012,26.02.2012,10:15,Viktoria Žižkov,FK Mladá Boleslav,1:2
+2011-2012,26.02.2012,15:00,České Budějovice,Bohemians 1905,3:1
+2011-2012,26.02.2012,17:00,Viktoria Plzeň,Dukla Praha,1:1
+2011-2012,27.02.2012,18:00,Slavia Praha,FK Teplice,0:0
+2011-2012,02.03.2012,18:00,Dukla Praha,1. FC Slovácko,2:0
+2011-2012,02.03.2012,20:15,FK Teplice,Slovan Liberec,1:0
+2011-2012,03.03.2012,15:00,1. FK Příbram,FC Hradec Králové,0:0
+2011-2012,03.03.2012,18:20,Sparta Praha,Viktoria Plzeň,1:3
+2011-2012,04.03.2012,15:00,Baumit Jablonec,České Budějovice,1:1
+2011-2012,04.03.2012,17:00,FK Mladá Boleslav,Slavia Praha,3:2
+2011-2012,04.03.2012,17:00,Sigma Olomouc,Viktoria Žižkov,2:1
+2011-2012,05.03.2012,18:00,Bohemians 1905,Baník Ostrava,0:1
+2011-2012,09.03.2012,20:15,Viktoria Žižkov,Sparta Praha,0:2
+2011-2012,10.03.2012,16:00,Baník Ostrava,České Budějovice,1:1
+2011-2012,10.03.2012,17:00,1. FC Slovácko,Bohemians 1905,3:2
+2011-2012,10.03.2012,19:30,Slovan Liberec,FK Mladá Boleslav,2:1
+2011-2012,11.03.2012,15:00,FC Hradec Králové,Dukla Praha,0:2
+2011-2012,11.03.2012,15:00,Viktoria Plzeň,Sigma Olomouc,0:4
+2011-2012,11.03.2012,17:00,Slavia Praha,Baumit Jablonec,0:0
+2011-2012,12.03.2012,18:00,1. FK Příbram,FK Teplice,0:0
+2011-2012,16.03.2012,20:15,Sparta Praha,Baník Ostrava,2:0
+2011-2012,17.03.2012,15:50,Baumit Jablonec,Viktoria Plzeň,0:2
+2011-2012,17.03.2012,16:00,Sigma Olomouc,Slovan Liberec,2:4
+2011-2012,17.03.2012,17:30,FK Teplice,Viktoria Žižkov,0:0
+2011-2012,18.03.2012,15:00,České Budějovice,1. FC Slovácko,2:2
+2011-2012,18.03.2012,16:00,FK Mladá Boleslav,1. FK Příbram,2:2
+2011-2012,18.03.2012,17:00,Bohemians 1905,FC Hradec Králové,0:0
+2011-2012,19.03.2012,17:00,Dukla Praha,Slavia Praha,0:0
+2011-2012,23.03.2012,20:15,1. FK Příbram,Dukla Praha,2:2
+2011-2012,24.03.2012,15:50,Slavia Praha,Sparta Praha,1:1
+2011-2012,24.03.2012,16:00,Slovan Liberec,Bohemians 1905,3:0
+2011-2012,24.03.2012,18:30,1. FC Slovácko,Baník Ostrava,1:0
+2011-2012,25.03.2012,17:00,FK Teplice,Sigma Olomouc,3:1
+2011-2012,25.03.2012,17:00,Viktoria Žižkov,Baumit Jablonec,4:2
+2011-2012,25.03.2012,17:00,FC Hradec Králové,FK Mladá Boleslav,2:0
+2011-2012,26.03.2012,16:30,Viktoria Plzeň,České Budějovice,4:0
+2011-2012,30.03.2012,20:15,Bohemians 1905,Viktoria Žižkov,1:2
+2011-2012,01.04.2012,15:00,Baumit Jablonec,1. FC Slovácko,1:0
+2011-2012,01.04.2012,16:00,FK Mladá Boleslav,FK Teplice,0:1
+2011-2012,01.04.2012,17:00,České Budějovice,FC Hradec Králové,1:0
+2011-2012,01.04.2012,17:00,Sigma Olomouc,Slavia Praha,1:0
+2011-2012,01.04.2012,17:00,Sparta Praha,1. FK Příbram,0:2
+2011-2012,01.04.2012,20:15,Dukla Praha,Slovan Liberec,1:2
+2011-2012,02.04.2012,17:00,Baník Ostrava,Viktoria Plzeň,2:3
+2011-2012,06.04.2012,18:00,FK Teplice,České Budějovice,0:1
+2011-2012,06.04.2012,18:00,Dukla Praha,Bohemians 1905,2:0
+2011-2012,06.04.2012,20:15,FK Mladá Boleslav,Sigma Olomouc,2:3
+2011-2012,07.04.2012,16:00,1. FK Příbram,Baumit Jablonec,4:3
+2011-2012,07.04.2012,19:00,Slovan Liberec,Sparta Praha,1:3
+2011-2012,08.04.2012,17:00,FC Hradec Králové,Baník Ostrava,0:1
+2011-2012,08.04.2012,17:00,Viktoria Plzeň,1. FC Slovácko,1:0
+2011-2012,09.04.2012,20:15,Slavia Praha,Viktoria Žižkov,2:0
+2011-2012,13.04.2012,20:15,České Budějovice,Slavia Praha,1:0
+2011-2012,14.04.2012,15:50,Sparta Praha,FK Teplice,2:2
+2011-2012,14.04.2012,19:00,1. FC Slovácko,FC Hradec Králové,0:3
+2011-2012,15.04.2012,15:00,Baumit Jablonec,Dukla Praha,0:2
+2011-2012,15.04.2012,17:00,Viktoria Žižkov,Viktoria Plzeň,0:0
+2011-2012,15.04.2012,17:00,Sigma Olomouc,1. FK Příbram,4:4
+2011-2012,15.04.2012,17:00,Bohemians 1905,FK Mladá Boleslav,0:3
+2011-2012,16.04.2012,19:00,Baník Ostrava,Slovan Liberec,1:3
+2011-2012,20.04.2012,18:00,Dukla Praha,Baník Ostrava,4:1
+2011-2012,20.04.2012,20:15,Slovan Liberec,Viktoria Žižkov,4:0
+2011-2012,21.04.2012,16:00,1. FK Příbram,České Budějovice,1:2
+2011-2012,22.04.2012,17:00,Slavia Praha,1. FC Slovácko,0:1
+2011-2012,22.04.2012,17:00,FC Hradec Králové,Viktoria Plzeň,0:1
+2011-2012,22.04.2012,17:00,FK Teplice,Baumit Jablonec,3:2
+2011-2012,22.04.2012,19:15,FK Mladá Boleslav,Sparta Praha,2:0
+2011-2012,23.04.2012,18:00,Sigma Olomouc,Bohemians 1905,4:0
+2011-2012,27.04.2012,20:15,Sparta Praha,Sigma Olomouc,1:0
+2011-2012,28.04.2012,16:45,České Budějovice,Slovan Liberec,0:4
+2011-2012,28.04.2012,17:00,Baník Ostrava,Viktoria Žižkov,3:1
+2011-2012,28.04.2012,19:00,1. FC Slovácko,FK Teplice,0:0
+2011-2012,29.04.2012,15:00,Baumit Jablonec,FC Hradec Králové,2:0
+2011-2012,29.04.2012,17:00,Dukla Praha,FK Mladá Boleslav,1:2
+2011-2012,29.04.2012,17:00,Bohemians 1905,1. FK Příbram,2:0
+2011-2012,30.04.2012,18:00,Viktoria Plzeň,Slavia Praha,3:0
+2011-2012,03.05.2012,18:30,Slavia Praha,FC Hradec Králové,5:0
+2011-2012,04.05.2012,20:15,Slovan Liberec,1. FC Slovácko,0:0
+2011-2012,05.05.2012,15:20,1. FK Příbram,Baník Ostrava,1:2
+2011-2012,06.05.2012,10:15,Viktoria Žižkov,České Budějovice,2:0
+2011-2012,06.05.2012,17:00,Sigma Olomouc,Baumit Jablonec,1:1
+2011-2012,06.05.2012,17:00,FK Mladá Boleslav,Viktoria Plzeň,0:1
+2011-2012,06.05.2012,17:00,FK Teplice,Dukla Praha,4:0
+2011-2012,06.05.2012,19:15,Sparta Praha,Bohemians 1905,1:0
+2011-2012,09.05.2012,18:00,FC Hradec Králové,Sigma Olomouc,1:2
+2011-2012,09.05.2012,18:00,Viktoria Plzeň,1. FK Příbram,5:0
+2011-2012,09.05.2012,18:00,1. FC Slovácko,Viktoria Žižkov,2:1
+2011-2012,09.05.2012,18:00,Baník Ostrava,Slavia Praha,3:0
+2011-2012,09.05.2012,18:00,České Budějovice,FK Mladá Boleslav,1:0
+2011-2012,09.05.2012,18:00,Baumit Jablonec,Slovan Liberec,0:2
+2011-2012,09.05.2012,18:00,Dukla Praha,Sparta Praha,1:1
+2011-2012,09.05.2012,18:00,Bohemians 1905,FK Teplice,0:0
+2011-2012,12.05.2012,17:30,Sigma Olomouc,Dukla Praha,2:1
+2011-2012,12.05.2012,17:30,FK Mladá Boleslav,Baumit Jablonec,3:0
+2011-2012,12.05.2012,17:30,FK Teplice,Baník Ostrava,1:1
+2011-2012,12.05.2012,17:30,1. FK Příbram,1. FC Slovácko,0:4
+2011-2012,12.05.2012,17:30,Slovan Liberec,Viktoria Plzeň,0:0
+2011-2012,12.05.2012,17:30,Viktoria Žižkov,FC Hradec Králové,1:1
+2011-2012,12.05.2012,17:30,Slavia Praha,Bohemians 1905,3:1
+2011-2012,12.05.2012,17:30,Sparta Praha,České Budějovice,3:0
